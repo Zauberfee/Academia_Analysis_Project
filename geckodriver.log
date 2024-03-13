@@ -1,0 +1,319 @@
+1710350254699	geckodriver	INFO	Listening on 127.0.0.1:51469
+1710350254948	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y3/hkwhgtbj1z31vjtr5ty2f5ww0000gn/T/rust_mozprofilexfPXRL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710350256913	Marionette	INFO	Marionette enabled
+1710350257756	Marionette	INFO	Listening on port 51474
+1710350258013	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2024-03-13 18:17:38.968 plugin-container[37753:1356100] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-13 18:17:38.968 plugin-container[37753:1356100] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-13 18:17:38.984 plugin-container[37753:1356100] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-13 18:17:38.984 plugin-container[37753:1356100] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-13 18:17:38.985 plugin-container[37753:1356103] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-13 18:17:38.985 plugin-container[37753:1356103] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-13 17:17:42.435 plugin-container[37767:1356396] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-13 17:17:42.436 plugin-container[37767:1356396] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-13 17:17:42.451 plugin-container[37767:1356396] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-13 17:17:42.452 plugin-container[37767:1356396] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-13 17:17:42.453 plugin-container[37767:1356465] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-13 17:17:42.453 plugin-container[37767:1356465] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3770: TypeError: this._windows[aWindow.__SSi] is undefined
+1710350287135	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1710350433070	geckodriver	INFO	Listening on 127.0.0.1:51562
+1710350434088	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y3/hkwhgtbj1z31vjtr5ty2f5ww0000gn/T/rust_mozprofileYcpCmE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710350435571	Marionette	INFO	Marionette enabled
+1710350435931	Marionette	INFO	Listening on port 51569
+1710350436133	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2024-03-13 18:20:36.325 plugin-container[37814:1358335] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-13 18:20:36.326 plugin-container[37814:1358335] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-13 18:20:36.341 plugin-container[37814:1358335] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-13 18:20:36.341 plugin-container[37814:1358335] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-13 18:20:36.342 plugin-container[37814:1358354] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-13 18:20:36.342 plugin-container[37814:1358354] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-13 17:20:39.242 plugin-container[37818:1358610] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-13 17:20:39.243 plugin-container[37818:1358610] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-13 17:20:39.251 plugin-container[37818:1358610] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-13 17:20:39.252 plugin-container[37818:1358610] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-13 17:20:39.256 plugin-container[37818:1358622] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-13 17:20:39.256 plugin-container[37818:1358622] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1710350462860	geckodriver	INFO	Listening on 127.0.0.1:51627
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1710350535192	geckodriver	INFO	Listening on 127.0.0.1:51639
+1710350536212	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y3/hkwhgtbj1z31vjtr5ty2f5ww0000gn/T/rust_mozprofilectYjn7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710350537747	Marionette	INFO	Marionette enabled
+1710350538230	Marionette	INFO	Listening on port 51646
+1710350538426	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2024-03-13 18:22:18.780 plugin-container[37857:1359854] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-13 18:22:18.780 plugin-container[37857:1359854] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-13 18:22:18.874 plugin-container[37857:1359854] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-13 18:22:18.874 plugin-container[37857:1359854] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-13 18:22:18.875 plugin-container[37857:1359857] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-13 18:22:18.875 plugin-container[37857:1359857] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-13 17:22:22.675 plugin-container[37861:1360061] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-13 17:22:22.676 plugin-container[37861:1360061] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-13 17:22:22.682 plugin-container[37861:1360061] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-13 17:22:22.682 plugin-container[37861:1360061] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-13 17:22:22.683 plugin-container[37861:1360080] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-13 17:22:22.683 plugin-container[37861:1360080] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1710350570580	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://scholar.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://scholar.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://scholar.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://scholar.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://scholar.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://scholar.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://scholar.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://scholar.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://scholar.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://scholar.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://scholar.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://scholar.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://scholar.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://scholar.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://scholar.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://scholar.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://scholar.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://scholar.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://scholar.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://scholar.google.com."
+JavaScript warning: https://scholar.google.com/scholar?q=*&hl=de&as_sdt=0%2C5&as_ylo=2000&as_yhi=2000, line 90: Script terminated by timeout at:
+Nf@https://scholar.google.com/scholar?q=*&hl=de&as_sdt=0%2C5&as_ylo=2000&as_yhi=2000:90:25
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1710353933916	geckodriver	INFO	Listening on 127.0.0.1:52347
+1710353933942	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y3/hkwhgtbj1z31vjtr5ty2f5ww0000gn/T/rust_mozprofileTQ76Da"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710353935559	Marionette	INFO	Marionette enabled
+1710353935875	Marionette	INFO	Listening on port 52352
+1710353936003	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2024-03-13 19:18:56.827 plugin-container[40392:1388408] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-13 19:18:56.828 plugin-container[40392:1388408] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-13 19:18:56.908 plugin-container[40392:1388408] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-13 19:18:56.909 plugin-container[40392:1388408] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-13 19:18:56.909 plugin-container[40392:1388420] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-13 19:18:56.909 plugin-container[40392:1388420] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-13 18:19:00.138 plugin-container[40397:1388609] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-13 18:19:00.139 plugin-container[40397:1388609] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-13 18:19:00.278 plugin-container[40397:1388609] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-13 18:19:00.278 plugin-container[40397:1388609] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-13 18:19:00.279 plugin-container[40397:1388621] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-13 18:19:00.279 plugin-container[40397:1388621] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1710353968344	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/O8T1Km08OhS5_Tz58jKeajrFynp-IyfJlJwKv1268Sc.js line 2 > eval line 6230 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Unable to find target with innerWindowId:8589934599"
+console.error: "Unable to find target with innerWindowId:8589934599"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+Handler function threw an exception: Error: Got notified about channel 86760486862888 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:279:13
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:699:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:354:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 279, column: 13
+console.error: (new Error("Got notified about channel 86760486862888 more than once.", "resource://devtools/server/actors/resources/network-events.js", 279))
+Handler function threw an exception: Error: Got notified about channel 86760486862889 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:279:13
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:699:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:354:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 279, column: 13
+console.error: (new Error("Got notified about channel 86760486862889 more than once.", "resource://devtools/server/actors/resources/network-events.js", 279))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal12884901889/layout63, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:299:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:173:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:450:35\n", "resource://devtools/shared/protocol/Front.js", 105))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal12884901889/pagestyle26, type getLayout failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:299:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:183:36\nupdateBoxModel@resource://devtools/client/inspector/boxmodel/box-model.js:223:18\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\nonReflowInSelection@resource://devtools/client/inspector/inspector.js:1614:10\n_notifyWatchers@resource://devtools/shared/commands/resource/resource-command.js:877:24\nwatchResources@resource://devtools/shared/commands/resource/resource-command.js:227:10\n", "resource://devtools/shared/protocol/Front.js", 105))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal12884901889/pagestyle26, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:299:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetApplied@resource://devtools/client/fronts/page-style.js:61:29\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:187:44\n", "resource://devtools/shared/protocol/Front.js", 105))
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal12884901897/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:299:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getWalker@resource://devtools/client/fronts/inspector.js:84:30\ninitialize@resource://devtools/client/fronts/inspector.js:73:12\n", "resource://devtools/shared/protocol/Front.js", 105))
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal12884901899/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:299:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getWalker@resource://devtools/client/fronts/inspector.js:84:30\ninitialize@resource://devtools/client/fronts/inspector.js:73:12\n", "resource://devtools/shared/protocol/Front.js", 105))
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal12884901889/domwalker25, type getEmbedderElement failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:299:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nreparentRemoteFrame@resource://devtools/client/fronts/walker.js:405:26\n", "resource://devtools/shared/protocol/Front.js", 105))
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal12884901889/domwalker25, type getEmbedderElement failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:299:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nreparentRemoteFrame@resource://devtools/client/fronts/walker.js:405:26\n", "resource://devtools/shared/protocol/Front.js", 105))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal12884901897/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:299:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getWalker@resource://devtools/client/fronts/inspector.js:84:30\ninitialize@resource://devtools/client/fronts/inspector.js:73:12\n", "resource://devtools/shared/protocol/Front.js", 105))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal12884901899/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:299:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getWalker@resource://devtools/client/fronts/inspector.js:84:30\ninitialize@resource://devtools/client/fronts/inspector.js:73:12\n", "resource://devtools/shared/protocol/Front.js", 105))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal12884901889/domwalker25, type getEmbedderElement failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:299:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nreparentRemoteFrame@resource://devtools/client/fronts/walker.js:405:26\n", "resource://devtools/shared/protocol/Front.js", 105))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal12884901889/domwalker25, type getEmbedderElement failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:299:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nreparentRemoteFrame@resource://devtools/client/fronts/walker.js:405:26\n", "resource://devtools/shared/protocol/Front.js", 105))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 105: Error: Connection closed, pending request to server0.conn0.windowGlobal12884901897/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:299:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+_getWalker@resource://devtools/client/fronts/inspector.js:84:30
+initialize@resource://devtools/client/fronts/inspector.js:73:12
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 105: Error: Connection closed, pending request to server0.conn0.windowGlobal12884901899/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:299:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+_getWalker@resource://devtools/client/fronts/inspector.js:84:30
+initialize@resource://devtools/client/fronts/inspector.js:73:12
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 105: Error: Connection closed, pending request to server0.conn0.windowGlobal12884901889/domwalker25, type getEmbedderElement failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:299:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+reparentRemoteFrame@resource://devtools/client/fronts/walker.js:405:26
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 105: Error: Connection closed, pending request to server0.conn0.windowGlobal12884901889/domwalker25, type getEmbedderElement failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:299:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+reparentRemoteFrame@resource://devtools/client/fronts/walker.js:405:26
+
+console.error: "Unable to find target with innerWindowId:12884901889"
+console.error: "Unable to find target with innerWindowId:12884901889"
+console.error: "Unable to find target with innerWindowId:12884901899"
+console.error: "Unable to find target with innerWindowId:12884901897"
+console.error: "Unable to find target with innerWindowId:12884901889"
+console.error: "Unable to find target with innerWindowId:12884901899"
+console.error: "Unable to find target with innerWindowId:12884901899"
+console.error: "Unable to find target with innerWindowId:12884901899"
+console.error: "Unable to find target with innerWindowId:12884901897"
+console.error: "Unable to find target with innerWindowId:12884901897"
+console.error: "Unable to find target with innerWindowId:12884901897"
+console.error: "Unable to find target with innerWindowId:12884901897"
+console.error: "Unable to find target with innerWindowId:12884901899"
+console.error: "Unable to find target with innerWindowId:12884901899"
+console.error: "Unable to find target with innerWindowId:12884901897"
+console.error: "Unable to find target with innerWindowId:12884901899"
+console.error: "Unable to find target with innerWindowId:12884901897"
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:89:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:699:46
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:748:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:619:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 89, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 89))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:89:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:699:46
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:748:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:619:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 89, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 89))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #sendRequestBody@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1397:7
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:533:30
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:649:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1397, column: 7
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1397))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:89:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:699:46
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:748:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:619:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 89, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 89))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #sendRequestBody@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1397:7
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:533:30
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:649:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1397, column: 7
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1397))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #sendRequestBody@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1397:7
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:533:30
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:649:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1397, column: 7
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1397))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:89:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:699:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:354:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 89, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 89))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:89:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:699:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:354:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 89, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 89))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:89:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:699:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:354:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 89, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 89))
+console.error: "Unable to find target with innerWindowId:6442450945"
+1710356840641	geckodriver	INFO	Listening on 127.0.0.1:53645
+1710356840671	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y3/hkwhgtbj1z31vjtr5ty2f5ww0000gn/T/rust_mozprofilesSDY0E"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710356843898	Marionette	INFO	Marionette enabled
+1710356844430	Marionette	INFO	Listening on port 53650
+1710356844667	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2024-03-13 20:07:28.763 plugin-container[42008:1411954] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-13 20:07:28.804 plugin-container[42008:1411954] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-13 20:07:29.981 plugin-container[42008:1411954] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-13 20:07:29.981 plugin-container[42008:1411954] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-13 20:07:29.986 plugin-container[42008:1411959] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-13 20:07:29.986 plugin-container[42008:1411959] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-13 19:07:32.258 plugin-container[42012:1412125] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-13 19:07:32.259 plugin-container[42012:1412125] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-13 19:07:32.268 plugin-container[42012:1412125] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-13 19:07:32.268 plugin-container[42012:1412125] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-13 19:07:32.269 plugin-container[42012:1412186] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-13 19:07:32.269 plugin-container[42012:1412186] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1710356876803	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
