@@ -1,0 +1,971 @@
+Title,Subtitle,Authors,Year,Publisher,Referenced,Versions
+Large language models in medicine,Nature medicine,"AJ Thirunavukarasu, DSJ Ting, K Elangovan…",2023,nature.com,432,5
+[HTML] Science in the age of large language models,Nature Reviews Physics,"A Birhane, A Kasirzadeh, D Leslie…",2023,nature.com,93,4
+A survey on evaluation of large language models,ACM Transactions on …,"Y Chang, X Wang, J Wang, Y Wu, L Yang…",2023,dl.acm.org,371,4
+A watermark for large language models,International …,"J Kirchenbauer, J Geiping, Y Wen…",2023,proceedings.mlr.press,264,8
+A survey of large language models,arXiv preprint arXiv …,"WX Zhao, K Zhou, J Li, T Tang, X Wang, Y Hou…",2023,arxiv.org,734,5
+Bloomberggpt: A large language model for finance,arXiv preprint arXiv …,"S Wu, O Irsoy, S Lu, V Dabravolski, M Dredze…",2023,arxiv.org,347,8
+Explainability for large language models: A survey,ACM Transactions on …,"H Zhao, H Chen, F Yang, N Liu, H Deng, H Cai…",2024,dl.acm.org,65,4
+[PDF] Large language models in machine translation,… in Natural Language …,"T Brants, A Popat, P Xu, FJ Och…",2007,aclanthology.org,782,32
+A systematic evaluation of large language models of code,Proceedings of the 6th ACM …,"FF Xu, U Alon, G Neubig, VJ Hellendoorn",2022,dl.acm.org,327,5
+Wordcraft: story writing with large language models,27th International Conference on …,"A Yuan, A Coenen, E Reif, D Ippolito",2022,dl.acm.org,199,3
+A survey on multimodal large language models,arXiv preprint arXiv …,"S Yin, C Fu, S Zhao, K Li, X Sun, T Xu…",2023,arxiv.org,296,7
+Emergent abilities of large language models,arXiv preprint arXiv …,"J Wei, Y Tay, R Bommasani, C Raffel, B Zoph…",2022,arxiv.org,1278,11
+Program synthesis with large language models,arXiv preprint arXiv …,"J Austin, A Odena, M Nye, M Bosma…",2021,arxiv.org,591,4
+Galactica: A large language model for science,arXiv preprint arXiv …,"R Taylor, M Kardas, G Cucurull, T Scialom…",2022,arxiv.org,385,4
+ChatGPT for good? On opportunities and challenges of large language models for education,Learning and individual …,"E Kasneci, K Seßler, S Küchemann, M Bannert…",2023,Elsevier,1359,14
+Extracting training data from large language models,30th USENIX Security …,"N Carlini, F Tramer, E Wallace, M Jagielski…",2021,usenix.org,1138,10
+Large language models can self-improve,arXiv preprint arXiv …,"J Huang, SS Gu, L Hou, Y Wu, X Wang, H Yu…",2022,arxiv.org,229,7
+Towards reasoning in large language models: A survey,arXiv preprint arXiv:2212.10403,"J Huang, KCC Chang",2022,arxiv.org,277,6
+A survey on large language model based autonomous agents,arXiv preprint arXiv …,"L Wang, C Ma, X Feng, Z Zhang, H Yang…",2023,arxiv.org,204,2
+Structured pruning of large language models,arXiv preprint arXiv:1910.04732,"Z Wang, J Wohlwend, T Lei",2019,arxiv.org,194,3
+Training compute-optimal large language models,arXiv preprint arXiv …,"J Hoffmann, S Borgeaud, A Mensch…",2022,arxiv.org,852,6
+Openassistant conversations-democratizing large language model alignment,Advances in …,"A Köpf, Y Kilcher, D von Rütte…",2024,proceedings.neurips.cc,211,5
+[HTML] Large language models encode clinical knowledge,Nature,"K Singhal, S Azizi, T Tu, SS Mahdavi, J Wei, HW Chung…",2023,nature.com,503,9
+Evaluating large language models trained on code,arXiv preprint arXiv …,"M Chen, J Tworek, H Jun, Q Yuan, HPO Pinto…",2021,arxiv.org,1813,2
+Large language models encode clinical knowledge,arXiv preprint arXiv …,"K Singhal, S Azizi, T Tu, SS Mahdavi, J Wei…",2022,arxiv.org,313,9
+Large language models are zero-shot reasoners,Advances in neural …,"T Kojima, SS Gu, M Reid, Y Matsuo…",2022,proceedings.neurips.cc,1648,7
+Persistent anti-muslim bias in large language models,Proceedings of the 2021 AAAI/ACM …,"A Abid, M Farooqi, J Zou",2021,dl.acm.org,363,6
+Minigpt-4: Enhancing vision-language understanding with advanced large language models,arXiv preprint arXiv …,"D Zhu, J Chen, X Shen, X Li, M Elhoseiny",2023,arxiv.org,814,7
+Large language models are human-level prompt engineers,arXiv preprint arXiv …,"Y Zhou, AI Muresanu, Z Han, K Paster, S Pitis…",2022,arxiv.org,408,7
+Large language models are zero-shot rankers for recommender systems,… on Information Retrieval,"Y Hou, J Zhang, Z Lin, H Lu, R Xie, J McAuley…",2024,Springer,109,2
+[HTML] Summary of chatgpt-related research and perspective towards the future of large language models,Radiology,"Y Liu, T Han, S Ma, J Zhang, Y Yang, J Tian, H He, A Li…",2023,Elsevier,387,3
+Tabllm: Few-shot classification of tabular data with large language models,International …,"S Hegselmann, A Buendia, H Lang…",2023,proceedings.mlr.press,93,4
+Lora: Low-rank adaptation of large language models,arXiv preprint arXiv …,"EJ Hu, Y Shen, P Wallis, Z Allen",2021,arxiv.org,3003,8
+Tree of thoughts: Deliberate problem solving with large language models,Advances in …,"S Yao, D Yu, J Zhao, I Shafran…",2024,proceedings.neurips.cc,624,7
+Can large language models transform computational social science?,Computational …,"C Ziems, W Held, O Shaikh, J Chen, Z Zhang…",2024,direct.mit.edu,148,7
+Codegen: An open large language model for code with multi-turn program synthesis,arXiv preprint arXiv …,"E Nijkamp, B Pang, H Hayashi, L Tu, H Wang…",2022,arxiv.org,423,3
+mplug-owl: Modularization empowers large language models with multimodality,arXiv preprint arXiv …,"Q Ye, H Xu, G Xu, J Ye, M Yan, Y Zhou, J Wang…",2023,arxiv.org,324,3
+Wizardlm: Empowering large language models to follow complex instructions,arXiv preprint arXiv …,"C Xu, Q Sun, K Zheng, X Geng, P Zhao, J Feng…",2023,arxiv.org,289,2
+Scaling relationship on learning mathematical reasoning with large language models,arXiv preprint arXiv …,"Z Yuan, H Yuan, C Li, G Dong, C Tan…",2023,arxiv.org,98,6
+Large language models can be strong differentially private learners,arXiv preprint arXiv:2110.05679,"X Li, F Tramer, P Liang, T Hashimoto",2021,arxiv.org,223,4
+Should chatgpt be biased? challenges and risks of bias in large language models,arXiv preprint arXiv:2304.03738,E Ferrara,2023,arxiv.org,153,5
+Pythia: A suite for analyzing large language models across training and scaling,International …,"S Biderman, H Schoelkopf…",2023,proceedings.mlr.press,360,7
+ChatGPT and other large language models are double-edged swords,Radiology,"Y Shen, L Heacock, J Elias, KD Hentel, B Reig, G Shih…",2023,pubs.rsna.org,445,5
+Smoothquant: Accurate and efficient post-training quantization for large language models,International …,"G Xiao, J Lin, M Seznec, H Wu…",2023,proceedings.mlr.press,233,8
+Chain-of-thought prompting elicits reasoning in large language models,Advances in neural …,"J Wei, X Wang, D Schuurmans…",2022,proceedings.neurips.cc,3926,12
+Llmrec: Large language models with graph augmentation for recommendation,Proceedings of the 17th …,"W Wei, X Ren, J Tang, Q Wang, L Su, S Cheng…",2024,dl.acm.org,31,2
+Prompt programming for large language models: Beyond the few-shot paradigm,Extended Abstracts of the 2021 CHI …,"L Reynolds, K McDonell",2021,dl.acm.org,505,3
+Progprompt: Generating situated robot task plans using large language models,… on Robotics and …,"I Singh, V Blukis, A Mousavian, A Goyal…",2023,ieeexplore.ieee.org,299,5
+Towards expert-level medical question answering with large language models,arXiv preprint arXiv …,"K Singhal, T Tu, J Gottweis, R Sayres…",2023,arxiv.org,227,3
+Large language models generate functional protein sequences across diverse families,Nature …,"A Madani, B Krause, ER Greene, S Subramanian…",2023,nature.com,314,10
+Automatic chain of thought prompting in large language models,arXiv preprint arXiv:2210.03493,"Z Zhang, A Zhang, M Li, A Smola",2022,arxiv.org,354,4
+Large language models are few (1)-shot table reasoners,arXiv preprint arXiv:2210.06710,W Chen,2022,arxiv.org,63,3
+Selection-inference: Exploiting large language models for interpretable logical reasoning,arXiv preprint arXiv:2205.09712,"A Creswell, M Shanahan, I Higgins",2022,arxiv.org,193,3
+[PDF] Theory of mind may have spontaneously emerged in large language models,arXiv preprint arXiv:2302.02083,M Kosinski,2023,pasqualeborriello.com,211,6
+Graph of thoughts: Solving elaborate problems with large language models,arXiv preprint arXiv …,"M Besta, N Blach, A Kubicek, R Gerstenberger…",2023,arxiv.org,175,5
+Automatic generation of programming exercises and code explanations using large language models,Proceedings of the 2022 ACM …,"S Sarsa, P Denny, A Hellas, J Leinonen",2022,dl.acm.org,223,9
+[HTML] Exploring human-like translation strategy with large language models,Transactions of the …,"Z He, T Liang, W Jiao, Z Zhang, Y Yang…",2024,direct.mit.edu,23,3
+Evaluating the performance of large language models on gaokao benchmark,arXiv preprint arXiv …,"X Zhang, C Li, Y Zong, Z Ying, L He, X Qiu",2023,arxiv.org,26,2
+Web content filtering through knowledge distillation of large language models,2023 IEEE International …,"T Vörös, SP Bergeron, K Berlin",2023,ieeexplore.ieee.org,60,6
+[HTML] Performance of ChatGPT on USMLE: potential for AI-assisted medical education using large language models,PLoS digital …,"TH Kung, M Cheatham, A Medenilla, C Sillos…",2023,journals.plos.org,1536,12
+3d-llm: Injecting the 3d world into large language models,Advances in …,"Y Hong, H Zhen, P Chen, S Zheng…",2023,proceedings.neurips.cc,18,6
+What can large language models do in chemistry? a comprehensive benchmark on eight tasks,Advances in …,"T Guo, B Nan, Z Liang, Z Guo…",2023,proceedings.neurips.cc,18,3
+Siren's song in the AI ocean: a survey on hallucination in large language models,arXiv preprint arXiv …,"Y Zhang, Y Li, L Cui, D Cai, L Liu, T Fu…",2023,arxiv.org,229,2
+Voyager: An open-ended embodied agent with large language models,arXiv preprint arXiv …,"G Wang, Y Xie, Y Jiang, A Mandlekar, C Xiao…",2023,arxiv.org,304,4
+Blip-2: Bootstrapping language-image pre-training with frozen image encoders and large language models,International conference on …,"J Li, D Li, S Savarese, S Hoi",2023,proceedings.mlr.press,1509,6
+"Large language models and simple, stupid bugs",2023 IEEE/ACM 20th …,"K Jesse, T Ahmed, PT Devanbu…",2023,ieeexplore.ieee.org,11,6
+Encouraging divergent thinking in large language models through multi-agent debate,arXiv preprint arXiv …,"T Liang, Z He, W Jiao, X Wang, Y Wang…",2023,arxiv.org,94,3
+Academic Integrity considerations of AI Large Language Models in the post-pandemic era: ChatGPT and beyond,Journal of university teaching & learning practice,M Perkins,2023,ro.uow.edu.au,222,3
+[HTML] ChatGPT and the rise of large language models: the new AI-driven infodemic threat in public health,Frontiers in Public …,"L De Angelis, F Baglivo, G Arzilli, GP Privitera…",2023,frontiersin.org,216,10
+ChatGPT and a new academic reality: Artificial Intelligence‐written research papers and the ethics of the large language models in scholarly publishing,Journal of the …,"BD Lund, T Wang, NR Mannuru, B Nie…",2023,Wiley Online Library,285,9
+Least-to-most prompting enables complex reasoning in large language models,arXiv preprint arXiv …,"D Zhou, N Schärli, L Hou, J Wei, N Scales…",2022,arxiv.org,607,6
+Expectation vs. experience: Evaluating the usability of code generation tools powered by large language models,Chi conference on human …,"P Vaithilingam, T Zhang, EL Glassman",2022,dl.acm.org,305,6
+Check your facts and try again: Improving large language models with external knowledge and automated feedback,arXiv preprint arXiv …,"B Peng, M Galley, P He, H Cheng, Y Xie, Y Hu…",2023,arxiv.org,219,2
+Llmscore: Unveiling the power of large language models in text-to-image synthesis evaluation,Advances in Neural …,"Y Lu, X Yang, X Li, XE Wang…",2024,proceedings.neurips.cc,10,4
+Gpts are gpts: An early look at the labor market impact potential of large language models,arXiv preprint arXiv …,"T Eloundou, S Manning, P Mishkin, D Rock",2023,arxiv.org,415,20
+[HTML] … Does ChatGPT Perform on the United States Medical Licensing Examination (USMLE)? The Implications of Large Language Models for Medical Education …,JMIR Medical …,"A Gilson, CW Safranek, T Huang, V Socrates…",2023,mededu.jmir.org,722,10
+[HTML] Diagnostic accuracy of a large language model in rheumatology: comparison of physician and ChatGPT-4,Rheumatology international,"M Krusche, J Callhoff, J Knitza, N Ruffer",2024,Springer,12,7
+Ai chains: Transparent and controllable human-ai interaction by chaining large language model prompts,Proceedings of the 2022 CHI conference on …,"T Wu, M Terry, CJ Cai",2022,dl.acm.org,244,7
+A domain-specific next-generation large language model (LLM) or ChatGPT is required for biomedical engineering and research,Annals of Biomedical …,"S Pal, M Bhattacharya, SS Lee…",2024,Springer,21,3
+"[HTML] Large language models in radiology: fundamentals, applications, ethical considerations, risks, and future directions",Diagnostic and …,"TA D'Antonoli, A Stanzione, C Bluethgen…",2024,ncbi.nlm.nih.gov,9,9
+Once: Boosting content-based recommendation with both open-and closed-source large language models,… Conference on Web Search and Data …,"Q Liu, N Chen, T Sakai, XM Wu",2024,dl.acm.org,9,1
+Mindmap: Knowledge graph prompting sparks graph of thoughts in large language models,arXiv preprint arXiv:2308.09729,"Y Wen, Z Wang, J Sun",2023,arxiv.org,19,4
+Characterization of large language model development in the datacenter,arXiv preprint arXiv …,"Q Hu, Z Ye, Z Wang, G Wang, M Zhang, Q Chen…",2024,arxiv.org,1,1
+Palm-e: An embodied multimodal language model,arXiv preprint arXiv …,"D Driess, F Xia, MSM Sajjadi, C Lynch…",2023,arxiv.org,696,6
+Large language models know your contextual search intent: A prompting framework for conversational search,arXiv preprint arXiv …,"K Mao, Z Dou, F Mo, J Hou, H Chen, H Qian",2023,arxiv.org,26,5
+[PDF] Spear Phishing With Large Language Models,arXiv preprint arXiv:2305.06972,J Hazell,2023,cdn.governance.ai,2,1
+Unleashing cheapfakes through trojan plugins of large language models,arXiv preprint arXiv …,"T Dong, G Chen, S Li, M Xue, R Holland…",2023,arxiv.org,2,2
+QUILL: Query intent with large language models using retrieval augmentation and multi-stage distillation,arXiv preprint arXiv …,"K Srinivasan, K Raman, A Samanta, L Liao…",2022,arxiv.org,15,4
+Efficient large-scale language model training on gpu clusters using megatron-lm,Proceedings of the …,"D Narayanan, M Shoeybi, J Casper…",2021,dl.acm.org,380,11
+Strategies for training large scale neural network language models,2011 IEEE Workshop …,"T Mikolov, A Deoras, D Povey, L Burget…",2011,ieeexplore.ieee.org,698,9
+Aligning Large Language Models for Controllable Recommendations,arXiv preprint arXiv …,"W Lu, J Lian, W Zhang, G Li, M Zhou, H Liao…",2024,arxiv.org,1,2
+Language is not all you need: Aligning perception with language models,Advances in …,"S Huang, L Dong, W Wang, Y Hao…",2024,proceedings.neurips.cc,236,4
+[PDF] IRSTLM: an open source toolkit for handling large scale language models.,,"M Federico, N Bertoldi, M Cettolo",isca,archive.org,425,8
+[PDF] AI Psychometrics: Using psychometric inventories to obtain psychological profiles of large language models,OSF preprint,"M Pellert, CM Lechner, C Wagner, B Rammstedt…",2023,files.osf.io,15,1
+German's next language model,arXiv preprint arXiv:2010.10906,"B Chan, S Schweter, T Möller",2020,arxiv.org,223,4
+Open-ended instructable embodied agents with memory-augmented large language models,arXiv preprint arXiv:2310.15127,"G Sarch, Y Wu, MJ Tarr, K Fragkiadaki",2023,arxiv.org,3,4
+Llm comparative assessment: Zero-shot nlg evaluation through pairwise comparisons using large language models,… of the 18th Conference of the …,"A Liusie, P Manakul, M Gales",2024,aclanthology.org,4,1
+Maria: Spanish language models,arXiv preprint arXiv …,A Gutiérrez,2021,arxiv.org,163,10
+Recent advances in natural language processing via large pre-trained language models: A survey,ACM Computing …,"B Min, H Ross, E Sulem, APB Veyseh…",2023,dl.acm.org,361,5
+[PDF] N-gram Counts and Language Models from the Common Crawl.,LREC,"C Buck, K Heafield, B Van Ooyen",2014,171.64.67.140,219,17
+Mixout: Effective regularization to finetune large-scale pretrained language models,arXiv preprint arXiv:1909.11299,"C Lee, K Cho, W Kang",2019,arxiv.org,180,6
+Palm: Scaling language modeling with pathways,Journal of Machine …,"A Chowdhery, S Narang, J Devlin, M Bosma…",2023,jmlr.org,3101,9
+Evaluation high-quality of information from ChatGPT (artificial intelligence—large language model) artificial intelligence on shoulder stabilization surgery,… : The Journal of …,"ET Hurley, BS Crook, SG Lorentz…",2024,Elsevier,9,4
+Sasha: creative goal-oriented reasoning in smart homes with large language models,Proceedings of the ACM on Interactive …,"E King, H Yu, S Lee, C Julien",2024,dl.acm.org,2,2
+Overview of the clpsych 2024 shared task: Leveraging large language models to identify evidence of suicidality risk in online posts,Proceedings of the …,"J Chim, A Tsakalidis, D Gkoumas…",2024,aclanthology.org,10,1
+CamemBERT: a tasty French language model,arXiv preprint arXiv …,"L Martin, B Muller, PJO Suárez, Y Dupont…",2019,arxiv.org,1012,10
+Large vocabulary speech recognition with multispan statistical language models,IEEE Transactions on Speech and Audio …,JR Bellegarda,2000,ieeexplore.ieee.org,357,11
+[HTML] How to use large language models in ophthalmology: from prompt engineering to protecting confidentiality,Eye,"O Kleinig, C Gao, JG Kovoor, AK Gupta, S Bacchi…",2024,nature.com,3,4
+Solving quantitative reasoning problems with language models,Advances in …,"A Lewkowycz, A Andreassen…",2022,proceedings.neurips.cc,376,7
+Towards end-to-end 4-bit inference on generative large language models,arXiv preprint arXiv …,"S Ashkboos, I Markov, E Frantar, T Zhong…",2023,arxiv.org,4,3
+[HTML] Parameter-efficient fine-tuning of large-scale pre-trained language models,Nature Machine …,"N Ding, Y Qin, G Yang, F Wei, Z Yang, Y Su…",2023,nature.com,179,3
+[PDF] Decoding with large-scale neural language models improves translation,… in natural language …,"A Vaswani, Y Zhao, V Fossum…",2013,aclanthology.org,297,9
+Language models are weak learners,Advances in Neural …,"H Manikandan, Y Jiang…",2023,proceedings.neurips.cc,2,5
+"Using deepspeed and megatron to train megatron-turing nlg 530b, a large-scale generative language model",arXiv preprint arXiv …,"S Smith, M Patwary, B Norick, P LeGresley…",2022,arxiv.org,459,4
+Megatron-lm: Training multi-billion parameter language models using model parallelism,arXiv preprint arXiv …,"M Shoeybi, M Patwary, R Puri, P LeGresley…",2019,arxiv.org,1239,4
+Scaling laws for neural language models,arXiv preprint arXiv …,"J Kaplan, S McCandlish, T Henighan, TB Brown…",2020,arxiv.org,1030,7
+A multispan language modeling framework for large vocabulary speech recognition,IEEE Transactions on Speech and Audio …,JR Bellegarda,1998,ieeexplore.ieee.org,261,13
+Pal: Program-aided language models,International …,"L Gao, A Madaan, S Zhou, U Alon…",2023,proceedings.mlr.press,352,9
+"Robustness, security, privacy, explainability, efficiency, and usability of large language models for code",arXiv preprint arXiv:2403.07506,"Z Yang, Z Sun, TZ Yue, P Devanbu, D Lo",2024,arxiv.org,1,2
+Code as policies: Language model programs for embodied control,… on Robotics and …,"J Liang, W Huang, F Xia, P Xu…",2023,ieeexplore.ieee.org,325,4
+Retrieval-augmented multi-modal chain-of-thoughts reasoning for large language models,arXiv preprint arXiv …,"B Liu, C Lyu, Z Min, Z Wang, J Su, L Wang",2023,arxiv.org,2,2
+Api is enough: Conformal prediction for large language models without logit-access,arXiv preprint arXiv:2403.01216,"J Su, J Luo, H Wang, L Cheng",2024,arxiv.org,1,2
+Differentially private fine-tuning of language models,arXiv preprint arXiv …,"D Yu, S Naik, A Backurs, S Gopi, HA Inan…",2021,arxiv.org,204,3
+Release strategies and the social impacts of language models,arXiv preprint arXiv …,"I Solaiman, M Brundage, J Clark, A Askell…",2019,arxiv.org,385,4
+Quantifying memorization across neural language models,arXiv preprint arXiv …,"N Carlini, D Ippolito, M Jagielski, K Lee…",2022,arxiv.org,353,6
+[HTML] Framework-based qualitative analysis of free responses of Large Language Models: Algorithmic fidelity,Plos one,"A Amirova, T Fteropoulli, N Ahmed, MR Cowie…",2024,journals.plos.org,1,2
+[HTML] On the limitations of large language models in clinical diagnosis,medRxiv,"JT Reese, D Danis, JH Caufield, T Groza, E Casiraghi…",2023,ncbi.nlm.nih.gov,4,5
+[PDF] Could large language models be conscious? A perspective from the free energy principle,"PhilArchive,  Feb",W Wiese,2023,core.ac.uk,6,1
+Lost in translation: A study of bugs introduced by large language models while translating code,2024 IEEE/ACM 46th …,"R Pan, AR Ibrahimzada, R Krishna…",2024,computer.org,1,2
+[PDF] Language models of protein sequences at the scale of evolution enable accurate structure prediction,BioRxiv,"Z Lin, H Akin, R Rao, B Hie, Z Zhu, W Lu…",2022,biorxiv.org,311,3
+On the dangers of stochastic parrots: Can language models be too big?🦜,Proceedings of the 2021 …,"EM Bender, T Gebru, A McMillan",2021,dl.acm.org,3322,11
+Exploring the limits of language modeling,arXiv preprint arXiv …,"R Jozefowicz, O Vinyals, M Schuster…",2016,arxiv.org,1338,7
+Scaling instruction-finetuned language models,arXiv preprint arXiv …,"HW Chung, L Hou, S Longpre, B Zoph, Y Tay…",2022,arxiv.org,1388,2
+SciBERT: A pretrained language model for scientific text,arXiv preprint arXiv:1903.10676,"I Beltagy, K Lo, A Cohan",2019,arxiv.org,2895,6
+Language models as knowledge bases?,arXiv preprint arXiv …,"F Petroni, T Rocktäschel, P Lewis, A Bakhtin…",2019,arxiv.org,2145,7
+[PDF] Self-specialization: Uncovering latent expertise within large language models,arXiv preprint arXiv …,"J Kang, H Luo, JG Yada Zhu, D Cox…",2023,southnlp.github.io,2,2
+Evolutionary-scale prediction of atomic-level protein structure with a language model,Science,"Z Lin, H Akin, R Rao, B Hie, Z Zhu, W Lu, N Smetanin…",2023,science.org,943,8
+CLLMs: Consistency Large Language Models,arXiv preprint arXiv:2403.00835,"S Kou, L Hu, Z He, Z Deng, H Zhang",2024,arxiv.org,0,1
+Connectionist language modeling for large vocabulary continuous speech recognition,2002 IEEE International Conference …,"H Schwenk, JL Gauvain",2002,ieeexplore.ieee.org,186,11
+Continuous space language models,Computer Speech & Language,H Schwenk,2007,Elsevier,660,6
+Direct preference optimization: Your language model is secretly a reward model,Advances in …,"R Rafailov, A Sharma, E Mitchell…",2024,proceedings.neurips.cc,390,8
+Utilizing large language models to identify evidence of suicidality risk through analysis of emotionally charged posts,Proceedings of the 9th …,"AY Uluslu, A Michail, S Clematide",2024,aclanthology.org,2,2
+Retrieval augmented language model pre-training,… on machine learning,"K Guu, K Lee, Z Tung, P Pasupat…",2020,proceedings.mlr.press,1317,10
+Language models are few-shot learners,Advances in neural …,"T Brown, B Mann, N Ryder…",2020,proceedings.neurips.cc,22693,33
+Training language models to follow instructions with human feedback,Advances in neural …,"L Ouyang, J Wu, X Jiang, D Almeida…",2022,proceedings.neurips.cc,5539,17
+Supervised contrastive learning for pre-trained language model fine-tuning,arXiv preprint arXiv:2011.01403,"B Gunel, J Du, A Conneau, V Stoyanov",2020,arxiv.org,389,4
+Can language models learn from explanations in context?,arXiv preprint arXiv …,"AK Lampinen, I Dasgupta, SCY Chan…",2022,arxiv.org,183,7
+Materials science in the era of large language models: a perspective,arXiv preprint arXiv:2403.06949,"G Lei, R Docherty, SJ Cooper",2024,arxiv.org,0,1
+Large pre-trained language models contain human-like biases of what is right and wrong to do,Nature Machine …,"P Schramowski, C Turan, N Andersen…",2022,nature.com,161,10
+How can Transformers and large language models like ChatGPT help LCA practitioners?,Available at SSRN 4402262,"S Cornago, S Ramakrishna, J Low",2023,papers.ssrn.com,5,2
+Ctrl: A conditional transformer language model for controllable generation,arXiv preprint arXiv …,"NS Keskar, B McCann, LR Varshney, C Xiong…",2019,arxiv.org,1050,2
+Finbert: A pretrained language model for financial communications,arXiv preprint arXiv:2006.08097,"Y Yang, MCS Uy, A Huang",2020,arxiv.org,203,3
+HAMiSoN-Generative at ClimateActivism 2024: Stance Detection using generative large language models,Proceedings of the 7th Workshop …,JM Fraile,2024,aclanthology.org,1,2
+Show your work: Scratchpads for intermediate computation with language models,arXiv preprint arXiv …,"M Nye, AJ Andreassen, G Gur",2021,arxiv.org,383,4
+Opt: Open pre-trained transformer language models,arXiv preprint arXiv …,"S Zhang, S Roller, N Goyal, M Artetxe, M Chen…",2022,arxiv.org,1484,2
+MAPLE: Mobile App Prediction Leveraging Large Language model Embeddings,Proceedings of the ACM on Interactive …,"Y Khaokaew, H Xue, FD Salim",2024,dl.acm.org,0,1
+[PDF] Bloom: A 176b-parameter open-access multilingual language model,,"T Le Scao, A Fan, C Akiki, E Pavlick, S Ilić, D Hesslow…",2022,inria.hal.science,1076,11
+Editing Conceptual Knowledge for Large Language Models,arXiv preprint arXiv …,"X Wang, S Mao, N Zhang, S Deng, Y Yao…",2024,arxiv.org,0,1
+Flamingo: a visual language model for few-shot learning,Advances in neural …,"JB Alayrac, J Donahue, P Luc…",2022,proceedings.neurips.cc,1689,5
+Compositional morphology for word representations and language modelling,International Conference on Machine …,"J Botha, P Blunsom",2014,proceedings.mlr.press,294,17
+Glam: Efficient scaling of language models with mixture-of-experts,International …,"N Du, Y Huang, AM Dai, S Tong…",2022,proceedings.mlr.press,316,5
+[HTML] Clinical decision support for bipolar depression using large language models,…,"RH Perlis, JF Goldberg, MJ Ostacher…",2024,nature.com,0,1
+SaulLM-7B: A pioneering Large Language Model for Law,arXiv preprint arXiv …,"P Colombo, TP Pires, M Boudiaf, D Culver…",2024,arxiv.org,0,1
+LLM-GEm: Large language model-guided prediction of people's empathy levels towards newspaper article,Findings of the …,"MR Hasan, MZ Hossain, T Gedeon…",2024,aclanthology.org,1,1
+On the Origins of Linear Representations in Large Language Models,arXiv preprint arXiv …,"Y Jiang, G Rajendran, P Ravikumar, B Aragam…",2024,arxiv.org,0,1
+Response to Comment for “Understanding Radiological Journal Views and Policies on Large Language Models in Academic Writing”,Journal of the American College of …,"H Li, JT Moon, HM Trivedi, JW Gichoya",2023,jacr.org,3,5
+[PDF] A dynamic language model for speech recognition,… and Natural Language …,"F Jelinek, B Merialdo, S Roukos…",1991,aclanthology.org,242,8
+Number without a language model,Proceedings of the …,"E Spaepen, M Coppola, ES Spelke…",2011,National Acad Sciences,223,24
+[PDF] Scalable modified Kneser-Ney language model estimation,Proceedings of the 51st …,"K Heafield, I Pouzyrevsky, JH Clark…",2013,aclanthology.org,677,12
+Progen: Language modeling for protein generation,arXiv preprint arXiv …,"A Madani, B McCann, N Naik, NS Keskar…",2020,arxiv.org,229,11
+The estimation of powerful language models from small and large corpora,1993 IEEE International …,"P Placeway, R Schwartz, P Fung…",1993,ieeexplore.ieee.org,157,10
+[PDF] Language models are unsupervised multitask learners,OpenAI blog,"A Radford, J Wu, R Child, D Luan, D Amodei…",2019,blocksml.com,9114,32
+Multimodal chain-of-thought reasoning in language models,arXiv preprint arXiv …,"Z Zhang, A Zhang, M Li, H Zhao, G Karypis…",2023,arxiv.org,162,3
+Language modeling with gated convolutional networks,… conference on machine …,"YN Dauphin, A Fan, M Auli…",2017,proceedings.mlr.press,2479,12
+Gpt-neox-20b: An open-source autoregressive language model,arXiv preprint arXiv …,"S Black, S Biderman, E Hallahan, Q Anthony…",2022,arxiv.org,476,7
+Linkbert: Pretraining language models with document links,arXiv preprint arXiv:2203.15827,"M Yasunaga, J Leskovec, P Liang",2022,arxiv.org,210,11
+Language models (mostly) know what they know,arXiv preprint arXiv …,"S Kadavath, T Conerly, A Askell, T Henighan…",2022,arxiv.org,201,2
+Learning differentially private recurrent language models,arXiv preprint arXiv …,"HB McMahan, D Ramage, K Talwar…",2017,arxiv.org,1202,6
+Toolformer: Language models can teach themselves to use tools,Advances in …,"T Schick, J Dwivedi",2024,proceedings.neurips.cc,677,4
+Self-instruct: Aligning language models with self-generated instructions,arXiv preprint arXiv …,"Y Wang, Y Kordi, S Mishra, A Liu, NA Smith…",2022,arxiv.org,849,8
+LLMvsSmall Model? Large Language Model Based Text Augmentation Enhanced Personality Detection Model,arXiv preprint arXiv …,"L Hu, H He, D Wang, Z Zhao, Y Shao, L Nie",2024,arxiv.org,0,1
+Instructblip: Towards general-purpose vision-language models with instruction tuning,Advances in …,"W Dai, J Li, D Li, AMH Tiong, J Zhao…",2024,proceedings.neurips.cc,415,6
+ZVQAF: Zero-shot visual question answering with feedback from large language models,Neurocomputing,"C Liu, C Wang, Y Peng, Z Li",2024,Elsevier,0,1
+Building resilient SMEs: Harnessing large language models for cyber security in Australia,"Journal of AI,  Robotics & Workplace …",B Kereopa,2024,ingentaconnect.com,4,2
+The pile: An 800gb dataset of diverse text for language modeling,arXiv preprint arXiv …,"L Gao, S Biderman, S Black, L Golding…",2020,arxiv.org,392,7
+On Protecting the Data Privacy of Large Language Models (LLMs): A Survey,arXiv preprint arXiv …,"B Yan, K Li, M Xu, Y Dong, Y Zhang, Z Ren…",2024,arxiv.org,0,1
+[PDF] Lstm neural networks for language modeling.,,"M Sundermeyer, R Schlüter, H Ney",isca,archive.org,2651,9
+BERTweet: A pre-trained language model for English Tweets,arXiv preprint arXiv:2005.10200,"DQ Nguyen, T Vu, AT Nguyen",2020,arxiv.org,798,7
+Elevating Learning Experiences: Leveraging Large Language Models as Student-Facing Assistants in Discussion Forums,Proceedings of the 55th …,"C Mitra, M Miroyan, R Jain, V Kumud…",2024,dl.acm.org,1,1
+Executing Natural Language-Described Algorithms with Large Language Models: An Investigation,arXiv preprint arXiv …,"X Zheng, Q Zhu, H Lin, Y Lu, X Han, L Sun",2024,arxiv.org,0,1
+Robbert: a dutch roberta-based language model,arXiv preprint arXiv:2001.06286,"P Delobelle, T Winters, B Berendt",2020,arxiv.org,222,9
+Atlas: Few-shot learning with retrieval augmented language models,arXiv preprint arXiv …,"G Izacard, P Lewis, M Lomeli, L Hosseini…",2022,arxiv.org,317,3
+Cultural evolution in populations of Large Language Models,arXiv preprint arXiv …,"J Perez, C Léger, M Ovando",2024,arxiv.org,0,1
+[HTML] Evaluating the generation capabilities of large Chinese language models,AI Open,"H Zeng, J Xue, M Hao, C Sun, B Ning, N Zhang",2024,Elsevier,3,3
+Finetuned language models are zero-shot learners,arXiv preprint arXiv …,"J Wei, M Bosma, VY Zhao, K Guu, AW Yu…",2021,arxiv.org,1816,6
+Rethinking Generative Large Language Model Evaluation for Semantic Comprehension,arXiv preprint arXiv:2403.07872,"F Wei, X Chen, L Luo",2024,arxiv.org,0,1
+Query Rewriting via Large Language Models,arXiv preprint arXiv:2403.09060,"J Liu, B Mozafari",2024,arxiv.org,0,1
+Three new graphical models for statistical language modelling,Proceedings of the 24th international conference on …,"A Mnih, G Hinton",2007,dl.acm.org,957,15
+Domain-specific language model pretraining for biomedical natural language processing,ACM Transactions on …,"Y Gu, R Tinn, H Cheng, M Lucas, N Usuyama…",2021,dl.acm.org,1352,6
+Language models as zero-shot planners: Extracting actionable knowledge for embodied agents,… on Machine Learning,"W Huang, P Abbeel, D Pathak…",2022,proceedings.mlr.press,549,5
+EtC: Temporal Boundary Expand then Clarify for Weakly Supervised Video Grounding with Multimodal Large Language Model,arXiv preprint arXiv …,"G Li, X Ding, D Cheng, J Li, N Wang, X Gao",2023,arxiv.org,1,2
+Large language models facilitate the generation of electronic health record phenotyping algorithms,medRxiv,"C Yan, HH Ong, ME Grabowska, MS Krantz, WC Su…",2023,medrxiv.org,1,5
+Barack's wife Hillary: Using knowledge-graphs for fact-aware language modeling,arXiv preprint arXiv …,"RL Logan IV, NF Liu, ME Peters, M Gardner…",2019,arxiv.org,217,11
+"Scaling language models: Methods, analysis & insights from training gopher",arXiv preprint arXiv …,"JW Rae, S Borgeaud, T Cai, K Millican…",2021,arxiv.org,711,5
+Mental-LLM: Leveraging Large Language Models for Mental Health Prediction via Online Text Data,Proceedings of the …,"X Xu, B Yao, Y Dong, S Gabriel, H Yu…",2024,dl.acm.org,0,1
+[PDF] Using contextual speller techniques and language modeling for ESL error correction,… on Natural Language …,"M Gamon, J Gao, C Brockett, A Klementiev…",2008,aclanthology.org,182,14
+Improving language models by retrieving from trillions of tokens,International …,"S Borgeaud, A Mensch, J Hoffmann…",2022,proceedings.mlr.press,611,5
+One billion word benchmark for measuring progress in statistical language modeling,arXiv preprint arXiv …,"C Chelba, T Mikolov, M Schuster, Q Ge…",2013,arxiv.org,1212,15
+Symbolic knowledge distillation: from general language models to commonsense models,arXiv preprint arXiv …,"P West, C Bhagavatula, J Hessel, JD Hwang…",2021,arxiv.org,209,5
+Fine-tuning Large Language Models with Sequential Instructions,arXiv preprint arXiv:2403.07794,"H Hu, P Chen, EM Ponti",2024,arxiv.org,0,1
+Taxonomy of risks posed by language models,Proceedings of the …,"L Weidinger, J Uesato, M Rauh, C Griffin…",2022,dl.acm.org,287,9
+[HTML] Large language models and generative AI in telehealth: a responsible use lens,Journal of the American Medical …,"J Pool, M Indulska, S Sadiq",2024,academic.oup.com,0,1
+CLongEval: A Chinese Benchmark for Evaluating Long-Context Large Language Models,arXiv preprint arXiv:2403.03514,"Z Qiu, J Li, S Huang, W Zhong, I King",2024,arxiv.org,0,1
+Improving neural language models with a continuous cache,arXiv preprint arXiv:1612.04426,"E Grave, A Joulin, N Usunier",2016,arxiv.org,325,3
+[PDF] Topic-based language models using EM,Sixth European Conference on Speech …,"D Gildea, T Hofmann",1999,icsi.berkeley.edu,330,16
+Audiolm: a language modeling approach to audio generation,"… ,  and Language …","Z Borsos, R Marinier, D Vincent…",2023,ieeexplore.ieee.org,255,3
+Explaining Genetic Programming Trees using Large Language Models,arXiv preprint arXiv:2403.03397,"P Maddigan, A Lensen, B Xue",2024,arxiv.org,0,1
+React: Synergizing reasoning and acting in language models,arXiv preprint arXiv …,"S Yao, J Zhao, D Yu, N Du, I Shafran…",2022,arxiv.org,733,6
+ShortGPT: Layers in Large Language Models are More Redundant Than You Expect,arXiv preprint arXiv …,"X Men, M Xu, Q Zhang, B Wang, H Lin, Y Lu…",2024,arxiv.org,0,1
+Universal and transferable adversarial attacks on aligned language models,arXiv preprint arXiv:2307.15043,"A Zou, Z Wang, JZ Kolter, M Fredrikson",2023,arxiv.org,280,8
+Mining source code repositories at massive scale using language modeling,2013 10th working conference on …,"M Allamanis, C Sutton",2013,ieeexplore.ieee.org,453,17
+[PDF] KenLM: Faster and smaller language model queries,Proceedings of the sixth workshop on statistical …,K Heafield,2011,aclanthology.org,1582,20
+Future Potential Challenges of Using Large Language Models Like ChatGPT in Daily Medical Practice,Journal of the American College of Radiology,S Sedaghat,2024,Elsevier,1,4
+Peacock: A Family of Arabic Multimodal Large Language Models and Benchmarks,arXiv preprint arXiv …,"F Alwajih, EMB Nagoudi, G Bhatia, A Mohamed…",2024,arxiv.org,0,1
+Identify Critical Nodes in Complex Network with Large Language Models,arXiv preprint arXiv …,"J Mao, D Zou, L Sheng, S Liu, C Gao, Y Wang…",2024,arxiv.org,0,1
+K2: A foundation language model for geoscience knowledge understanding and utilization,Proceedings of the 17th …,"C Deng, T Zhang, Z He, Q Chen, Y Shi, Y Xu…",2024,dl.acm.org,5,1
+Adaptive semiparametric language models,Transactions of the …,"D Yogatama, C de Masson d'Autume…",2021,direct.mit.edu,92,9
+Are Human Conversations Special? A Large Language Model Perspective,arXiv preprint arXiv …,"T Jawale, C Animesh, S Vallath…",2024,arxiv.org,0,1
+[PDF] Evaluation metrics for language models,,"SF Chen, D Beeferman, R Rosenfeld",1998,kilthub.cmu.edu,255,10
+PhoBERT: Pre-trained language models for Vietnamese,arXiv preprint arXiv:2003.00744,"DQ Nguyen, AT Nguyen",2020,arxiv.org,333,5
+Bugs in Large Language Models Generated Code,arXiv preprint arXiv …,"F Tambon, AM Dakhel, A Nikanjam, F Khomh…",2024,arxiv.org,0,1
+Multimodal few-shot learning with frozen language models,Advances in …,"M Tsimpoukelli, JL Menick, S Cabi…",2021,proceedings.neurips.cc,516,6
+Automatic semantic augmentation of language model prompts (for code summarization),2024 IEEE/ACM 46th …,"T Ahmed, KS Pai, P Devanbu, ET Barr",2024,computer.org,2,1
+On the cusp: Considering the impact of artificial intelligence language models in healthcare,Med,"RS Goodman, JR Patrinely Jr, T Osterman, L Wheless…",2023,Elsevier,40,3
+XLMR4MD: New Vietnamese dataset and framework for detecting the consistency of description and permission in Android applications using large language models,Computers & Security,"QN Nguyen, NT Cam, K Van Nguyen",2024,Elsevier,0,1
+Clip-adapter: Better vision-language models with feature adapters,International Journal of …,"P Gao, S Geng, R Zhang, T Ma, R Fang…",2024,Springer,429,10
+"[HTML] The role of ChatGPT, generative language models, and artificial intelligence in medical education: a conversation with ChatGPT and a call for papers",JMIR Medical Education,G Eysenbach,2023,mededu.jmir.org,321,10
+Estimation of language models for new spoken language applications,… Fourth International Conference on Spoken Language …,S Issar,1996,ieeexplore.ieee.org,225,7
+"Out of one, many: Using language models to simulate human samples",Political …,"LP Argyle, EC Busby, N Fulda, JR Gubler…",2023,cambridge.org,216,9
+CAT: Enhancing Multimodal Large Language Model to Answer Questions in Dynamic Audio-Visual Scenarios,arXiv preprint arXiv:2403.04640,"Q Ye, Z Yu, R Shao, X Xie, P Torr, X Cao",2024,arxiv.org,0,1
+A variable-length category-based n-gram language model,1996 IEEE International …,"TR Niesler, PC Woodland",1996,ieeexplore.ieee.org,253,11
+Beyond the imitation game: Quantifying and extrapolating the capabilities of language models,arXiv preprint arXiv …,"A Srivastava, A Rastogi, A Rao, AAM Shoeb…",2022,arxiv.org,675,9
+Inner monologue: Embodied reasoning through planning with language models,arXiv preprint arXiv …,"W Huang, F Xia, T Xiao, H Chan, J Liang…",2022,arxiv.org,463,5
+Self-consistency improves chain of thought reasoning in language models,arXiv preprint arXiv …,"X Wang, J Wei, D Schuurmans, Q Le, E Chi…",2022,arxiv.org,528,5
+Augmented language models: a survey,arXiv preprint arXiv …,"G Mialon, R Dessì, M Lomeli, C Nalmpantis…",2023,arxiv.org,276,4
+It's not just size that matters: Small language models are also few-shot learners,arXiv preprint arXiv:2009.07118,"T Schick, H Schütze",2020,arxiv.org,742,6
+[PDF] Deep neural network language models,… of Language Modeling …,"E Arisoy, TN Sainath, B Kingsbury…",2012,aclanthology.org,294,10
+Learning to prompt for vision-language models,International Journal of Computer Vision,"K Zhou, J Yang, CC Loy, Z Liu",2022,Springer,1149,10
+Tastle: Distract Large Language Models for Automatic Jailbreak Attack,arXiv preprint arXiv:2403.08424,"Z Xiao, Y Yang, G Chen, Y Chen",2024,arxiv.org,0,1
+Binding language models in symbolic languages,arXiv preprint arXiv …,"Z Cheng, T Xie, P Shi, C Li, R Nadkarni, Y Hu…",2022,arxiv.org,94,3
+[HTML] Assessing the research landscape and clinical utility of large language models: a scoping review,BMC Medical …,"YJ Park, A Pillai, J Deng, E Guo…",2024,bmcmedinformdecismak …,0,1
+[PDF] Improving text simplification language modeling using unsimplified text data,Proceedings of the 51st annual meeting of the …,D Kauchak,2013,aclanthology.org,191,5
+QA-GNN: Reasoning with language models and knowledge graphs for question answering,arXiv preprint arXiv …,"M Yasunaga, H Ren, A Bosselut, P Liang…",2021,arxiv.org,410,8
+Realtoxicityprompts: Evaluating neural toxic degeneration in language models,arXiv preprint arXiv …,"S Gehman, S Gururangan, M Sap, Y Choi…",2020,arxiv.org,680,8
+[PDF] Intelligent selection of language model training data,Proceedings of the ACL 2010 conference …,"RC Moore, W Lewis",2010,aclanthology.org,681,10
+Llama: Open and efficient foundation language models,arXiv preprint arXiv …,"H Touvron, T Lavril, G Izacard, X Martinet…",2023,arxiv.org,4607,13
+Analysis of Privacy Leakage in Federated Large Language Models,arXiv preprint arXiv:2403.04784,"MN Vu, T Nguyen, TR Jeter, MT Thai",2024,arxiv.org,0,1
+An analysis of neural language modeling at multiple scales,arXiv preprint arXiv:1803.08240,"S Merity, NS Keskar, R Socher",2018,arxiv.org,187,2
+Improving factuality and reasoning in language models through multiagent debate,arXiv preprint arXiv …,"Y Du, S Li, A Torralba, JB Tenenbaum…",2023,arxiv.org,159,6
+[PDF] Predictive power of word surprisal for reading times is a linear function of language model quality,… the 8th workshop on cognitive modeling …,"A Goodkind, K Bicknell",2018,aclanthology.org,185,9
+Investigating gender bias in language models using causal mediation analysis,Advances in neural …,"J Vig, S Gehrmann, Y Belinkov…",2020,proceedings.neurips.cc,258,11
+Multimodal Large Language Models to Support Real-World Fact-Checking,arXiv preprint arXiv …,"J Geng, Y Kementchedjhieva, P Nakov…",2024,arxiv.org,0,1
+Towards Safe and Aligned Large Language Models for Medicine,arXiv preprint arXiv:2403.03744,"T Han, A Kumar, C Agarwal, H Lakkaraju",2024,arxiv.org,0,1
+[PDF] Subword language modeling with neural networks,preprint (http://www …,"T Mikolov, I Sutskever, A Deoras, HS Le…",2012,datascienceassn.org,232,4
+KELLMRec: Knowledge-Enhanced Large Language Models for Recommendation,arXiv preprint arXiv:2403.06642,"W Luo, C Song, L Yi, G Cheng",2024,arxiv.org,0,1
+"No Language is an Island: Unifying Chinese and English in Financial Large Language Models, Instruction Data, and Benchmarks",arXiv preprint arXiv …,"G Hu, K Qin, C Yuan, M Peng, A Lopez",2024,arxiv.org,0,1
+Deduplicating training data makes language models better,arXiv preprint arXiv …,"K Lee, D Ippolito, A Nystrom, C Zhang, D Eck…",2021,arxiv.org,319,7
+[PDF] A scalable hierarchical distributed language model,Advances in neural information …,"A Mnih, GE Hinton",2008,proceedings.neurips.cc,1284,11
+[PDF] Faster and smaller n-gram language models,… Computational Linguistics: Human Language …,"A Pauls, D Klein",2011,aclanthology.org,234,5
+Ddcot: Duty-distinct chain-of-thought prompting for multimodal reasoning in language models,Advances in Neural …,"G Zheng, B Yang, J Tang, HY Zhou…",2023,proceedings.neurips.cc,8,4
+Masked language model scoring,arXiv preprint arXiv …,"J Salazar, D Liang, TQ Nguyen, K Kirchhoff",2019,arxiv.org,399,8
+Injecting numerical reasoning skills into language models,arXiv preprint arXiv:2004.04487,"M Geva, A Gupta, J Berant",2020,arxiv.org,188,8
+Delta tuning: A comprehensive study of parameter efficient methods for pre-trained language models,arXiv preprint arXiv …,"N Ding, Y Qin, G Yang, F Wei, Z Yang, Y Su…",2022,arxiv.org,144,6
+[HTML] Optimizing Large Language Models on Multi-Core CPUs: A Case Study of the BERT Model,Applied Sciences,"L Zhao, W Gao, J Fang",2024,mdpi.com,0,1
+Medical semantic similarity with a neural language model,Proceedings of the 23rd …,"L De Vine, G Zuccon, B Koopman, L Sitbon…",2014,dl.acm.org,187,7
+CFaiRLLM: Consumer Fairness Evaluation in Large-Language Model Recommender System,arXiv preprint arXiv:2403.05668,"Y Deldjoo, T di Noia",2024,arxiv.org,0,1
+Pix2seq: A language modeling framework for object detection,arXiv preprint arXiv …,"T Chen, S Saxena, L Li, DJ Fleet, G Hinton",2021,arxiv.org,240,4
+Targeted syntactic evaluation of language models,arXiv preprint arXiv:1808.09031,"R Marvin, T Linzen",2018,arxiv.org,406,17
+Probing pretrained language models for lexical semantics,… in Natural Language …,"I Vulić, EM Ponti, R Litschko, G Glavaš…",2020,aclanthology.org,198,7
+Intrinsic dimensionality explains the effectiveness of language model fine-tuning,arXiv preprint arXiv:2012.13255,"A Aghajanyan, L Zettlemoyer, S Gupta",2020,arxiv.org,274,6
+Reducing sentiment bias in language models via counterfactual evaluation,arXiv preprint arXiv …,"PS Huang, H Zhang, R Jiang, R Stanforth…",2019,arxiv.org,153,6
+[HTML] ProtGPT2 is a deep unsupervised language model for protein design,Nature communications,"N Ferruz, S Schmidt, B Höcker",2022,nature.com,247,14
+Quantum Many-Body Physics Calculations with Large Language Models,arXiv preprint arXiv …,"H Pan, N Mudur, W Taranto, M Tikhanovskaya…",2024,arxiv.org,0,1
+A simple language model for task-oriented dialogue,Advances in Neural …,E Hosseini,2020,proceedings.neurips.cc,471,7
+Smart: Robust and efficient fine-tuning for pre-trained natural language models through principled regularized optimization,arXiv preprint arXiv …,"H Jiang, P He, W Chen, X Liu, J Gao, T Zhao",2019,arxiv.org,401,6
+Generalization through memorization: Nearest neighbor language models,arXiv preprint arXiv …,"U Khandelwal, O Levy, D Jurafsky…",2019,arxiv.org,563,8
+Vinvl: Revisiting visual representations in vision-language models,Proceedings of the …,"P Zhang, X Li, X Hu, J Yang, L Zhang…",2021,openaccess.thecvf.com,800,10
+Ethical and social risks of harm from language models,arXiv preprint arXiv …,"L Weidinger, J Mellor, M Rauh, C Griffin…",2021,arxiv.org,550,5
+Codekgc: Code language model for generative knowledge graph construction,Resource Language …,"Z Bi, J Chen, Y Jiang, F Xiong, W Guo, H Chen…",2024,dl.acm.org,11,3
+oLMpics-on what language model pre-training captures,Transactions of the …,"A Talmor, Y Elazar, Y Goldberg…",2020,direct.mit.edu,212,8
+Adaptive input representations for neural language modeling,arXiv preprint arXiv:1809.10853,"A Baevski, M Auli",2018,arxiv.org,394,5
+Don't stop pretraining: Adapt language models to domains and tasks,arXiv preprint arXiv …,"S Gururangan, A Marasović, S Swayamdipta…",2020,arxiv.org,1912,10
+ToolNet: Connecting Large Language Models with Massive Tools via Tool Graph,arXiv preprint arXiv …,"X Liu, Z Peng, X Yi, X Xie, L Xiang, Y Liu…",2024,arxiv.org,0,1
+GraphInstruct: Empowering Large Language Models with Graph Understanding and Reasoning Capability,arXiv preprint arXiv …,"Z Luo, X Song, H Huang, J Lian, C Zhang…",2024,arxiv.org,0,1
+[PDF] SloBERTa: Slovene monolingual large pretrained masked language model,Proceedings of Data Mining and Data …,"M Ulčar, M Robnik",2021,aile3.ijs.si,12,1
+Unnatural instructions: Tuning language models with (almost) no human labor,arXiv preprint arXiv:2212.09689,"O Honovich, T Scialom, O Levy, T Schick",2022,arxiv.org,163,5
+Glm: General language model pretraining with autoregressive blank infilling,arXiv preprint arXiv …,"Z Du, Y Qian, X Liu, M Ding, J Qiu, Z Yang…",2021,arxiv.org,583,5
+ItD: Large Language Models Can Teach Themselves Induction through Deduction,arXiv preprint arXiv …,"W Sun, H Xu, X Yu, P Chen, S He, J Zhao…",2024,arxiv.org,0,1
+CodeUltraFeedback: An LLM-as-a-Judge Dataset for Aligning Large Language Models to Coding Preferences,arXiv preprint arXiv:2403.09032,"M Weyssow, A Kamanda, H Sahraoui",2024,arxiv.org,0,1
+[PDF] Automatic Root Cause Analysis via Large Language Models for Cloud Incidents,arXiv preprint arXiv …,"Y Chen, H Xie, M Ma, Y Kang, X Gao…",2023,yinfangchen.github.io,1,1
+Two decades of statistical language modeling: Where do we go from here?,Proceedings of the IEEE,R Rosenfeld,2000,ieeexplore.ieee.org,1055,24
+IntactKV: Improving Large Language Model Quantization by Keeping Pivot Tokens Intact,arXiv preprint arXiv …,"R Liu, H Bai, H Lin, Y Li, H Gao, Z Xu, L Hou…",2024,arxiv.org,0,1
+Measuring and improving consistency in pretrained language models,Transactions of the …,"Y Elazar, N Kassner, S Ravfogel…",2021,direct.mit.edu,225,11
+"IndicNLPSuite: Monolingual corpora, evaluation benchmarks and pre-trained multilingual language models for Indian languages",Findings of the …,"D Kakwani, A Kunchukuttan, S Golla…",2020,aclanthology.org,386,5
+Holistic evaluation of language models,arXiv preprint arXiv …,"P Liang, R Bommasani, T Lee, D Tsipras…",2022,arxiv.org,551,6
+LLM4Decompile: Decompiling Binary Code with Large Language Models,arXiv preprint arXiv:2403.05286,"H Tan, Q Luo, J Li, Y Zhang",2024,arxiv.org,0,1
+Plug and play language models: A simple approach to controlled text generation,arXiv preprint arXiv …,"S Dathathri, A Madotto, J Lan, J Hung, E Frank…",2019,arxiv.org,767,8
+Llama-adapter: Efficient fine-tuning of language models with zero-init attention,arXiv preprint arXiv …,"R Zhang, J Han, A Zhou, X Hu, S Yan, P Lu, H Li…",2023,arxiv.org,292,4
+Adaptive importance sampling to accelerate training of a neural probabilistic language model,IEEE Transactions on Neural Networks,"Y Bengio, JS Senécal",2008,ieeexplore.ieee.org,291,14
+Meaningful Learning: Advancing Abstract Reasoning in Large Language Models via Generic Fact Guidance,arXiv preprint arXiv …,"K Xiong, X Ding, T Liu, B Qin, D Xu, Q Yang…",2024,arxiv.org,0,1
+Universal language model fine-tuning for text classification,arXiv preprint arXiv:1801.06146,"J Howard, S Ruder",2018,arxiv.org,4267,11
+Enhancing Magnetocaloric Material Discovery: A Machine Learning Approach Using an Autogenerated Database by Large Language Models,arXiv preprint arXiv:2403.02553,"J Yuan, R Yang, L Patra, B Liao",2024,arxiv.org,0,1
+Context dependent recurrent neural network language model,2012 IEEE Spoken Language Technology …,"T Mikolov, G Zweig",2012,ieeexplore.ieee.org,753,8
+Language models enable zero-shot prediction of the effects of mutations on protein function,Advances in neural …,"J Meier, R Rao, R Verkuil, J Liu…",2021,proceedings.neurips.cc,332,8
+Conditional prompt learning for vision-language models,Proceedings of the IEEE …,"K Zhou, J Yang, CC Loy, Z Liu",2022,openaccess.thecvf.com,701,9
+Fine-tuning language models from human preferences,arXiv preprint arXiv …,"DM Ziegler, N Stiennon, J Wu, TB Brown…",2019,arxiv.org,798,2
+From technical to understandable: Artificial Intelligence Large Language Models improve the readability of knee radiology reports,Knee Surgery …,"JJ Butler, J Puleo, MC Harrington…",2024,Wiley Online Library,0,1
+InjecAgent: Benchmarking Indirect Prompt Injections in Tool-Integrated Large Language Model Agents,arXiv preprint arXiv:2403.02691,"Q Zhan, Z Liang, Z Ying, D Kang",2024,arxiv.org,0,1
+Deeper text understanding for IR with contextual neural language modeling,Proceedings of the 42nd international ACM SIGIR …,"Z Dai, J Callan",2019,dl.acm.org,411,9
+Towards understanding and mitigating social biases in language models,… on Machine Learning,"PP Liang, C Wu, LP Morency…",2021,proceedings.mlr.press,257,9
+From feedforward to recurrent LSTM neural networks for language modeling,"… ,  Speech,  and Language …","M Sundermeyer, H Ney…",2015,ieeexplore.ieee.org,578,5
+Fly-swat or cannon? cost-effective language model choice via meta-modeling,… of the 17th ACM International Conference …,"M Šakota, M Peyrard, R West",2024,dl.acm.org,8,2
+StereoSet: Measuring stereotypical bias in pretrained language models,arXiv preprint arXiv:2004.09456,"M Nadeem, A Bethke, S Reddy",2020,arxiv.org,636,6
+Guiding Enumerative Program Synthesis with Large Language Models,arXiv preprint arXiv:2403.03997,"Y Li, J Parsert, E Polgreen",2024,arxiv.org,0,1
+Med3DInsight: Enhancing 3D Medical Image Understanding with 2D Multi-Modal Large Language Models,arXiv preprint arXiv:2403.05141,"Q Chen, H Ye, Y Hong",2024,arxiv.org,0,1
+Semi-supervised sequence tagging with bidirectional language models,arXiv preprint arXiv …,"ME Peters, W Ammar, C Bhagavatula…",2017,arxiv.org,816,7
+Table meets llm: Can large language models understand structured table data? a benchmark and empirical study,Proceedings of the 17th ACM …,"Y Sui, M Zhou, M Zhou, S Han, D Zhang",2024,dl.acm.org,0,1
+PICARD: Parsing incrementally for constrained auto-regressive decoding from language models,arXiv preprint arXiv:2109.05093,"T Scholak, N Schucher, D Bahdanau",2021,arxiv.org,237,4
+Unsupervised language model adaptation,2003 IEEE International Conference on …,"M Bacchiani, B Roark",2003,ieeexplore.ieee.org,202,13
+How context affects language models' factual predictions,arXiv preprint arXiv …,"F Petroni, P Lewis, A Piktus, T Rocktäschel…",2020,arxiv.org,178,7
+PHAnToM: Personality Has An Effect on Theory-of-Mind Reasoning in Large Language Models,arXiv preprint arXiv …,"FA Tan, GC Yeo, F Wu, W Xu, V Jain, A Chadha…",2024,arxiv.org,0,1
+A general language model for information retrieval,Proceedings of the eighth international conference …,"F Song, WB Croft",1999,dl.acm.org,890,13
+Cross-lingual language model pretraining,Advances in neural information …,"A Conneau, G Lample",2019,proceedings.neurips.cc,1409,4
+"[HTML] Large language models and bariatric surgery patient education: a comparative readability analysis of GPT-3.5, GPT-4, Bard, and online institutional resources",Surgical …,"N Srinivasan, JS Samaan, ND Rajeev, MU Kanu…",2024,Springer,0,1
+Smoothing techniques for adaptive online language models: topic tracking in tweet streams,Proceedings of the 17th ACM SIGKDD …,"J Lin, R Snow, W Morgan",2011,dl.acm.org,168,4
+Transformer protein language models are unsupervised structure learners,Biorxiv,"R Rao, J Meier, T Sercu, S Ovchinnikov, A Rives",2020,biorxiv.org,232,8
+Privacy risks of general-purpose language models,2020 IEEE Symposium on …,"X Pan, M Zhang, S Ji, M Yang",2020,ieeexplore.ieee.org,154,6
+"Angry Men, Sad Women: Large Language Models Reflect Gendered Stereotypes in Emotion Attribution",arXiv preprint arXiv …,FM Plaza,2024,arxiv.org,0,1
+On the state of the art of evaluation in neural language models,arXiv preprint arXiv:1707.05589,"G Melis, C Dyer, P Blunsom",2017,arxiv.org,607,4
+How can we know what language models know?,Transactions of the Association for …,"Z Jiang, FF Xu, J Araki, G Neubig",2020,direct.mit.edu,1039,17
+Red teaming language models with language models,arXiv preprint arXiv …,"E Perez, S Huang, F Song, T Cai, R Ring…",2022,arxiv.org,278,3
+[BUCH] Large-scale topic detection and language model adaptation,,"K Seymore, R Rosenfeld",1997,cs.cmu.edu,32,14
+Self-organized language modeling for speech recognition,Readings in speech recognition,F Jelinek,1990,books.google.com,1155,5
+Integrating Knowledge Graph Data with Large Language Models for Explainable Inference,… Conference on Web Search and Data …,CE Quintero,2024,dl.acm.org,0,1
+Pretrained language models for biomedical and clinical tasks: understanding and extending the state-of-the-art,… the 3rd clinical natural language …,"P Lewis, M Ott, J Du, V Stoyanov",2020,aclanthology.org,179,2
+Exploiting both local and global constraints for multi-span statistical language modeling,Proceedings of the 1998 IEEE International …,JR Bellegarda,1998,ieeexplore.ieee.org,284,3
+A systematic evaluation of large language models for generating programming code,arXiv preprint arXiv:2403.00894,"W Hou, Z Ji",2024,arxiv.org,0,1
+Research on Question Answering System on Joint of Knowledge Graph and Large Language Models.,Journal of Frontiers of …,"Z Heyi, W Xin, H Lifan, LI Zhao…",2023,search.ebscohost.com,1,2
+Evaluating Large Language Models as Virtual Annotators for Time-series Physical Sensing Data,arXiv preprint arXiv:2403.01133,"A Hota, S Chatterjee, S Chakraborty",2024,arxiv.org,0,1
+Getting Serious about Humor: Crafting Humor Datasets with Unfunny Large Language Models,arXiv preprint arXiv …,"Z Horvitz, J Chen, R Aditya, H Srivastava…",2024,arxiv.org,0,1
+Entropy-based pruning of backoff language models,arXiv preprint cs/0006025,A Stolcke,2000,arxiv.org,409,8
+Exploiting latent semantic information in statistical language modeling,Proceedings of the IEEE,JR Bellegarda,2000,ieeexplore.ieee.org,733,9
+True few-shot learning with language models,Advances in neural information …,"E Perez, D Kiela, K Cho",2021,proceedings.neurips.cc,295,7
+Character-level language modeling with deeper self-attention,Proceedings of the AAAI …,R Al,2019,ojs.aaai.org,407,13
+Comparison of feedforward and recurrent neural network language models,"… on acoustics,  speech …","M Sundermeyer, I Oparin, JL Gauvain…",2013,ieeexplore.ieee.org,168,10
+""" Like a Nesting Doll"": Analyzing Recursion Analogies Generated by CS Students using Large Language Models",arXiv preprint arXiv …,"S Bernstein, P Denny, J Leinonen, L Kan…",2024,arxiv.org,0,1
+LLM-Ensemble: Optimal Large Language Model Ensemble Method for E-commerce Product Attribute Value Extraction,arXiv preprint arXiv …,"C Fang, X Li, Z Fan, J Xu, K Nag, E Korpeoglu…",2024,arxiv.org,0,1
+Context-Sensitive Semantic Reasoning in Large Language Models,ICLR 2024 Workshop on …,"T Giallanza, DI Campbell",2024,openreview.net,0,1
+Finbert: Financial sentiment analysis with pre-trained language models,arXiv preprint arXiv:1908.10063,D Araci,2019,arxiv.org,674,4
+KnowPhish: Large Language Models Meet Multimodal Knowledge Graphs for Enhancing Reference-Based Phishing Detection,arXiv preprint arXiv …,"Y Li, C Huang, S Deng, ML Lock, T Cao, N Oo…",2024,arxiv.org,0,1
+In-context learning enables multimodal large language models to classify cancer pathology images,arXiv preprint arXiv …,"D Ferber, G Wölflein, IC Wiest, M Ligero…",2024,arxiv.org,0,1
+A fast and simple algorithm for training neural probabilistic language models,arXiv preprint arXiv:1206.6426,"A Mnih, YW Teh",2012,arxiv.org,881,16
+Memoro: Using Large Language Models to Realize a Concise Interface for Real-Time Memory Augmentation,arXiv preprint arXiv:2403.02135,"W Zulfikar, S Chan, P Maes",2024,arxiv.org,0,1
+""" It's the only thing I can trust"": Envisioning Large Language Model Use by Autistic Workers for Communication Assistance",arXiv preprint arXiv …,"JW Jang, S Moharana, P Carrington…",2024,arxiv.org,0,1
+Right for Right Reasons: Large Language Models for Verifiable Commonsense Knowledge Graph Question Answering,arXiv preprint arXiv:2403.01390,"A Toroghi, W Guo, MMA Pour, S Sanner",2024,arxiv.org,0,1
+Enhancing Trust in Autonomous Agents: An Architecture for Accountability and Explainability through Blockchain and Large Language Models,arXiv preprint arXiv …,L Fernández,2024,arxiv.org,0,1
+Enhancing chest X-ray datasets with privacy-preserving large language models and multi-type annotations: a data-driven approach for improved classification,arXiv preprint arXiv:2403.04024,"RB Lanfredi, P Mukherjee, R Summers",2024,arxiv.org,0,1
+ChatUIE: Exploring Chat-based Unified Information Extraction using Large Language Models,arXiv preprint arXiv:2403.05132,"J Xu, M Sun, Z Zhang, J Zhou",2024,arxiv.org,0,1
+[PDF] WikiChat: Combating hallucination of large language models by few-shot grounding on wikipedia,arXiv preprint arXiv …,"SJSVZ Yao, HC Zhang, MS Lam",2023,oval.cs.stanford.edu,1,1
+Influence of a Large Language Model on Diagnostic Reasoning: A Randomized Clinical Vignette Study,medRxiv,"E Goh, R Gallo, J Hom, E Strong, Y Weng, H Kerman…",2024,medrxiv.org,0,1
+[PDF] Using story topics for language model adaptation,,"K Seymore, R Rosenfeld",1997,kilthub.cmu.edu,148,15
+Large Language Models in Fire Engineering: An Examination of Technical Questions Against Domain Knowledge,arXiv preprint arXiv:2403.04795,"H Hostetter, MZ Naser, X Huang, J Gales",2024,arxiv.org,0,1
+Bitfit: Simple parameter-efficient fine-tuning for transformer-based masked language-models,arXiv preprint arXiv:2106.10199,"EB Zaken, S Ravfogel, Y Goldberg",2021,arxiv.org,570,3
+Exploring Large Language Models and Hierarchical Frameworks for Classification of Large Unstructured Legal Documents,European Conference on Information …,"N Prasad, M Boughanem, T Dkaki",2024,Springer,0,1
+Multimodal neural language models,… conference on machine …,"R Kiros, R Salakhutdinov…",2014,proceedings.mlr.press,868,18
+Aligning Large and Small Language Models via Chain-of-Thought Reasoning,Proceedings of the 18th Conference of the …,"L Ranaldi, A Freitas",2024,aclanthology.org,0,1
+A deep language model for software code,arXiv preprint arXiv:1608.02715,"HK Dam, T Tran, T Pham",2016,arxiv.org,131,2
+Making pre-trained language models better few-shot learners,arXiv preprint arXiv:2012.15723,"T Gao, A Fisch, D Chen",2020,arxiv.org,1367,10
+Temporal action detection using a statistical language model,Proceedings of the IEEE conference on …,"A Richard, J Gall",2016,openaccess.thecvf.com,256,12
+Few-Shot Cross-Lingual Transfer for Prompting Large Language Models in Low-Resource Languages,arXiv preprint arXiv:2403.06018,C Toukmaji,2024,arxiv.org,0,1
+MedInsight: A Multi-Source Context Augmentation Framework for Generating Patient-Centric Medical Responses using Large Language Models,arXiv preprint arXiv …,"S Neupane, S Mitra, S Mittal, NA Golilarz…",2024,arxiv.org,0,1
+Lamda: Language models for dialog applications,arXiv preprint arXiv …,"R Thoppilan, D De Freitas, J Hall, N Shazeer…",2022,arxiv.org,1009,7
+Guiding Clinical Reasoning with Large Language Models via Knowledge Seeds,arXiv preprint arXiv:2403.06609,"J Wu, X Wu, J Yang",2024,arxiv.org,0,1
+An analysis of incorporating an external language model into a sequence-to-sequence model,"… ,  Speech and Signal …","A Kannan, Y Wu, P Nguyen, TN Sainath…",2018,ieeexplore.ieee.org,261,7
+Towards Comprehensive Vietnamese Retrieval-Augmented Generation and Large Language Models,arXiv preprint arXiv …,"NQ Duc, LH Son, ND Nhan, NDN Minh…",2024,arxiv.org,0,1
+Fine-grainedly Synthesize Streaming Data Based On Large Language Models With Graph Structure Understanding For Data Sparsity,arXiv preprint arXiv:2403.06139,"X Zhang, L Zhang, D Zhou, G Xu",2024,arxiv.org,0,1
+Flaubert: Unsupervised language model pre-training for french,arXiv preprint arXiv …,"H Le, L Vial, J Frej, V Segonne, M Coavoux…",2019,arxiv.org,464,9
+"[HTML] ChatGPT, Llama, can you write my report? An experiment on assisted digital forensics reports written using (Local) Large Language Models",Forensic Science International: Digital …,"G Michelet, F Breitinger",2024,Elsevier,0,1
+A bit of progress in language modeling,Computer Speech & Language,JT Goodman,2001,Elsevier,886,27
+Autoprompt: Eliciting knowledge from language models with automatically generated prompts,arXiv preprint arXiv …,"T Shin, Y Razeghi, RL Logan IV, E Wallace…",2020,arxiv.org,1249,9
+Cross-lingual language model pretraining,arXiv preprint arXiv:1901.07291,"G Lample, A Conneau",2019,arxiv.org,1489,2
+Code completion with statistical language models,… conference on programming language …,"V Raychev, M Vechev, E Yahav",2014,dl.acm.org,766,10
+Automatic Interactive Evaluation for Large Language Models with State Aware Patient Simulator,arXiv preprint arXiv …,"Y Liao, Y Meng, Y Wang, H Liu, Y Wang…",2024,arxiv.org,0,1
+Cold fusion: Training seq2seq models together with language models,arXiv preprint arXiv:1708.06426,"A Sriram, H Jun, S Satheesh, A Coates",2017,arxiv.org,327,11
+A neural probabilistic language model,Advances in neural …,"Y Bengio, R Ducharme…",2000,proceedings.neurips.cc,11092,63
+CURATRON: Complete Robust Preference Data for Robust Alignment of Large Language Models,arXiv preprint arXiv:2403.02745,"ST Nguyen, NU Naresh, T Tulabandhula",2024,arxiv.org,0,1
+Human-Large Language Model Interaction: The dawn of a new era or the end of it all?,Companion of the 2024 …,"D Hernández García, M Romeo, C Dondrup…",2024,dl.acm.org,0,1
+OffLanDat: A Community Based Implicit Offensive Language Dataset Generated by Large Language Model Through Prompt Engineering,arXiv preprint arXiv …,"A Das, M Rahgouy, D Feng, Z Zhang…",2024,arxiv.org,0,1
+"Large Language Models and Generative AI, Oh My!",Computer,M Zyda,2024,ieeexplore.ieee.org,0,1
+Calibrate before use: Improving few-shot performance of language models,… on machine learning,"Z Zhao, E Wallace, S Feng, D Klein…",2021,proceedings.mlr.press,810,6
+Discriminative n-gram language modeling,Computer Speech & Language,"B Roark, M Saraclar, M Collins",2007,Elsevier,238,19
+Unlimited vocabulary speech recognition with morph language models applied to Finnish,… Speech & Language,"T Hirsimäki, M Creutz, V Siivola, M Kurimo…",2006,Elsevier,188,16
+[PDF] Supervised text-based geolocation using language models on an adaptive grid,… in natural language …,"S Roller, M Speriosu, S Rallapalli, B Wing…",2012,aclanthology.org,282,8
+Breaking the softmax bottleneck: A high-rank RNN language model,arXiv preprint arXiv …,"Z Yang, Z Dai, R Salakhutdinov, WW Cohen",2017,arxiv.org,388,4
+Tip-adapter: Training-free clip-adapter for better vision-language modeling,arXiv preprint arXiv …,"R Zhang, R Fang, W Zhang, P Gao, K Li, J Dai…",2021,arxiv.org,227,2
+InteraRec: Interactive Recommendations Using Multimodal Large Language Models,arXiv preprint arXiv:2403.00822,"SR Karra, T Tulabandhula",2024,arxiv.org,0,1
+Chaining text-to-image and large language model: A novel approach for generating personalized e-commerce banners,arXiv preprint arXiv …,"S Vashishtha, A Prakash, L Morishetti, K Nag…",2024,arxiv.org,0,1
+Vision-language models for vision tasks: A survey,IEEE Transactions on Pattern …,"J Zhang, J Huang, S Jin, S Lu",2024,ieeexplore.ieee.org,68,6
+Towards Intent-Based Network Management: Large Language Models for Intent Extraction in 5G Core Networks,arXiv preprint arXiv:2403.02238,"DM Manias, A Chouman, A Shami",2024,arxiv.org,0,1
+[PDF] Exploring Task Decomposition for Assisting Large Language Models in Counter-argument Logical Structure Analysis,… of the Natural Language …,"W Wang, S Naito, P Reisert, N Inoue…",2024,anlp.jp,1,1
+[HTML] Lost in the middle: How language models use long contexts,Transactions of the …,"NF Liu, K Lin, J Hewitt, A Paranjape…",2024,direct.mit.edu,258,8
+"[HTML] … Transformer-Empowered Healthcare Conversations: Current Trends, Challenges, and Future Directions in Large Language Model-Enabled Medical Chatbots",BioMedInformatics,"JCL Chow, V Wong, K Li",2024,mdpi.com,0,1
+How much knowledge can you pack into the parameters of a language model?,arXiv preprint arXiv:2002.08910,"A Roberts, C Raffel, N Shazeer",2020,arxiv.org,670,10
+Psychological Assessments with Large Language Models: A Privacy-Focused and Cost-Effective Approach,arXiv preprint arXiv:2402.03435,S Blanco,2024,arxiv.org,0,1
+LM4OPT: Unveiling the Potential of Large Language Models in Formulating Mathematical Optimization Problems,arXiv preprint arXiv:2403.01342,"T Ahmed, S Choudhury",2024,arxiv.org,0,1
+[PDF] Hierarchical probabilistic neural network language model,International workshop on artificial …,"F Morin, Y Bengio",2005,proceedings.mlr.press,1363,12
+Emotional Manipulation Through Prompt Engineering Amplifies Disinformation Generation in AI Large Language Models,arXiv preprint arXiv …,"R Vinay, G Spitale, N Biller",2024,arxiv.org,0,1
+SVD-LLM: Truncation-aware Singular Value Decomposition for Large Language Model Compression,arXiv preprint arXiv:2403.07378,"X Wang, Y Zheng, Z Wan, M Zhang",2024,arxiv.org,0,1
+From English to ASIC: Hardware Implementation with Large Language Model,arXiv preprint arXiv:2403.07039,"E Goh, M Xiang, I Wey, TH Teo",2024,arxiv.org,0,1
+Video (language) modeling: a baseline for generative models of natural videos,arXiv preprint arXiv …,"MA Ranzato, A Szlam, J Bruna, M Mathieu…",2014,arxiv.org,511,4
+RLingua: Improving Reinforcement Learning Sample Efficiency in Robotic Manipulations With Large Language Models,arXiv preprint arXiv:2403.06420,"L Chen, Y Lei, S Jin, Y Zhang, L Zhang",2024,arxiv.org,0,1
+Statistical language model adaptation: review and perspectives,Speech communication,JR Bellegarda,2004,Elsevier,439,9
+CKERC: Joint Large Language Models with Commonsense Knowledge for Emotion Recognition in Conversation,arXiv preprint arXiv:2403.07260,Y Fu,2024,arxiv.org,0,1
+Pengi: An audio language model for audio tasks,Advances in Neural …,"S Deshmukh, B Elizalde, R Singh…",2023,proceedings.neurips.cc,32,4
+"Lm-nav: Robotic navigation with large pre-trained models of language, vision, and action",Conference on robot …,"D Shah, B Osiński, S Levine",2023,proceedings.mlr.press,179,5
+Neural codec language models are zero-shot text to speech synthesizers,arXiv preprint arXiv …,"C Wang, S Chen, Y Wu, Z Zhang, L Zhou, S Liu…",2023,arxiv.org,225,3
+Trigger-based language models: A maximum entropy approach,1993 IEEE International …,"R Lau, R Rosenfeld, S Roukos",1993,ieeexplore.ieee.org,297,6
+Feature Based Text Search Engine Mitigating Data Diversity Problem Using Pre-Trained Large Language Model for Fast Deployment Services,IEEE Access,"Y Jeong, J Yang, IH Choi, J Lee",2024,ieeexplore.ieee.org,0,1
+Quantifying contamination in evaluating code generation capabilities of language models,arXiv preprint arXiv:2403.04811,"M Riddell, A Ni, A Cohan",2024,arxiv.org,1,2
+[PDF] Adaptive statistical language modeling: A maximum entropy approach,Diss. IBM,R Rosenfeld,2005,researchgate.net,578,24
+FineMath: A Fine-Grained Mathematical Evaluation Benchmark for Chinese Large Language Models,arXiv preprint arXiv:2403.07747,"Y Liu, R Jin, L Shi, Z Yao, D Xiong",2024,arxiv.org,0,1
+On generative spoken language modeling from raw audio,Transactions of the …,"K Lakhotia, E Kharitonov, WN Hsu, Y Adi…",2021,direct.mit.edu,227,12
+Welcome Your New AI Teammate: On Safety Analysis by Leashing Large Language Models,arXiv preprint arXiv …,"A Nouri, B Cabrero",2024,arxiv.org,0,1
+How Can We Know When Language Models Know? On the Calibration of Language Models for Question Answering,Transactions of the Association …,"Z Jiang, J Araki, H Ding, G Neubig",2021,direct.mit.edu,215,12
+Character-aware neural language models,… of the AAAI conference on artificial …,"Y Kim, Y Jernite, D Sontag, A Rush",2016,ojs.aaai.org,2095,18
+A cache-based natural language model for speech recognition,IEEE transactions on pattern analysis and …,"R Kuhn, R De Mori",1990,ieeexplore.ieee.org,803,15
+Towards Automated End-to-End Health Misinformation Free Search with a Large Language Model,European Conference on Information Retrieval,"R Pradeep, J Lin",2024,Springer,0,1
+"Red teaming language models to reduce harms: Methods, scaling behaviors, and lessons learned",arXiv preprint arXiv …,"D Ganguli, L Lovitt, J Kernion, A Askell, Y Bai…",2022,arxiv.org,191,2
+Transformer-xl: Attentive language models beyond a fixed-length context,arXiv preprint arXiv …,"Z Dai, Z Yang, Y Yang, J Carbonell, QV Le…",2019,arxiv.org,3771,12
+Simvlm: Simple visual language model pretraining with weak supervision,arXiv preprint arXiv …,"Z Wang, J Yu, AW Yu, Z Dai, Y Tsvetkov…",2021,arxiv.org,616,4
+Unsupervised corpus aware language model pre-training for dense passage retrieval,arXiv preprint arXiv:2108.05540,"L Gao, J Callan",2021,arxiv.org,244,7
+Unsupervised domain clusters in pretrained language models,arXiv preprint arXiv:2004.02105,"R Aharoni, Y Goldberg",2020,arxiv.org,223,6
+Rich Semantic Knowledge Enhanced Large Language Models for Few-shot Chinese Spell Checking,arXiv preprint arXiv:2403.08492,"M Dong, Y Chen, M Zhang, H Sun, T He",2024,arxiv.org,0,1
+Toward a unified approach to statistical language modeling for Chinese,ACM Transactions on Asian Language …,"J Gao, J Goodman, M Li, KF Lee",2002,dl.acm.org,206,6
+Knowledge-grounded dialogue generation with pre-trained language models,arXiv preprint arXiv …,"X Zhao, W Wu, C Xu, C Tao, D Zhao, R Yan",2020,arxiv.org,189,9
+A latent variable recurrent neural network for discourse relation language models,arXiv preprint arXiv:1603.01913,"Y Ji, G Haffari, J Eisenstein",2016,arxiv.org,168,5
+Structured language modeling,Computer Speech & Language,"C Chelba, F Jelinek",2000,Elsevier,409,17
+Generative language models and automated influence operations: Emerging threats and potential mitigations,arXiv preprint arXiv …,"JA Goldstein, G Sastry, M Musser, R DiResta…",2023,arxiv.org,163,3
+[PDF] Indri: A language model-based search engine for complex queries,Proceedings of the …,"T Strohman, D Metzler, H Turtle…",2005,ciir.cs.umass.edu,704,5
+[PDF] Recurrent Neural Network Based Language Modeling in Meeting Recognition.,Interspeech,"S Kombrink, T Mikolov, M Karafiát, L Burget",2011,academia.edu,252,13
+Prompting visual-language models for efficient video understanding,European Conference on …,"C Ju, T Han, K Zheng, Y Zhang, W Xie",2022,Springer,223,6
+Extensions of recurrent neural network language model,"… on acoustics,  speech …","T Mikolov, S Kombrink, L Burget…",2011,ieeexplore.ieee.org,1635,7
+A Comprehensive Evaluation of Inductive Reasoning Capabilities and Problem Solving in Large Language Models,Findings of the Association for …,"C Bowen, R Sætre, Y Miyao",2024,aclanthology.org,0,1
+Pqlm-multilingual decentralized portable quantum language model,2023 …,"SS Li, X Zhang, S Zhou, H Shu, R Liang…",2023,ieeexplore.ieee.org,8,2
+CoGenesis: A Framework Collaborating Large and Small Language Models for Secure Context-Aware Instruction Following,arXiv preprint arXiv …,"K Zhang, J Wang, E Hua, B Qi, N Ding…",2024,arxiv.org,0,1
+Emerging Synergies Between Large Language Models and Machine Learning in Ecommerce Recommendations,arXiv preprint arXiv:2403.02760,"X Xu, Z Xu, Z Ling, Z Jin, SQ Du",2024,arxiv.org,0,1
+My Learnings from Allowing Large Language Models in Introductory Computer Science Classes,Proceedings of the 55th ACM Technical Symposium on …,R Bhalerao,2024,dl.acm.org,0,1
+Photorealistic text-to-image diffusion models with deep language understanding,Advances in neural …,"C Saharia, W Chan, S Saxena, L Li…",2022,proceedings.neurips.cc,2936,9
+NetSurfP-3.0: accurate and fast prediction of protein structural features by protein language models and deep learning,Nucleic acids …,"MH Høie, EN Kiehl, B Petersen, M Nielsen…",2022,academic.oup.com,93,10
+Leveraging Weakly Annotated Data for Hate Speech Detection in Code-Mixed Hinglish: A Feasibility-Driven Transfer Learning Approach with Large Language Models,arXiv preprint arXiv:2403.02121,"S Yadav, A Kaushik, K McDaid",2024,arxiv.org,0,1
+KEBench: A Benchmark on Knowledge Editing for Large Vision-Language Models,arXiv preprint arXiv …,"H Huang, H Zhong, Q Liu, S Wu, L Wang…",2024,arxiv.org,0,1
+Creating Virtual Patients using Robots and Large Language Models: A Preliminary Study with Medical Students,Companion of the 2024 ACM/IEEE …,"A Borg, I Parodis, G Skantze",2024,dl.acm.org,0,1
+"Comparison of large language models in management advice for melanoma: Google's AI BARD, BingAI and ChatGPT",Skin Health and …,"X Mu, B Lim, I Seth, Y Xie, J Cevik…",2024,Wiley Online Library,0,1
+Predicting reading difficulty with statistical language models,Journal of the american society …,"K Collins‐Thompson, J Callan",2005,Wiley Online Library,234,9
+[PDF] Discriminative language modeling with conditional random fields and the perceptron algorithm,Proceedings of the 42nd …,"B Roark, M Saraclar, M Collins…",2004,aclanthology.org,201,17
+Analyzing the structure of attention in a transformer language model,arXiv preprint arXiv:1906.04284,"J Vig, Y Belinkov",2019,arxiv.org,304,9
+Generation of guideline-based clinical decision trees in oncology using large language models,medRxiv,"BY Miao, E Rodriguez Almaraz, A Ashraf Ganjouei…",2024,medrxiv.org,0,1
+Empower sequence labeling with task-aware neural language model,Proceedings of the AAAI …,"L Liu, J Shang, X Ren, F Xu, H Gui, J Peng…",2018,ojs.aaai.org,423,12
+SheetAgent: A Generalist Agent for Spreadsheet Reasoning and Manipulation via Large Language Models,arXiv preprint arXiv …,"Y Chen, Y Yuan, Z Zhang, Y Zheng, J Liu, F Ni…",2024,arxiv.org,0,1
+Data noising as smoothing in neural network language models,arXiv preprint arXiv …,"Z Xie, SI Wang, J Li, D Lévy, A Nie, D Jurafsky…",2017,arxiv.org,279,8
+Cross-modal concept learning and inference for vision-language models,Neurocomputing,"Y Zhang, C Zhang, Y Tang, Z He",2024,Elsevier,4,3
+From simple associations to the building blocks of language: Modeling meaning in memory with the HAL model,"Behavior Research Methods,  Instruments,  & …",C Burgess,1998,Springer,234,5
+A systematic assessment of syntactic generalization in neural language models,arXiv preprint arXiv …,"J Hu, J Gauthier, P Qian, E Wilcox, RP Levy",2020,arxiv.org,196,5
+Elephants Never Forget: Testing Language Models for Memorization of Tabular Data,arXiv preprint arXiv:2403.06644,"S Bordt, H Nori, R Caruana",2024,arxiv.org,2,2
+Emoticon smoothed language models for twitter sentiment analysis,Proceedings of the AAAI Conference on Artificial …,"KL Liu, WJ Li, M Guo",2012,ojs.aaai.org,348,12
+"Do as i can, not as i say: Grounding language in robotic affordances",arXiv preprint arXiv …,"M Ahn, A Brohan, N Brown, Y Chebotar…",2022,arxiv.org,798,2
+Algorithmic progress in language models,arXiv preprint arXiv …,"A Ho, T Besiroglu, E Erdil, D Owen, R Rahman…",2024,arxiv.org,0,1
+HaluEval-Wild: Evaluating Hallucinations of Language Models in the Wild,arXiv preprint arXiv:2403.04307,"Z Zhu, Z Sun, Y Yang",2024,arxiv.org,0,1
+A Generalizable Architecture for Explaining Robot Failures Using Behavior Trees and Large Language Models,Companion of the 2024 …,"C Tagliamonte, D Maccaline, G LeMasurier…",2024,dl.acm.org,0,1
+Unified language model pre-training for natural language understanding and generation,Advances in neural …,"L Dong, N Yang, W Wang, F Wei…",2019,proceedings.neurips.cc,1545,12
+On the sentence embeddings from pre-trained language models,arXiv preprint arXiv:2011.05864,"B Li, H Zhou, J He, M Wang, Y Yang, L Li",2020,arxiv.org,516,9
+[HTML] A survey on the application of recurrent neural networks to statistical language modeling,Computer Speech & Language,"W De Mulder, S Bethard, MF Moens",2015,Elsevier,352,10
+Preserving privacy through dememorization: An unlearning technique for mitigating memorization risks in language models,… Methods in Natural Language …,"AM Kassem, O Mahmoud, S Saad",2023,openreview.net,1,1
+"Challenges in information retrieval and language modeling: report of a workshop held at the center for intelligent information retrieval, university of massachusetts …",ACM SIGIR Forum,"J Allan, J Aslam, N Belkin, C Buckley, J Callan…",2003,dl.acm.org,334,21
+Workshop on Large Language Models for Agents,ICLR 2024 …,"X Chen, X Tang, D Jin, D Hazarika, D Fried…",2024,openreview.net,0,1
+Pretrained language models for text generation: A survey,arXiv preprint arXiv:2201.05273,"J Li, T Tang, WX Zhao, JY Nie, JR Wen",2022,arxiv.org,196,6
+Augmenting naive bayes classifiers with statistical language models,Information Retrieval,"F Peng, D Schuurmans, S Wang",2004,Springer,385,18
+LLM-Assisted Light: Leveraging Large Language Model Capabilities for Human-Mimetic Traffic Signal Control in Complex Urban Environments,arXiv preprint arXiv …,"M Wang, A Pang, Y Kan, MO Pun, CS Chen…",2024,arxiv.org,0,1
+WhisBERT: Multimodal Text-Audio Language Modeling on 100M Words,arXiv preprint arXiv …,"L Wolf, G Tuckute, K Kotar, E Hosseini, T Regev…",2023,arxiv.org,2,3
+CharBERT: character-aware pre-trained language model,arXiv preprint arXiv:2011.01513,"W Ma, Y Cui, C Si, T Liu, S Wang, G Hu",2020,arxiv.org,89,6
+Winoground: Probing vision and language models for visio-linguistic compositionality,Proceedings of the …,"T Thrush, R Jiang, M Bartolo, A Singh…",2022,openaccess.thecvf.com,203,7
+[PDF] Structured language models for statistical machine translation,"PhD The¬ sis,  Pittsburgh,  USA",Y Zhang,2009,Citeseer,18,3
+"Negated and misprimed probes for pretrained language models: Birds can talk, but cannot fly",arXiv preprint arXiv:1911.03343,"N Kassner, H Schütze",2019,arxiv.org,283,7
+Accessible Russian Large Language Models: Open-Source Models and Instructive Datasets for Commercial Applications,Doklady Mathematics,"DP Kosenko, YM Kuratov, DR Zharikova",2024,Springer,0,1
+Graph-based statistical language model for code,2015 IEEE/ACM 37th IEEE …,"AT Nguyen, TN Nguyen",2015,ieeexplore.ieee.org,260,6
+A hierarchical Dirichlet language model,Natural language engineering,"DJC MacKay, LCB Peto",1995,cambridge.org,426,20
+TaskCLIP: Extend Large Vision-Language Model for Task Oriented Object Detection,arXiv preprint arXiv …,"H Chen, W Huang, Y Ni, S Yun, F Wen…",2024,arxiv.org,0,1
+Indic-transformers: An analysis of transformer language models for indian languages,arXiv preprint arXiv …,"K Jain, A Deshpande, K Shridhar, F Laumann…",2020,arxiv.org,33,4
+Enhancing protein language model with structure-based encoder and pre-training,Machine …,"Z Zhang, M Xu, A Lozano…",2023,openreview.net,12,2
+Using a statistical language model to improve the performance of an HMM-based cursive handwriting recognition system,International journal of Pattern Recognition and …,"UV Marti, H Bunke",2001,World Scientific,592,10
+Conversational question reformulation via sequence-to-sequence architectures and pretrained language models,arXiv preprint arXiv …,"SC Lin, JH Yang, R Nogueira, MF Tsai…",2020,arxiv.org,61,3
+[PDF] Adaptive language modeling using minimum discriminant estimation,… Natural Language …,"SA Della Pietra, VJ Della Pietra…",1992,aclanthology.org,180,13
+Modeling meets Large Language Models,Modellierung 2024 Satellite Events,"M Forell, S Schüler",2024,dl.gi.de,0,1
+Evaluation of Hallucination and Robustness for Large Language Models,2023 IEEE 23rd …,"R Hu, J Zhong, M Ding, Z Ma…",2023,ieeexplore.ieee.org,0,1
+Advances in reasoning by prompting large language models: A survey,Cybernetics and Intelligence,"R Hong, X Pang, C Zhang",2024,ieeexplore.ieee.org,0,1
+[PDF] SRILM-an extensible language modeling toolkit.,Interspeech,A Stolcke,2002,sri.com,5808,22
+Emerging cross-lingual structure in pretrained language models,arXiv preprint arXiv …,"S Wu, A Conneau, H Li, L Zettlemoyer…",2019,arxiv.org,237,8
+Under the hood: Using diagnostic classifiers to investigate and improve how language models track agreement information,arXiv preprint arXiv …,"M Giulianelli, J Harding, F Mohnert, D Hupkes…",2018,arxiv.org,162,6
+What Comes Next for Large Language Models in Medicine?,Journal of Electronic Resources in Medical Libraries,G Laynor,2024,Taylor & Francis,0,1
+[PDF] A maximum entropy approach to adaptive statistical language modelling,Computer speech and language,R Rosenfeld,1996,cs.cmu.edu,1072,21
+Reply to “Assessing the diagnostic performance of large language models with European Diploma in Musculoskeletal Radiology (EDiMSK) examination sample …,Japanese Journal of Radiology,"A Harigai, Y Toyama, K Takase",2024,Springer,0,1
+Deep entity matching with pre-trained language models,arXiv preprint arXiv:2004.00584,"Y Li, J Li, Y Suhara, AH Doan, WC Tan",2020,arxiv.org,293,9
+Enhancing Code Tracing Question Generation with Refined Prompts in Large Language Models,Proceedings of the 55th ACM …,"AX Fan, RA Hendrawan, Y Shi, Q Ma",2024,dl.acm.org,0,1
+A study of smoothing methods for language models applied to ad hoc information retrieval,ACM Sigir Forum,"C Zhai, J Lafferty",2017,dl.acm.org,1991,28
+Combining the language model and inference network approaches to retrieval,Information processing & management,"D Metzler, WB Croft",2004,Elsevier,368,8
+[PDF] Morphologically motivated language models in speech recognition,… Reasoning (AKRR'05 …,"T Hirsimäki, MJP Creutz, V Siivola…",2005,researchportal.helsinki.fi,27,12
+[PDF] Language model information retrieval with document expansion,… of the Human Language …,"T Tao, X Wang, Q Mei, CX Zhai",2006,aclanthology.org,162,16
+[PDF] Comparing the Performance of Popular Large Language Models on the National Board of Medical Examiners Sample Questions,Cureus,"A Abbas, MS Rehman, SS Rehman",2024,cureus.com,0,1
+Smaller Language Models are Better Zero-shot Machine-Generated Text Detectors,Proceedings of the …,"N Mireshghallah, J Mattern, S Gao…",2024,aclanthology.org,0,1
+[HTML] Efficient evolution of human antibodies from general protein language models,Nature …,"BL Hie, VR Shanker, D Xu, TUJ Bruun…",2024,nature.com,113,12
+[PDF] A one pass decoder design for large vocabulary recognition,Human Language …,"JJ Odell, V Valtchev, PC Woodland…",1994,aclanthology.org,210,8
+ImgTrojan: Jailbreaking Vision-Language Models with ONE Image,arXiv preprint arXiv:2403.02910,"X Tao, S Zhong, L Li, Q Liu, L Kong",2024,arxiv.org,0,1
+[PDF] Large Language Models in Dutch Healthcare,,F Filippini,2024,studenttheses.uu.nl,0,1
+ArgMed-Agents: Explainable Clinical Decision Reasoning with Large Language Models via Argumentation Schemes,arXiv preprint arXiv:2403.06294,"S Hong, L Xiao, X Zhang, J Chen",2024,arxiv.org,0,1
+[HTML] Cpt: Colorful prompt tuning for pre-trained vision-language models,AI Open,"Y Yao, A Zhang, Z Zhang, Z Liu, TS Chua, M Sun",2024,Elsevier,177,4
+Teach LLMs to Phish: Stealing Private Information from Language Models,arXiv preprint arXiv …,"A Panda, CA Choquette",2024,arxiv.org,0,1
+Leveraging Chat-Based Large Vision Language Models for Multimodal Out-Of-Context Detection,arXiv preprint arXiv …,"F Shalabi, H Felouat, HH Nguyen, I Echizen",2024,arxiv.org,0,1
+Placing language in an integrated understanding system: Next steps toward human-level performance in neural language models,Proceedings of the …,"JL McClelland, F Hill, M Rudolph…",2020,National Acad Sciences,89,12
+[HTML] The TrollLabs Open hackathon dataset: Generative AI and large language models for prototyping in Engineering Design,Data in Brief,"DN Ege, HH Øvrebø, V Stubberud, MF Berg, C Elverum…",2024,Elsevier,0,1
+Mpnet: Masked and permuted pre-training for language understanding,Advances in neural …,"K Song, X Tan, T Qin, J Lu…",2020,proceedings.neurips.cc,718,7
+"Listen, attend and spell: A neural network for large vocabulary conversational speech recognition",2016 IEEE international …,"W Chan, N Jaitly, Q Le, O Vinyals",2016,ieeexplore.ieee.org,2612,8
+"Sharp nearby, fuzzy far away: How neural language models use context",arXiv preprint arXiv:1805.04623,"U Khandelwal, H He, P Qi, D Jurafsky",2018,arxiv.org,352,11
+"Hello, it's GPT-2--how can I help you? towards the use of pretrained language models for task-oriented dialogue systems",arXiv preprint arXiv:1907.05774,"P Budzianowski, I Vulić",2019,arxiv.org,345,7
+[PDF] Exploring Open Information Extraction for Portuguese Using Large Language Models,Proceedings of the 16th International …,"B Cabral, D Claro, M Souza",2024,aclanthology.org,0,1
+"Fine-tuning pretrained language models: Weight initializations, data orders, and early stopping",arXiv preprint arXiv …,"J Dodge, G Ilharco, R Schwartz, A Farhadi…",2020,arxiv.org,506,3
+Temporal analysis of language through neural language models,arXiv preprint arXiv …,"Y Kim, YI Chiu, K Hanaki, D Hegde, S Petrov",2014,arxiv.org,405,10
+"Evaluating Large Language Model Code Generation as an Autograding Mechanism for"" Explain in Plain English"" Questions",Proceedings of the 55th ACM Technical …,"DH Smith IV, C Zilles",2024,dl.acm.org,0,1
+A qualitative evaluation of language models on automatic question-answering for covid-19,Proceedings of the 11th ACM international …,"D Oniani, Y Wang",2020,dl.acm.org,43,11
+Dial-insight: Fine-tuning Large Language Models with High-Quality Domain-Specific Data Preventing Capability Collapse,arXiv preprint arXiv …,"J Sun, C Mei, L Wei, K Zheng, N Liu, M Cui…",2024,arxiv.org,0,1
+Dynamic pretraining of vision-language models,ICLR 2023 Workshop on …,"AJ Piergiovanni, W Kuo, W Li…",2023,openreview.net,3,2
+Text mining and probabilistic language modeling for online review spam detection,ACM Transactions on …,"RYK Lau, SY Liao, RCW Kwok, K Xu, Y Xia…",2012,dl.acm.org,309,5
+The performance of large language models in intercollegiate Membership of the Royal College of Surgeons examination,The Annals of The Royal …,"J Chan, T Dong, GD Angelini",2024,publishing.rcseng.ac.uk,0,1
+[PDF] Blocking Blog Spam with Language Model Disagreement.,AIRWeb,"G Mishne, D Carmel, R Lempel",2005,ra.ethz.ch,381,22
+Tying word vectors and word classifiers: A loss framework for language modeling,arXiv preprint arXiv:1611.01462,"H Inan, K Khosravi, R Socher",2016,arxiv.org,416,5
+Pali: A jointly-scaled multilingual language-image model,arXiv preprint arXiv …,"X Chen, X Wang, S Changpinyo…",2022,arxiv.org,362,5
+Beyond Traditional Teaching: Large Language Models as Simulated Teaching Assistants in Computer Science,Proceedings of the 55th ACM Technical Symposium on …,"M Liu, F M'Hiri",2024,dl.acm.org,0,1
+Can language models employ the socratic method? experiments with code debugging,Proceedings of the 55th …,E Al,2024,dl.acm.org,1,2
+[PDF] Natural Language Explanations for Suicide Risk Classification Using Large Language Models,,"W Stern, SJ Goh, N Nur, PJ Aragon, T Mercer",ceur,ws.org,0,1
+Language models and musical analysis,Ethnomusicology,HS Powers,1980,JSTOR,208,1
+MediSwift: Efficient Sparse Pre-trained Biomedical Language Models,arXiv preprint arXiv …,"V Thangarasa, M Salem, S Saxena, K Leong…",2024,arxiv.org,0,1
+Extracting and Summarizing Evidence of Suicidal Ideation in Social Media Contents Using Large Language Models,Proceedings of the 9th …,"LG Singh, J Mao, R Mutalik…",2024,aclanthology.org,0,1
+Positional language models for information retrieval,Proceedings of the 32nd international ACM SIGIR …,"Y Lv, CX Zhai",2009,dl.acm.org,297,11
+[PDF] A hierarchical Bayesian language model based on Pitman-Yor processes,Proceedings of the 21st International Conference on …,YW Teh,2006,aclanthology.org,692,20
+Single-sequence protein structure prediction using a language model and deep learning,Nature …,"R Chowdhury, N Bouatta, S Biswas, C Floristean…",2022,nature.com,248,8
+[PDF] Recurrent neural network based language model.,Interspeech,"T Mikolov, M Karafiát, L Burget, J Cernocký…",2010,fit.vutbr.cz,7734,8
+An approach based on phonemes to large vocabulary Chinese sign language recognition,Proceedings of Fifth IEEE …,"C Wang, W Gao, S Shan",2002,ieeexplore.ieee.org,164,4
+Learning to Decode Collaboratively with Multiple Language Models,arXiv preprint arXiv …,"SZ Shen, H Lang, B Wang, Y Kim, D Sontag",2024,arxiv.org,0,1
+A language modeling framework for resource selection and results merging,Proceedings of the eleventh international …,"L Si, R Jin, J Callan, P Ogilvie",2002,dl.acm.org,200,11
+Unsupervised text style transfer using language models as discriminators,Advances in Neural …,"Z Yang, Z Hu, C Dyer, EP Xing…",2018,proceedings.neurips.cc,291,10
+[PDF] Immediate-head parsing for language models,Proceedings of the 39th annual meeting of the …,E Charniak,2001,aclanthology.org,436,15
+[HTML] Using protein language models for protein interaction hot spot prediction with limited data,BMC Bioinformatics,"K Sargsyan, C Lim",2024,bmcbioinformatics.biomedcentral …,0,1
+Offline recognition of unconstrained handwritten texts using HMMs and statistical language models,IEEE transactions on Pattern …,"H Bunke, S Bengio, A Vinciarelli",2004,ieeexplore.ieee.org,438,25
+[PDF] Smoothed Bloom filter language models: Tera-scale LMs on the cheap,… on Empirical Methods in Natural Language …,"D Talbot, M Osborne",2007,aclanthology.org,90,10
+Language models for image captioning: The quirks and what works,arXiv preprint arXiv …,"J Devlin, H Cheng, H Fang, S Gupta, L Deng…",2015,arxiv.org,323,15
+Improved backing-off for m-gram language modeling,"… conference on acoustics,  speech,  and signal …","R Kneser, H Ney",1995,ieeexplore.ieee.org,2264,8
+Using the output embedding to improve language models,arXiv preprint arXiv:1608.05859,"O Press, L Wolf",2016,arxiv.org,729,8
+Regularizing and optimizing LSTM language models,arXiv preprint arXiv:1708.02182,"S Merity, NS Keskar, R Socher",2017,arxiv.org,1252,5
+[PDF] Statistical language models based on neural networks,"Presentation at Google,  Mountain View,  2nd April",T Mikolov,2012,fit.vutbr.cz,901,1
+[PDF] Can artificial neural networks learn language models?,,"W Xu, A Rudnicky",2000,kilthub.cmu.edu,157,12
+"Correcting Challenging Finnish Learner Texts With Claude, GPT-3.5 and GPT-4 Large Language Models",Proceedings of the Ninth Workshop on Noisy and User …,M Creutz,2024,aclanthology.org,0,1
+[PDF] MEASURING AND MITIGATING HALLUCINATIONS IN LARGE LANGUAGE MODELS: AMULTIFACETED APPROACH,,X Amatriain,2024,amatriain.net,0,1
+Probabilistic top-down parsing and language modeling,Computational linguistics,B Roark,2001,direct.mit.edu,434,16
+DEEP-ICL: Definition-Enriched Experts for Language Model In-Context Learning,arXiv preprint arXiv …,"X Qu, Y Liang, Y Wang, T Zheng, T Yue, L Ma…",2024,arxiv.org,0,1
+What BERT is not: Lessons from a new suite of psycholinguistic diagnostics for language models,Transactions of the Association for Computational …,A Ettinger,2020,direct.mit.edu,604,12
+Critical thinking for language models,arXiv preprint arXiv:2009.07185,"G Betz, C Voigt, K Richardson",2020,arxiv.org,32,7
+[PDF] Generalized algorithms for constructing statistical language models,… of the 41st Annual Meeting of the …,"C Allauzen, M Mohri, B Roark",2003,aclanthology.org,167,6
+A tree-based statistical language model for natural language speech recognition,IEEE Transactions on …,"LR Bahl, PF Brown, PV De Souza…",1989,ieeexplore.ieee.org,516,5
+"Corpus structure, language models, and ad hoc information retrieval",Proceedings of the 27th annual international ACM …,"O Kurland, L Lee",2004,dl.acm.org,198,11
+ClinicalMamba: A Generative Clinical Language Model on Longitudinal Clinical Notes,arXiv preprint arXiv:2403.05795,"Z Yang, A Mitra, S Kwon, H Yu",2024,arxiv.org,0,1
+Query expansion using term relationships in language models for information retrieval,Proceedings of the 14th ACM …,"J Bai, D Song, P Bruza, JY Nie, G Cao",2005,dl.acm.org,259,21
+[PDF] Reading level assessment using support vector machines and statistical language models,… of the 43rd annual meeting of the …,"SE Schwarm, M Ostendorf",2005,aclanthology.org,432,9
+An artificial intelligence language model can improve readability of burns first aid information,Burns,AJ Baldwin,2024,Elsevier,0,1
+An empirical study of smoothing techniques for language modeling,Computer Speech & Language,"SF Chen, J Goodman",1999,Elsevier,4345,34
+[PDF] Cluster-based language models for distributed retrieval,Proceedings of the 22nd annual international ACM …,"J Xu, WB Croft",1999,dl.acm.org,399,7
+Generative language modeling for automated theorem proving,arXiv preprint arXiv:2009.03393,"S Polu, I Sutskever",2020,arxiv.org,169,4
+KAUCUS-Knowledgeable User Simulators for Training Large Language Models,Proceedings of the 1st Workshop on Simulating …,K Dhole,2024,aclanthology.org,0,1
+On structuring probabilistic dependences in stochastic language modelling,Computer Speech & Language,"H Ney, U Essen, R Kneser",1994,Elsevier,927,6
+Stealing Part of a Production Language Model,arXiv preprint arXiv …,"N Carlini, D Paleka, KD Dvijotham, T Steinke…",2024,arxiv.org,0,1
+Identifying textual disinformation using Large Language Models,Proceedings of the 2024 ACM SIGIR Conference on …,M Ernst,2024,dl.acm.org,0,1
+[PDF] Evaluating large language models for the tasks of PoS tagging within the Universal Dependency framework,… of the 16th International Conference on …,"M Machado, E Ruiz",2024,aclanthology.org,0,1
+Unilmv2: Pseudo-masked language models for unified language model pre-training,International …,"H Bao, L Dong, F Wei, W Wang…",2020,proceedings.mlr.press,357,8
+[PDF] Safety and Accountability for Large Language Model Use in HRI,,"CT Chang, B Hayes",cairo,lab.com,0,1
+Using language models for information retrieval,,D Hiemstra,2001,research.utwente.nl,626,9
+Open Source Large Language Models in Action: A Bioinformatics Chatbot for PRIDE database,,"J Bai, S Kamatchinathan, DJ Kundu, C Bandla…",2024,essopenarchive.org,0,1
+[PDF] CorpusNÓS: A massive Galician corpus for training large language models,Proceedings of the …,I de,2024,aclanthology.org,0,1
+What do RNN language models learn about filler-gap dependencies?,arXiv preprint arXiv:1809.00042,"E Wilcox, R Levy, T Morita, R Futrell",2018,arxiv.org,170,7
+Two-stage language models for information retrieval,Proceedings of the 25th annual international ACM …,"CX Zhai, J Lafferty",2002,dl.acm.org,272,16
+A study of smoothing methods for language models applied to information retrieval,ACM Transactions on Information Systems (TOIS),"C Zhai, J Lafferty",2004,dl.acm.org,1596,13
+Revisiting pre-trained models for Chinese natural language processing,arXiv preprint arXiv …,"Y Cui, W Che, T Liu, B Qin, S Wang, G Hu",2020,arxiv.org,620,6
+Unifying visual-semantic embeddings with multimodal neural language models,arXiv preprint arXiv:1411.2539,"R Kiros, R Salakhutdinov, RS Zemel",2014,arxiv.org,1625,8
+"BERT has a mouth, and it must speak: BERT as a Markov random field language model",arXiv preprint arXiv:1902.04094,"A Wang, K Cho",2019,arxiv.org,341,4
+Enabling language models to fill in the blanks,arXiv preprint arXiv:2005.05339,"C Donahue, M Lee, P Liang",2020,arxiv.org,183,9
+Joint language and translation modeling with recurrent neural networks,Proc. of EMNLP,"M Auli, M Galley, C Quirk, G Zweig",2013,microsoft.com,356,8
+[HTML] Understanding latent affective bias in large pre-trained neural language models,Natural Language …,"A Kadan, P Deepak, S Bhadra, MP Gangan…",2024,Elsevier,0,1
+Extracting latent steering vectors from pretrained language models,arXiv preprint arXiv:2205.05124,"N Subramani, N Suresh, ME Peters",2022,arxiv.org,20,4
+Word Importance Explains How Prompts Affect Language Model Outputs,arXiv preprint arXiv …,"S Hackmann, H Mahmoudian, M Steadman…",2024,arxiv.org,0,1
+A comprehensive survey on word representation models: From classical to state-of-the-art word representation language models,Resource Language …,"U Naseem, I Razzak, SK Khan, M Prasad",2021,dl.acm.org,178,10
+Exploring Instructive Prompts for Large Language Models in the Extraction of Evidence for Supporting Assigned Suicidal Risk Levels,Proceedings of the 9th …,"J Chen, V Nguyen, X Dai, D Molla…",2024,aclanthology.org,0,1
+Adapt or get left behind: Domain adaptation through BERT language model finetuning for aspect-target sentiment classification,arXiv preprint arXiv:1908.11860,"A Rietzler, S Stabinger, P Opitz, S Engl",2019,arxiv.org,241,4
+[PDF] Exploiting syntactic structure for language modeling,COLING 1998 Volume 1: The 17th …,"C Chelba, F Jelinek",1998,aclanthology.org,279,17
+Explaining Pre-Trained Language Models with Attribution Scores: An Analysis in Low-Resource Settings,arXiv preprint arXiv:2403.05338,"W Zhou, H Adel, H Schuff, NT Vu",2024,arxiv.org,0,1
+Enhanced User Interaction in Operating Systems through Machine Learning Language Models,arXiv preprint arXiv:2403.00806,"C Zhang, W Lu, C Ni, H Wang, J Wu",2024,arxiv.org,0,1
+… -18.1 μJ/Token Homogeneous DNN-Transformer/Spiking-Transformer Processor with Big-Little Network and Implicit Weight Generation for Large Language Models,2024 IEEE International …,"S Kim, S Kim, W Jo, S Kim, S Hong…",2024,ieeexplore.ieee.org,0,1
+Natural Language Interface Enhanced Camera Using Large Language Models,,"K Wang, W Hong, L Wei",2024,tdcommons.org,0,1
+[PDF] Mining Training Data for Language Modeling Across the World's Languages.,,"M Prasad, T Breiner, D van Esch",isca,archive.org,11,3
+Leveraging Text-to-Text Pretrained Language Models for Question Answering in Chemistry,ACS Omega,"D Tran, L Pascazio, J Akroyd, S Mosbach, M Kraft",2024,ACS Publications,1,1
+W2v-bert: Combining contrastive learning and masked language modeling for self-supervised speech pre-training,2021 IEEE Automatic …,"YA Chung, Y Zhang, W Han, CC Chiu…",2021,ieeexplore.ieee.org,275,6
+"Mastering Text, Code and Math Simultaneously via Fusing Highly Specialized Language Models",arXiv preprint arXiv …,"N Ding, Y Chen, G Cui, X Lv, R Xie, B Zhou…",2024,arxiv.org,0,1
+Masked Thought: Simply Masking Partial Reasoning Steps Can Improve Mathematical Reasoning Learning of Language Models,arXiv preprint arXiv …,"C Chen, X Wang, TE Lin, A Lv, Y Wu, X Gao…",2024,arxiv.org,0,1
+Comparative Analysis of Automatic Literature Review Using Mistral Large Language Model and Human Reviewers,,"HC Tsai, YF Huang, CW Kuo",2024,researchsquare.com,0,1
+Combining Naive Bayes and n-Gram Language Models for Text Classification,European Conference on Information Retrieval,"F Peng, D Schuurmans",2003,Springer,272,14
+EXPLORING LARGE LANGUAGE MODELS FOR THE EDUCATION OF INDIVIDUALS WITH COGNITIVE IMPAIRMENTS,INTED2024 Proceedings,"A Fiora, F Piferi, P Crovari, F Garzotto",2024,library.iated.org,0,1
+[PDF] A new string-to-dependency machine translation algorithm with a target dependency language model,08: HLT,"L Shen, J Xu, R Weischedel",2008,aclanthology.org,332,12
+[PDF] Discriminative training on language model,Optimization,"Z Chen, KF Lee, M Li",2000,Citeseer,59,6
+Dependence language model for information retrieval,… of the 27th annual international ACM …,"J Gao, JY Nie, G Wu, G Cao",2004,dl.acm.org,356,10
+Ernie 3.0: Large-scale knowledge enhanced pre-training for language understanding and generation,arXiv preprint arXiv …,"Y Sun, S Wang, S Feng, S Ding, C Pang…",2021,arxiv.org,302,3
+Socio-cultural adapted chatbots: Harnessing Knowledge Graphs and Large Language Models for enhanced context awarenes,… AI: Language Attitudes …,"JC de Sá, D Anastasiou, M Da Silveira…",2024,aclanthology.org,0,1
+Model-based feedback in the language modeling approach to information retrieval,Proceedings of the tenth international conference on …,"C Zhai, J Lafferty",2001,dl.acm.org,950,18
+Mask-predict: Parallel decoding of conditional masked language models,arXiv preprint arXiv …,"M Ghazvininejad, O Levy, Y Liu…",2019,arxiv.org,478,6
+Language modeling for soft keyboards,Proceedings of the 7th …,"J Goodman, G Venolia, K Steury, C Parker",2002,dl.acm.org,209,11
+Relevance-based language models,ACM SIGIR Forum,"V Lavrenko, WB Croft",2017,dl.acm.org,2119,20
+ArabianGPT: Native Arabic GPT-based Large Language Model,,"A Koubaa, A Ammar, L Ghouti, O Necar, S Sibaee",2024,europepmc.org,0,1
+Data Anonymization for Privacy-Preserving Large Language Model Fine-Tuning on Call Transcripts,… to Language Data …,"S Gardiner, T Habib, K Humphreys…",2024,aclanthology.org,0,1
+Walert: Putting Conversational Information Seeking Knowledge into Action by Building and Evaluating a Large Language Model-Powered Chatbot,Proceedings of the …,"S Pathiyan Cherumanal, L Tian…",2024,dl.acm.org,0,1
+Language-agnostic BERT sentence embedding,arXiv preprint arXiv …,"F Feng, Y Yang, D Cer, N Arivazhagan…",2020,arxiv.org,654,6
+Transforming Competition into Collaboration: The Revolutionary Role of Multi-Agent Systems and Language Models in Modern Organizations,arXiv preprint arXiv:2403.07769,CJX Cruz,2024,arxiv.org,0,1
+Self-Refinement of Language Models from External Proxy Metrics Feedback,arXiv preprint arXiv …,"K Ramji, YS Lee, RF Astudillo, MA Sultan…",2024,arxiv.org,0,1
+scELMo: Embeddings from Language Models are Good Learners for Single-cell Data Analysis,bioRxiv,"T Liu, T Chen, W Zheng, X Luo, H Zhao",2023,biorxiv.org,0,1
+Commonsense knowledge mining from pretrained models,… methods in natural language …,"J Davison, J Feldman, AM Rush",2019,aclanthology.org,296,4
+Socratic models: Composing zero-shot multimodal reasoning with language,arXiv preprint arXiv …,"A Zeng, M Attarian, B Ichter, K Choromanski…",2022,arxiv.org,309,4
+[PDF] How To Choose Training Set for Language Modeling,,"H Zhang, B Xu, T Huang",isca,archive.org,4,1
+GPT-too: A language-model-first approach for AMR-to-text generation,arXiv preprint arXiv …,"M Mager, RF Astudillo, T Naseem, MA Sultan…",2020,arxiv.org,90,8
+Affect-lm: A neural language model for customizable affective text generation,arXiv preprint arXiv …,"S Ghosh, M Chollet, E Laksana, LP Morency…",2017,arxiv.org,215,12
+[PDF] A language model approach to keyphrase extraction,Proceedings of the ACL 2003 workshop on …,"T Tomokiyo, M Hurst",2003,aclanthology.org,409,9
+Dior-CVAE: Pre-trained Language Models and Diffusion Priors for Variational Dialog Generation,Findings of the Association for …,"T Yang, T Tran, I Gurevych",2023,aclanthology.org,0,1
+Distantly-supervised named entity recognition with noise-robust learning and language model augmented self-training,arXiv preprint arXiv …,"Y Meng, Y Zhang, J Huang, X Wang, Y Zhang…",2021,arxiv.org,60,10
+A general language assistant as a laboratory for alignment,arXiv preprint arXiv …,"A Askell, Y Bai, A Chen, D Drain, D Ganguli…",2021,arxiv.org,197,4
+IndoLEM and IndoBERT: A benchmark dataset and pre-trained language model for Indonesian NLP,arXiv preprint arXiv:2011.00677,"F Koto, A Rahimi, JH Lau, T Baldwin",2020,arxiv.org,174,7
+[PDF] Interaction-driven speech input: a data-driven approach to the capture of both local and global language constraints,ACM SIGCHI Bulletin,JR Bellegarda,1998,dl.acm.org,226,2
+Foreign Information Manipulation & Interference: A Large Language Model Perspective,,"B Bjurling, A Thore, S Riad",diva,portal.org,0,1
+Syntax-based language models for statistical machine translation,Proceedings of Machine …,"E Charniak, K Knight, K Yamada",2003,aclanthology.org,231,10
+[PDF] Efficient Language Modeling Algorithms with Applications to Statistical Machine Translation,,K Heafield,2013,Citeseer,15,8
+"[PDF] Learning the protein language: Evolution, structure, and function",Cell systems,"T Bepler, B Berger",2021,cell.com,224,8
+Xlnet: Generalized autoregressive pretraining for language understanding,Advances in neural …,"Z Yang, Z Dai, Y Yang, J Carbonell…",2019,proceedings.neurips.cc,8842,16
+Identifying and reducing gender bias in word-level language models,arXiv preprint arXiv:1904.03035,"S Bordia, SR Bowman",2019,arxiv.org,284,9
+A term weighted neural language model and stacked bidirectional LSTM based framework for sarcasm identification,IEEE Access,"A Onan, MA Toçoğlu",2021,ieeexplore.ieee.org,282,3
+[BUCH] Language modeling for information retrieval,,"B Croft, J Lafferty",2003,books.google.com,450,6
+Do Language Models Care About Text Quality? Evaluating Web-Crawled Corpora Across 11 Languages,arXiv preprint arXiv …,"R van Noord, T Kuzman, P Rupnik, N Ljubešić…",2024,arxiv.org,0,1
+[PDF] A language modeling approach to predicting reading difficulty,… of the human language …,K Collins,2004,aclanthology.org,331,14
+Towards better decoding and language model integration in sequence to sequence models,arXiv preprint arXiv:1612.02695,"J Chorowski, N Jaitly",2016,arxiv.org,407,9
+The Heuristic Core: Understanding Subnetwork Generalization in Pretrained Language Models,arXiv preprint arXiv:2403.03942,"A Bhaskar, D Friedman, D Chen",2024,arxiv.org,0,1
+Large Language Models (LLMs) para calidad y estandarización de datos,,A Herrando Moraira,e,spacio.uned.es,0,1
+Language model adaptation using mixtures and an exponentially decaying cache,1997 IEEE International …,"PR Clarkson, AJ Robinson",1997,ieeexplore.ieee.org,258,12
+Videobert: A joint model for video and language representation learning,Proceedings of the …,"C Sun, A Myers, C Vondrick…",2019,openaccess.thecvf.com,1236,11
+Zero-shot translation of attention patterns in vqa models to natural language,DAGM German Conference …,"L Salewski, AS Koepke, HPA Lensch…",2023,Springer,1,2
+Large-scale analysis of counseling conversations: An application of natural language processing to mental health,Transactions of the Association for …,"T Althoff, K Clark, J Leskovec",2016,direct.mit.edu,318,19
+[PDF] Using the web for language independent spellchecking and autocorrection,… in Natural Language …,"C Whitelaw, B Hutchinson, G Chung…",2009,aclanthology.org,207,16
+"Document language models, query models, and risk minimization for information retrieval",Proceedings of the 24th annual international ACM …,"J Lafferty, C Zhai",2001,dl.acm.org,1111,23
+"[HTML] The language of proteins: NLP, machine learning & protein sequences",Computational and Structural Biotechnology …,"D Ofer, N Brandes, M Linial",2021,Elsevier,211,6
+Large scale discriminative training of hidden Markov models for speech recognition,Computer Speech & Language,"PC Woodland, D Povey",2002,Elsevier,564,26
+Correcting language model outputs by editing salient layers,Findings of the …,"K Mishra, T Soliman, A Ramakrishna…",2024,aclanthology.org,0,1
+[PDF] NLP4ReF: Requirements Classification and Forecasting: From Model-Based Design to Large Language Models,,"J Peer, Y Mordecai, Y Reich, WA Bellevue",,researchgate.net,0,1
+Contextual net: A multimodal vision-language model for segmentation of pneumothorax,Journal of Imaging Informatics in …,"Z Huemann, X Tie, J Hu, TJ Bradshaw",2024,Springer,3,2
+Editing factual knowledge in language models,arXiv preprint arXiv:2104.08164,"N De Cao, W Aziz, I Titov",2021,arxiv.org,232,5
+PromptKD: Unsupervised Prompt Distillation for Vision-Language Models,arXiv preprint arXiv …,"Z Li, X Li, X Fu, X Zhang, W Wang, J Yang",2024,arxiv.org,0,1
+[PDF] Forest rescoring: Faster decoding with integrated language models,Proceedings of the 45th annual meeting of …,"L Huang, D Chiang",2007,aclanthology.org,346,16
+[PDF] Recognition of out-of-vocabulary words with sub-lexical language models.,,L Galescu,isca,archive.org,41,3
+A Retrieval-Augmented Generation Based Large Language Model Benchmarked On a Novel Dataset,Journal of Student Research,K Pichai,2023,jsr.org,0,1
+"[PDF] "" Ranking of Large Language Model (LLM) Cultural Bias",,"S Huang, Y Mei, Y Wang, Z Yang, S Gong",,researchgate.net,0,1
+Adaptation of deep bidirectional multilingual transformers for Russian language,arXiv preprint arXiv:1905.07213,"Y Kuratov, M Arkhipov",2019,arxiv.org,380,5
+HumBEL: A Human-in-the-Loop Approach for Evaluating Demographic Factors of Language Models in Human-Machine Conversations,… of the 18th Conference of the …,"A Sicilia, J Gates, M Alikhani",2024,aclanthology.org,0,1
+A language modeling approach for temporal information needs,Advances in Information …,"K Berberich, S Bedathur, O Alonso…",2010,Springer,201,14
+[HTML] xCAPT5: protein–protein interaction prediction using deep and wide multi-kernel pooling convolutional neural networks with protein language model,BMC bioinformatics,"TH Dang, TA Vu",2024,bmcbioinformatics.biomedcentral …,0,1
+The Use of Large Language Models for Named Entity Recognition in Latin and Ancient Greek,"… ,  Date: 2024/01/29 …","M Beersmans, E de Graaf…",2024,lirias.kuleuven.be,0,1
+[PDF] Recurrent neural networks for language understanding.,,"K Yao, G Zweig, MY Hwang, Y Shi, D Yu",isca,archive.org,401,10
+"Opportunities, challenges, and future directions of large language models, including ChatGPT in medical education: a systematic scoping review.",Journal of Educational Evaluation for Health …,"X Xu, Y Chen, J Miao",2024,europepmc.org,0,1
+[PDF] Improving language understanding by generative pre-training,,"A Radford, K Narasimhan, T Salimans, I Sutskever",2018,mikecaptain.com,8599,19
+Finetuned Multimodal Language Models Are High-Quality Image-Text Data Filters,arXiv preprint arXiv …,"W Wang, K Mrini, L Yang, S Kumar, Y Tian…",2024,arxiv.org,0,1
+Unsupervised query segmentation using generative language models and wikipedia,Proceedings of the 17th international conference on …,"B Tan, F Peng",2008,dl.acm.org,200,7
+Encoder-decoder models can benefit from pre-trained masked language models in grammatical error correction,arXiv preprint arXiv …,"M Kaneko, M Mita, S Kiyono, J Suzuki, K Inui",2020,arxiv.org,144,7
+Language model mixtures for contextual ad placement in personal blogs,International Conference on Natural Language …,"G Mishne, M De Rijke",2006,Springer,19,16
+Are Language Models Puzzle Prodigies? Algorithmic Puzzles Unveil Serious Challenges in Multimodal Reasoning,arXiv preprint arXiv:2403.03864,"D Ghosal, VTY Han, CY Ken, S Poria",2024,arxiv.org,0,1
+Continuous sign language recognition: Towards large vocabulary statistical recognition systems handling multiple signers,Computer Vision and Image Understanding,"O Koller, J Forster, H Ney",2015,Elsevier,431,5
+[PDF] Should Large Language Models Go to School for Phonology?,,"A Suvarna, H Khandelwal, N Peng",,asuvarna31.github.io,0,1
+[PDF] Limitations of Large Language Models as Automatic Evaluators,,"R Stureborg, D Alikaniotis, Y Suhara",,southnlp.github.io,0,1
+"[PDF] "" The Large Language Model (LLM) Bias Evaluation (Age Bias)",,Y Duan,,researchgate.net,0,1
+The bottom-up evolution of representations in the transformer: A study with machine translation and language modeling objectives,arXiv preprint arXiv:1909.01380,"E Voita, R Sennrich, I Titov",2019,arxiv.org,169,11
+Promptsource: An integrated development environment and repository for natural language prompts,arXiv preprint arXiv …,"SH Bach, V Sanh, ZX Yong, A Webson, C Raffel…",2022,arxiv.org,229,10
+InfoXLM: An information-theoretic framework for cross-lingual language model pre-training,arXiv preprint arXiv …,"Z Chi, L Dong, F Wei, N Yang, S Singhal…",2020,arxiv.org,289,8
+CURATRON: Complete Robust Preference Data for Robust Alignment of Large Language Models,prints,"NU Naresh, T Tulabandhula",2024,ui.adsabs.harvard.edu,0,1
+The effect of aided language modeling on symbol comprehension and production in 2 preschoolers with autism,,"KDR Drager, VJ Postal, L Carrolus, M Castellano…",2006,ASHA,227,11
+Fine-tuning language models on dutch protest event tweets,Proceedings of the 7th …,"M Loerakker, L Müter, M Schraagen",2024,aclanthology.org,1,2
+A language modeling approach to information retrieval,ACM SIGIR Forum,"JM Ponte, WB Croft",2017,dl.acm.org,3940,29
+[PDF] Predicting Learning Performance with Large Language Models: A Study in Adult Literacy,,"L Zhang, J Lin, C Borchers, J Sabatini, J Hollander…",,researchgate.net,0,1
+Submission of Evidence to the House of Lords Communications and Digital Committee Inquiry into Large language models,,D McQuillan,2023,research.gold.ac.uk,0,1
+Embedding-based query language models,Proceedings of the 2016 ACM international …,"H Zamani, WB Croft",2016,dl.acm.org,170,5
+Dasher—a data entry interface using continuous gestures and language models,Proceedings of the 13th annual …,"DJ Ward, AF Blackwell, DJC MacKay",2000,dl.acm.org,448,14
+Malware classification with LSTM and GRU language models and a character-level CNN,2017 IEEE international …,"B Athiwaratkun, JW Stokes",2017,ieeexplore.ieee.org,280,7
+Rt-2: Vision-language-action models transfer web knowledge to robotic control,arXiv preprint arXiv …,"A Brohan, N Brown, J Carbajal, Y Chebotar…",2023,arxiv.org,227,2
+"Declarative data cleaning: Language, model, and algorithms",,"H Galhardas, D Florescu, D Shasha, E Simon, C Saita",2001,inria.hal.science,546,6
+[PDF] Relevance Feedback and Personalization: A Language Modeling Perspective.,DELOS,"WB Croft, S Cronen",2001,Citeseer,191,6
+"[PDF] Extending HAnS: Large Language Models For Question Answering, Summarization, And Topic Segmentation In An ML-based Learning Experience Platform","… ,  Tagungsband der 35 …","T Ranzenberger, T Bocklet, S Freisinger…",2024,opus4.kobv.de,0,1
+Explain yourself! leveraging language models for commonsense reasoning,arXiv preprint arXiv …,"NF Rajani, B McCann, C Xiong, R Socher",2019,arxiv.org,457,4
+[PDF] A Study on Dialogue Evaluation Metrics Utilizing Large Language Models,,"S Lee, D Jung, Y Hur",,hiai.korea.ac.kr,0,1
+PEMANFAATAN LARGE LANGUAGE MODELS CHATGPT-4 UNTUK KONTROL DRONE: STUDI KASUS DJI TELLO,"Teknika STTKD: Jurnal Teknik,  Elektronik,  Engine",E Sofyan,2024,jurnal.sttkd.ac.id,0,1
+Statistical language models for information retrieval a critical review,Foundations and Trends® in Information Retrieval,CX Zhai,2008,nowpublishers.com,703,20
+[PDF] Large Language Models as Generalizable Text-to-Table Systems,,"S Coyne, Y Dong",,anlp.jp,0,1
+VLM-PL: Advanced Pseudo Labeling approach Class Incremental Object Detection with Vision-Language Model,arXiv preprint arXiv:2403.05346,"J Kim, Y Ku, J Kim, J Cha, S Baek",2024,arxiv.org,0,1
+[PDF] Language independent authorship attribution with character level n-grams,10th Conference of the …,"F Peng, D Schuurmans, V Keselj…",2003,aclanthology.org,228,13
+"GeoGPT, the large earth science language model system",,J Wang,2024,meetingorganizer.copernicus.org,0,1
+A unified approach to statistical language modeling for Chinese,2000 IEEE International …,"J Gao, HF Wang, M Li, KF Lee",2000,ieeexplore.ieee.org,43,7
+Vl-adapter: Parameter-efficient transfer learning for vision-and-language tasks,Proceedings of the IEEE/CVF …,"YL Sung, J Cho, M Bansal",2022,openaccess.thecvf.com,211,6
+Distribution of content words and phrases in text and language modelling,Natural language engineering,SM Katz,1996,cambridge.org,364,7
+Using natural-language knowledge sources in speech recognition,Computational Models of Speech Pattern Processing,RC Moore,1999,Springer,291,7
+[PDF] Enhancing the TED-LIUM corpus with selected data for language modeling and more TED talks.,LREC,"A Rousseau, P Deléglise, Y Esteve",2014,academia.edu,319,6
+Estimation of probabilities from sparse data for the language model component of a speech recognizer,"IEEE transactions on acoustics,  speech,  and signal …",S Katz,1987,ieeexplore.ieee.org,2811,12
+Passage retrieval based on language models,Proceedings of the eleventh international conference …,"X Liu, WB Croft",2002,dl.acm.org,267,10
+Improvements to BM25 and language models examined,Proceedings of the 19th Australasian …,"A Trotman, A Puurula, B Burgess",2014,dl.acm.org,211,6
+Librispeech: an asr corpus based on public domain audio books,2015 IEEE international …,"V Panayotov, G Chen, D Povey…",2015,ieeexplore.ieee.org,5847,12
+Exploiting cloze questions for few shot text classification and natural language inference,arXiv preprint arXiv:2001.07676,"T Schick, H Schütze",2020,arxiv.org,1221,7
+Masked language modeling and the distributional hypothesis: Order word matters pre-training for little,arXiv preprint arXiv …,"K Sinha, R Jia, D Hupkes, J Pineau, A Williams…",2021,arxiv.org,201,5
+-Puzzle: A Cost-Efficient Testbed for Benchmarking Reinforcement Learning Algorithms in Generative Language Model,arXiv preprint arXiv …,"Y Zhang, L Chen, B Liu, Y Yang, Q Cui, Y Tao…",2024,arxiv.org,0,1
+Aggregate and mixed-order Markov models for statistical language processing,lg/9706007,"L Saul, F Pereira",1997,arxiv.org,258,11
+Integrating supervised extractive and generative language models for suicide risk evidence summarization,Proceedings of the 9th Workshop on …,"R Tanaka, Y Fukazawa",2024,aclanthology.org,2,1
+Contrastive Region Guidance: Improving Grounding in Vision-Language Models without Training,arXiv preprint arXiv …,"D Wan, J Cho, E Stengel",2024,arxiv.org,0,1
+Vilbert: Pretraining task-agnostic visiolinguistic representations for vision-and-language tasks,Advances in neural …,"J Lu, D Batra, D Parikh, S Lee",2019,proceedings.neurips.cc,3193,8
+Integrating word relationships into language models,Proceedings of the 28th annual international ACM …,"G Cao, JY Nie, J Bai",2005,dl.acm.org,212,13
+[PDF] Releasing the Source Code of Large Language Models via Conversational Access,,R Hunter,,roscohunter.github.io,0,1
+"Read like humans: Autonomous, bidirectional and iterative language modeling for scene text recognition",Proceedings of the …,"S Fang, H Xie, Y Wang, Z Mao…",2021,openaccess.thecvf.com,256,8
+Evaluating the representational power of pre-trained DNA language models for regulatory genomics,bioRxiv,"Z Tang, PK Koo",2024,biorxiv.org,1,1
+[PDF] Improved hindi broadcast ASR by adapting the language model and pronunciation model using a priori syntactic and morphophonemic knowledge.,INTERSPEECH,"P Jyothi, M Hasegawa",2015,cse.iitb.ac.in,10,9
+[PDF] Class-based n-gram models of natural language,Computational …,"PF Brown, VJ Della Pietra, PV Desouza…",1992,aclanthology.org,4511,16
+"Educational modelling language: modelling reusable, interoperable, rich and personalised units of learning",British journal of educational …,"R Koper, J Manderveld",2004,Wiley Online Library,261,7
+[PDF] Improving transformer-based end-to-end speech recognition with connectionist temporal classification and language model integration,,T Nakatani,isca,archive.org,229,8
+Detecting ESG topics using domain-specific language models and data augmentation approaches,arXiv preprint arXiv:2010.08319,"T Nugent, N Stelea, JL Leidner",2020,arxiv.org,7,2
+[PDF] Factored language models and generalized parallel backoff,Companion Volume of the Proceedings of …,"J Bilmes, K Kirchhoff",2003,aclanthology.org,395,13
+Learning to Decode Collaboratively with Multiple Language Models,arXiv e …,"S Zejiang Shen, H Lang, B Wang, Y Kim…",2024,ui.adsabs.harvard.edu,0,1
+"AI Literacy for the Age of Large Language Models: A Guide to Inner Workings, Limitations, Prompting, and Responsible Use",,M Hoque,2023,researchportal.port.ac.uk,0,1
+[PDF] Comparative Analysis of ML (Machine Learning) and LLM (Large Language Models) in Resume Parsing: A Paradigm Shift in Talent Acquisition,,E Kaygin,2023,researchgate.net,0,1
+Understanding Online Attitudes with Pre-Trained Language Models,Proceedings of the International Conference on …,"W Power, Z Obradovic",2023,dl.acm.org,0,1
+Bridging Language Barriers In Clinical Screening: Leveraging Large Language Models (LLMs) to Generate Bilingual Screening Surveys for Patients with Limited …,,T VanDyk,2024,scholarworks.uvm.edu,0,1
+Research on Grid Inspection Technology based on General Knowledge Enhanced multi-modal Large Language Models,,"P Gao, Z Raoa, S Gaoa, Y Zhenga, Y Lia",Proc. of SPIE Vol,spiedigitallibrary.org,0,1
+Time-based language models,Proceedings of the twelfth international conference on …,"X Li, WB Croft",2003,dl.acm.org,363,13
+Identifying Incarceration Status in the Electronic Health Record Using Large Language Models in Emergency Department Settings,,"T Huang, V Socrates, A Gilson, C Safranek, L Chi…",Journal of Clinical and …,cambridge.org,0,1
+[PDF] … MULTI-CLASS NEWS CLASSIFICATION THROUGH BERT-AUGMENTED PROMPT ENGINEERING IN LARGE LANGUAGE MODELS: A NOVEL APPROACH,The 10th International scientific and practical …,"F Zhao, F Yu",2024,dspace.uzhnu.edu.ua,0,1
+CrowS-pairs: A challenge dataset for measuring social biases in masked language models,arXiv preprint arXiv …,"N Nangia, C Vania, R Bhalerao…",2020,arxiv.org,399,6
+Reflexion: Language agents with verbal reinforcement learning,Advances in …,"N Shinn, F Cassano, A Gopinath…",2024,proceedings.neurips.cc,239,2
+The development of language-like communication without a language model,Science,S Goldin,1977,science.org,469,9
+Cluster-based retrieval using language models,Proceedings of the 27th annual international ACM …,"X Liu, WB Croft",2004,dl.acm.org,617,6
+Language modeling for bag-of-visual words image categorization,… of the 2008 international conference on …,"P Tirilly, V Claveau, P Gros",2008,dl.acm.org,201,12
+Diffusion on language model embeddings for protein sequence generation,arXiv preprint arXiv …,"V Meshchaninov, P Strashnov, A Shevtsov…",2024,arxiv.org,0,1
+Morph-based speech recognition and modeling of out-of-vocabulary words across languages,… Speech and Language …,"M Creutz, T Hirsimäki, M Kurimo, A Puurula…",2007,dl.acm.org,190,10
+[PDF] Can large language models improve student learning?,,TH Pers,Improving University Science Teaching and Learning,tidsskrift.dk,0,1
+Lightly supervised and unsupervised acoustic model training,Computer Speech & Language,"L Lamel, JL Gauvain, G Adda",2002,Elsevier,387,20
+[PDF] Application of Large Language Models in Automatic Websites Remediation: A Preliminary Study on Enhancing Web Accessibility with ChatGPT,,"A Othman, A Dhouib, AN Al Jabor",,researchgate.net,0,1
+Anomaly Detection by Adapting a pre-trained Vision Language Model,arXiv preprint arXiv:2403.09493,"Y Cai, X He, D Liang, A Tong, X Bai",2024,arxiv.org,0,1
+Transformers and Language Models in Form Understanding: A Comprehensive Review of Scanned Document Analysis,arXiv preprint arXiv …,"A Abdallah, D Eberharter, Z Pfister, A Jatowt",2024,arxiv.org,0,1
+Exploring pre-trained language models for event extraction and generation,Proceedings of the 57th …,"S Yang, D Feng, L Qiao, Z Kan, D Li",2019,aclanthology.org,326,1
+[PDF] Bayesian unsupervised word segmentation with nested Pitman-Yor language modeling,… Language Processing of the …,"D Mochihashi, T Yamada, N Ueda",2009,aclanthology.org,337,19
+FontCLIP: A Semantic Typography Visual-Language Model for Multilingual Font Applications,arXiv preprint arXiv …,"Y Tatsukawa, I Shen, A Qi, Y Koyama…",2024,arxiv.org,0,1
+PENGEMBANGAN APLIKASI LATIHAN SOAL MENGGUNAKAN LARGE LANGUAGE MODEL (LLM) BERBASIS WEB,,"AE TARIGAN, E TANTAWI, J SITANGGANG",2024,repository.mikroskil.ac.id,0,1
+Language models and search algorithms for real-time speech recognition,Machine Studies,C Scagliola,1985,Elsevier,237,3
+Motionlm: Multi-agent motion forecasting as language modeling,Proceedings of the …,"A Seff, B Cera, D Chen, M Ng, A Zhou…",2023,openaccess.thecvf.com,15,6
+PreCurious: How Innocent Pre-Trained Language Models Turn into Privacy Traps,arXiv preprint arXiv:2403.09562,"R Liu, T Wang, Y Cao, L Xiong",2024,arxiv.org,0,1
+Moses: Open source toolkit for statistical machine translation,Proceedings of the …,"P Koehn, H Hoang, A Birch…",2007,research.ed.ac.uk,7196,46
+Deidentifying a Norwegian clinical corpus-An effort to create a privacy-preserving Norwegian large clinical language model,… to Language Data …,"P Ngo, M Tejedor, TO Svenning…",2024,aclanthology.org,0,1
+A word graph algorithm for large vocabulary continuous speech recognition,Computer Speech & Language,"S Ortmanns, H Ney, X Aubert",1997,Elsevier,272,8
+[PDF] Integrating language and vision to generate natural language descriptions of videos in the wild,"… of COLING 2014,  the …","J Thomason, S Venugopalan…",2014,aclanthology.org,261,9
+Vision-Language Models for Medical Report Generation and Visual Question Answering: A Review,arXiv preprint arXiv:2403.02469,"I Hartsock, G Rasool",2024,arxiv.org,0,1
+AI Language Models Could Both Help and Harm Equity in Marine Policymaking: The Case Study of the BBNJ Question-Answering Bot,arXiv preprint arXiv …,"M Ziegler, S Lothian, B O'Neill, R Anderson…",2024,arxiv.org,0,1
+"DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter",arXiv preprint arXiv:1910.01108,"V Sanh, L Debut, J Chaumond, T Wolf",2019,arxiv.org,5568,5
+Klue: Korean language understanding evaluation,arXiv preprint arXiv …,"S Park, J Moon, S Kim, WI Cho, J Han, J Park…",2021,arxiv.org,200,7
+Freelb: Enhanced adversarial training for natural language understanding,arXiv preprint arXiv …,"C Zhu, Y Cheng, Z Gan, S Sun, T Goldstein…",2019,arxiv.org,443,5
+BERTology meets biology: interpreting attention in protein language models,arXiv preprint arXiv …,"J Vig, A Madani, LR Varshney, C Xiong…",2020,arxiv.org,246,10
+[PDF] Understanding minerals better: Advancing mineral classification framework through explainable AI and large language model integration,,"TTH Nguyen, TCM Truong",,researchgate.net,0,1
+"Match, expand and improve: Unsupervised finetuning for zero-shot action recognition with language knowledge",Proceedings of the …,"W Lin, L Karlinsky, N Shvetsova…",2023,openaccess.thecvf.com,10,8
+[PDF] The CMU statistical language modeling toolkit and its use in the 1994 ARPA CSR evaluation,,R Rosenfeld,1995,kilthub.cmu.edu,167,9
+Jointly modeling deep video and compositional text to bridge vision and language in a unified framework,… of the AAAI conference on artificial …,"R Xu, C Xiong, W Chen, J Corso",2015,ojs.aaai.org,376,9
+A statistical semantic language model for source code,Proceedings of the 2013 …,"TT Nguyen, AT Nguyen, HA Nguyen…",2013,dl.acm.org,288,2
+Pix2struct: Screenshot parsing as pretraining for visual language understanding,International …,"K Lee, M Joshi, IR Turc, H Hu, F Liu…",2023,proceedings.mlr.press,94,7
+"Pre-train, prompt, and predict: A systematic survey of prompting methods in natural language processing",ACM Computing …,"P Liu, W Yuan, J Fu, Z Jiang, H Hayashi…",2023,dl.acm.org,2865,4
+Enriching pre-trained language model with entity information for relation classification,Proceedings of the 28th ACM international conference …,"S Wu, Y He",2019,dl.acm.org,403,5
+Multi-class composite N-gram language model,Speech communication,"H Yamamoto, S Isogai, Y Sagisaka",2003,Elsevier,58,7
+Word embedding based generalized language model for information retrieval,Proceedings of the 38th …,"D Ganguly, D Roy, M Mitra, GJF Jones",2015,dl.acm.org,307,10
+[PDF] Sentence-level MT evaluation without reference translations: Beyond language modeling,Proceedings of the 10th EAMT …,"M Gamon, A Aue, M Smets",2005,aclanthology.org,151,8
+[PDF] Recurrent continuous translation models,… methods in natural language …,"N Kalchbrenner, P Blunsom",2013,aclanthology.org,1851,6
+Thesis Proposal: Detecting Empathy Using Multimodal Language Model,Proceedings of the …,"MR Hasan, MZ Hossain, A Krishna…",2024,aclanthology.org,0,1
+Large-scale adversarial training for vision-and-language representation learning,Advances in Neural …,"Z Gan, YC Chen, L Li, C Zhu…",2020,proceedings.neurips.cc,447,9
+AI language models are transforming the medical writing space–like it or not!,Medical Writing,K Martin,2023,journal.emwa.org,0,1
+[BUCH] Bayesian learning of probabilistic language models,,A Stolcke,1994,search.proquest.com,304,9
+[PDF] GPoeT: a language model trained for rhyme generation on synthetic data,,A Popescu,arodes.hes,so.ch,2,1
+LEGION: Harnessing Pre-trained Language Models for GitHub Topic Recommendations with Distribution-Balance Loss,arXiv preprint arXiv …,"YT Dang, TL Cong, PT Nguyen, AMT Bui…",2024,arxiv.org,0,1
+Hatebert: Retraining bert for abusive language detection in english,arXiv preprint arXiv …,"T Caselli, V Basile, J Mitrović, M Granitzer",2020,arxiv.org,269,9
+ERNIE: Enhanced language representation with informative entities,arXiv preprint arXiv …,"Z Zhang, X Han, Z Liu, X Jiang, M Sun, Q Liu",2019,arxiv.org,1473,12
+[HTML] Covid-twitter-bert: A natural language processing model to analyse covid-19 content on twitter,Frontiers in artificial …,"M Müller, M Salathé, PE Kummervold",2023,frontiersin.org,379,12
+Ammus: A survey of transformer-based pretrained models in natural language processing,arXiv preprint arXiv …,"KS Kalyan, A Rajasekharan, S Sangeetha",2021,arxiv.org,217,3
+UDParse@ SIGTYP 2024 Shared Task: Modern language models for historical languages,Proceedings of the 6th Workshop on Research in …,J Heinecke,2024,aclanthology.org,1,2
+In-context Prompt Learning for Test-time Vision Recognition with Frozen Vision-language Model,arXiv preprint arXiv:2403.06126,"J Yin, X Zhang, L Wu, X Xie, X Wang",2024,arxiv.org,0,1
+Information Flow Routes: Automatically Interpreting Language Models at Scale,arXiv preprint arXiv:2403.00824,"J Ferrando, E Voita",2024,arxiv.org,0,1
+A comparative study of methods for estimating query language models with pseudo feedback,Proceedings of the 18th ACM conference on …,"Y Lv, CX Zhai",2009,dl.acm.org,225,8
+A language modeling framework for expert finding,Information Processing & Management,"K Balog, L Azzopardi, M de Rijke",2009,Elsevier,294,19
+[HTML] Shared computational principles for language processing in humans and deep language models,Nature …,"A Goldstein, Z Zada, E Buchnik, M Schain, A Price…",2022,nature.com,213,16
+PageRank without hyperlinks: Structural reranking using links induced by language models,ACM Transactions on Information Systems (TOIS),"O Kurland, L Lee",2010,dl.acm.org,265,17
+Language modeling by variable length sequences: Theoretical formulation and evaluation of multigrams,1995 International Conference on …,"S Deligne, F Bimbot",1995,ieeexplore.ieee.org,232,7
+Why Generate When You Can Discriminate? A Novel Technique for Text Classification using Language Models,Findings of the …,"S Pawar, N Ramrakhiyani, A Sinha…",2024,aclanthology.org,0,1
+Frequency Balanced Datasets Lead to Better Language Models,Findings of the Association for …,"R Zevallos, M Farrús, N Bel",2023,aclanthology.org,1,1
+Multi-task deep neural networks for natural language understanding,arXiv preprint arXiv:1901.11504,"X Liu, P He, W Chen, J Gao",2019,arxiv.org,1306,6
+Pre-training with whole word masking for chinese bert,"… ,  Speech,  and Language …","Y Cui, W Che, T Liu, B Qin…",2021,ieeexplore.ieee.org,1159,6
+IIITDWD-zk@ DravidianLangTech-2024: Leveraging the Power of Language Models for Hate Speech Detection in Telugu-English Code-Mixed Text,… for Dravidian Languages,"Z Shaik, SKR Kasu, S Saumya…",2024,aclanthology.org,1,2
+Learning the language of viral evolution and escape,Science,"B Hie, ED Zhong, B Berger, B Bryson",2021,science.org,219,20
+Arabert: Transformer-based model for arabic language understanding,arXiv preprint arXiv:2003.00104,"W Antoun, F Baly, H Hajj",2020,arxiv.org,858,9
+"[PDF] “As an AI language model, I cannot”: Investigating LLM Denials of User Requests",,"J Wester, T Schrills, H Pohl, N van Berkel",2024,joelwester.com,0,1
+Prefix-tuning: Optimizing continuous prompts for generation,arXiv preprint arXiv:2101.00190,"XL Li, P Liang",2021,arxiv.org,2430,9
+"Bart: Denoising sequence-to-sequence pre-training for natural language generation, translation, and comprehension",arXiv preprint arXiv …,"M Lewis, Y Liu, N Goyal, M Ghazvininejad…",2019,arxiv.org,8637,7
+UzRoberta: A pre-trained language model for Uzbek,AIP Conference Proceedings,"R Davronov, F Adilova",2024,pubs.aip.org,0,1
+Communicating about quantity without a language model: Number devices in homesign grammar,Cognitive psychology,"M Coppola, E Spaepen, S Goldin",2013,Elsevier,59,18
+[PDF] Improving language models by clustering training sentences,Fourth Conference on Applied Natural Language …,D Carter,1994,aclanthology.org,43,11
+[PDF] Long short-term memory recurrent neural network architectures for large scale acoustic modeling,,"H Sak, AW Senior, F Beaufays",isca,archive.org,3094,8
+Parsimonious language models for information retrieval,Proceedings of the 27th annual …,"D Hiemstra, S Robertson, H Zaragoza",2004,dl.acm.org,167,15
+Program synthesis for character level language modeling,International conference on …,"P Bielik, V Raychev, M Vechev",2022,openreview.net,16,6
+Adapting Language Models When Training on Privacy-Transformed Data,13th Language …,"MAT Turan, D Klakow, E Vincent…",2022,inria.hal.science,2,8
+Functorial Language Models,arXiv preprint arXiv:2103.14411,"A Toumi, A Koziell",2021,arxiv.org,208,8
+The curious case of neural text degeneration,arXiv preprint arXiv …,"A Holtzman, J Buys, L Du, M Forbes, Y Choi",2019,arxiv.org,2349,8
+[PDF] Cognitive Computational Neuroscience of Language: Using Computational Models to Investigate Language Processing in the Brain,… of Language,"A Lopopolo, E Fedorenko, R Levy…",2024,direct.mit.edu,0,1
+[PDF] Language modeling with utterance-meaning pairs,,"GJ Wirsching, C Kölbl",opus.bibliothek.uni,augsburg.de,13,6
+Tinybert: Distilling bert for natural language understanding,arXiv preprint arXiv …,"X Jiao, Y Yin, L Shang, X Jiang, X Chen, L Li…",2019,arxiv.org,1560,5
+Git: A generative image-to-text transformer for vision and language,arXiv preprint arXiv …,"J Wang, Z Yang, X Hu, L Li, K Lin, Z Gan, Z Liu…",2022,arxiv.org,312,4
+An end-to-end neural network for polyphonic piano music transcription,"… Audio,  Speech,  and Language …","S Sigtia, E Benetos, S Dixon",2016,ieeexplore.ieee.org,385,14
+Modeling long distance dependence in language: Topic mixtures vs. dynamic cache models,… Conference on Spoken Language …,"R Iyer, M Ostendorf",1996,ieeexplore.ieee.org,155,11
+Unicoder-vl: A universal encoder for vision and language by cross-modal pre-training,Proceedings of the AAAI …,"G Li, N Duan, Y Fang, M Gong, D Jiang",2020,aaai.org,817,12
+Taking a hint: Leveraging explanations to make vision and language models more grounded,Proceedings of the …,"RR Selvaraju, S Lee, Y Shen, H Jin…",2019,openaccess.thecvf.com,239,12
+It5: Large-scale text-to-text pretraining for italian language understanding and generation,arXiv preprint arXiv:2203.03759,"G Sarti, M Nissim",2022,arxiv.org,32,3
+Language as a latent variable: Discrete generative models for sentence compression,arXiv preprint arXiv:1609.07317,"Y Miao, P Blunsom",2016,arxiv.org,258,5
+Language conditioned imitation learning over unstructured data,arXiv preprint arXiv:2005.07648,"C Lynch, P Sermanet",2020,arxiv.org,171,8
+Statistical language modeling for speech disfluencies,1996 IEEE International Conference on …,"A Stolcke, E Shriberg",1996,ieeexplore.ieee.org,209,14
+[PDF] Unified language modeling using finite-state transducers with first applications.,,"HJGA Dolfing, PG Buckley, D Horowitz",isca,archive.org,6,3
+Exploiting language models for annotation-efficient knowledge discovery,,J Huang,2023,ideals.illinois.edu,0,1
+An Interpretable Ensemble of Graph and Language Models for Improving Search Relevance in E-Commerce,arXiv preprint arXiv …,"N Choudhary, EW Huang, K Subbian…",2024,arxiv.org,0,1
+[PDF] The astounding effectiveness of dual language education for all,NABE Journal of Research and practice,"VP Collier, WP Thomas",2004,musd.org,1128,13
+[PDF] Improving Conversation-Context Language Models with Multiple Spoken Language Understanding Models.,,"R Masumura, T Tanaka, A Ando, H Kamiyama…",isca,archive.org,5,3
+ProtLLM: An Interleaved Protein-Language LLM with Protein-as-Word Pre-Training,arXiv preprint arXiv …,"L Zhuo, Z Chi, M Xu, H Huang, H Zheng, C He…",2024,arxiv.org,0,1
+Unsupervised cross-lingual representation learning at scale,arXiv preprint arXiv …,"A Conneau, K Khandelwal, N Goyal…",2019,arxiv.org,4984,10
+KEPLER: A unified model for knowledge embedding and pre-trained language representation,Transactions of the …,"X Wang, T Gao, Z Zhu, Z Zhang, Z Liu, J Li…",2021,direct.mit.edu,547,11
+Wikireading: A novel large-scale language understanding task over wikipedia,arXiv preprint arXiv …,"D Hewlett, A Lacoste, L Jones, I Polosukhin…",2016,arxiv.org,157,7
+"An introduction to deep learning in natural language processing: Models, techniques, and tools",Neurocomputing,"I Lauriola, A Lavelli, F Aiolli",2022,Elsevier,299,4
+"Theory and practice-language education models in Africa: Research, design, decision-making and outcomes",,K Heugh,2011,repository.hsrc.ac.za,290,1
+A structured model language for large continuous systems,,H Elmqvist,1978,portal.research.lu.se,444,3
+Msr-vtt: A large video description dataset for bridging video and language,Proceedings of the IEEE …,"J Xu, T Mei, T Yao, Y Rui",2016,openaccess.thecvf.com,1718,13
+[PDF] Online large-margin training for statistical machine translation,… in Natural Language …,"T Watanabe, J Suzuki, H Tsukada…",2007,aclanthology.org,240,14
+Person search with natural language description,Proceedings of the …,"S Li, T Xiao, H Li, B Zhou, D Yue…",2017,openaccess.thecvf.com,376,13
+Probabilistic relevance models based on document and query generation,Language modeling for information retrieval,"J Lafferty, C Zhai",2003,Springer,229,3
+Is chatgpt a general-purpose natural language processing task solver?,arXiv preprint arXiv …,"C Qin, A Zhang, Z Zhang, J Chen, M Yasunaga…",2023,arxiv.org,407,4
+HamNoSys–representing sign language data in language resources and language processing contexts,,T Hanke,lang.uni,hamburg.de,410,4
+Scene text recognition using higher order language priors,British machine vision …,"A Mishra, K Alahari, CV Jawahar",2012,inria.hal.science,659,21
+[PDF] An Introduction to Noor Corpus and its Language Model,… on Persian language …,"MH Elahimanesh, B Minaei",2012,researchgate.net,2,2
+[PDF] Linguistic regularities in continuous space word representations,… linguistics: Human language …,"T Mikolov, W Yih, G Zweig",2013,aclanthology.org,5072,16
+[HTML] Fast multi-language LSTM-based online handwriting recognition,International Journal on …,"V Carbune, P Gonnet, T Deselaers, HA Rowley…",2020,Springer,157,8
+Image as a foreign language: Beit pretraining for all vision and vision-language tasks,arXiv preprint arXiv …,"W Wang, H Bao, L Dong, J Bjorck, Z Peng, Q Liu…",2022,arxiv.org,218,5
+[PDF] Dialogue act classification using language models.,EuroSpeech,"N Reithinger, M Klesen",1997,Citeseer,209,6
+Representation degeneration problem in training natural language generation models,arXiv preprint arXiv …,"J Gao, D He, X Tan, T Qin, L Wang, TY Liu",2019,arxiv.org,203,4
+"Authors in the Age of Language-generation AI: To be or not to be, is that Really the Question?",Archives of Medical Research,JD Martínez,2023,Elsevier,6,1
+GPT-3: What's it good for?,Natural Language Engineering,R Dale,2021,cambridge.org,464,4
+Clinical natural language processing for secondary uses,Journal of Biomedical …,"Y Gao, D Mahajan, Ö Uzuner, M Yetisgen",2024,Elsevier,0,1
+[PDF] Semi-supervised acoustic and language modeling for hindi ASR,,"SP Rath, TS Bandarupalli, N Shah, N Onoe…",isca,archive.org,1,4
+Semantics-aware BERT for language understanding,Proceedings of the …,"Z Zhang, Y Wu, H Zhao, Z Li, S Zhang, X Zhou…",2020,ojs.aaai.org,383,7
+Towards Cognition-Aligned Visual Language Models via Zero-Shot Instance Retrieval,,"T Ma, D Organisciak, W Ma, Y Long",2024,preprints.org,0,1
+How2: a large-scale dataset for multimodal language understanding,arXiv preprint arXiv …,"R Sanabria, O Caglayan, S Palaskar, D Elliott…",2018,arxiv.org,250,9
+Language identification using Gaussian mixture model tokenization,"… on acoustics,  speech …",PA Torres,2002,ieeexplore.ieee.org,236,12
+The woman worked as a babysitter: On biases in language generation,arXiv preprint arXiv …,"E Sheng, KW Chang, P Natarajan, N Peng",2019,arxiv.org,454,7
+Neural sign language translation,Proceedings of the …,"NC Camgoz, S Hadfield, O Koller…",2018,openaccess.thecvf.com,542,17
+A theoretically grounded application of dropout in recurrent neural networks,Advances in neural information …,"Y Gal, Z Ghahramani",2016,proceedings.neurips.cc,1937,10
+IndoNLU: Benchmark and resources for evaluating Indonesian natural language understanding,arXiv preprint arXiv …,"B Wilie, K Vincentio, GI Winata, S Cahyawijaya…",2020,arxiv.org,238,7
+Piqa: Reasoning about physical commonsense in natural language,… of the AAAI conference on artificial …,"Y Bisk, R Zellers, J Gao, Y Choi",2020,ojs.aaai.org,604,9
+Reproducible scaling laws for contrastive language-image learning,Proceedings of the …,"M Cherti, R Beaumont, R Wightman…",2023,openaccess.thecvf.com,212,6
+[PDF] Construction of spoken language model including fillers using filler prediction model.,,"K Ohta, M Tsuchiya, S Nakagawa",isca,archive.org,6,2
+[PDF] The n-best algorithm: Efficient procedure for finding top n sentence hypotheses,Speech and Natural Language …,"YL Chow, R Schwartz",1989,aclanthology.org,169,6
+Pretraining-based natural language generation for text summarization,arXiv preprint arXiv:1902.09243,"H Zhang, J Xu, J Wang",2019,arxiv.org,239,5
+The power of scale for parameter-efficient prompt tuning,arXiv preprint arXiv:2104.08691,"B Lester, R Al",2021,arxiv.org,2207,9
+Communication-efficient learning of deep networks from decentralized data,Artificial intelligence …,"B McMahan, E Moore, D Ramage…",2017,proceedings.mlr.press,14452,6
+Opensubtitles2016: Extracting large parallel corpora from movie and tv subtitles,,"P Lison, J Tiedemann",2016,duo.uio.no,872,8
+Comparing Human Text Classification Performance and Explainability with Large Language and Machine Learning Models Using Eye-Tracking,,"JD Venkatesh, A Jaiswal, G Nanda",2024,europepmc.org,0,1
+Architecture for Converting Natural Language to SQL Queries,,"K Patlolla, S Walker, C Augusto",2024,tdcommons.org,0,1
+[PDF] Learning a spelling error model from search query logs,Proceedings of Human Language …,"F Ahmad, G Kondrak",2005,aclanthology.org,143,17
+Unleashing the Power of Language Models in Text-Attributed Graph,Findings of the …,"H Kuang, J Xu, H Zhang, Z Zhao, Q Zhang…",2023,aclanthology.org,1,2
+Cross‐language transfer of morphological awareness in Chinese–English bilinguals,Journal of Research …,"A Pasquarella, X Chen, K Lam, YC Luo…",2011,Wiley Online Library,252,9
+Automatic language identification of telephone speech messages using phoneme recognition and n-gram modeling,Proceedings of ICASSP'94. IEEE …,"MA Zissman, E Singer",1994,ieeexplore.ieee.org,197,4
+Investigating grammatical abstraction in language models using few-shot learning of novel noun gender,Findings of the …,"P Sukumaran, C Houghton…",2024,aclanthology.org,0,1
+[PDF] Generating text with recurrent neural networks,Proceedings of the 28th …,"I Sutskever, J Martens, GE Hinton",2011,cs.toronto.edu,1989,18
+Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking,arXiv preprint arXiv …,"E Zelikman, G Harik, Y Shao, V Jayasiri…",2024,arxiv.org,0,1
+Bridging Language and Items for Retrieval and Recommendation,arXiv preprint arXiv …,"Y Hou, J Li, Z He, A Yan, X Chen, J McAuley",2024,arxiv.org,0,1
+Chronos: Learning the Language of Time Series,arXiv preprint arXiv …,"AF Ansari, L Stella, C Turkmen, X Zhang…",2024,arxiv.org,0,1
+Evolution of transfer learning in natural language processing,arXiv preprint arXiv:1910.07370,"A Malte, P Ratadiya",2019,arxiv.org,60,2
+Specaugment: A simple data augmentation method for automatic speech recognition,arXiv preprint arXiv …,"DS Park, W Chan, Y Zhang, CC Chiu, B Zoph…",2019,arxiv.org,3625,9
+[PDF] Approaches to language identification using Gaussian mixture models and shifted delta cepstral features.,Interspeech,PA Torres,2002,Citeseer,614,9
+Ul2: Unifying language learning paradigms,arXiv preprint arXiv …,"Y Tay, M Dehghani, VQ Tran, X Garcia, J Wei…",2022,arxiv.org,249,4
+[HTML] Systematic evaluation of common natural language processing techniques to codify clinical notes,Plos one,"N Tavabi, M Singh, J Pruneski, AM Kiapour",2024,journals.plos.org,7,3
+Building end-to-end dialogue systems using generative hierarchical neural network models,Proceedings of the AAAI …,"I Serban, A Sordoni, Y Bengio, A Courville…",2016,ojs.aaai.org,2027,12
+[PDF] Domain adaptation via pseudo in-domain data selection,… empirical methods in natural language …,"A Axelrod, X He, J Gao",2011,aclanthology.org,658,10
+A vector space modeling approach to spoken language identification,"… on Audio,  Speech,  and Language …","H Li, B Ma, CH Lee",2006,ieeexplore.ieee.org,295,11
+[HTML] The ERP response to the amount of information conveyed by words in sentences,Brain and language,"SL Frank, LJ Otten, G Galli, G Vigliocco",2015,Elsevier,386,18
+Deid-gpt: Zero-shot medical text de-identification by gpt-4,arXiv preprint arXiv …,"Z Liu, Y Huang, X Yu, L Zhang, Z Wu, C Cao…",2023,arxiv.org,96,2
+[PDF] Combining lexical and grammatical features to improve readability measures for first and second language texts,Human language …,"M Heilman, K Collins",2007,aclanthology.org,296,13
+Word embedding for understanding natural language: a survey,Guide to big data applications,"Y Li, T Yang",2018,Springer,293,3
+Harnessing Moderate-Sized Language Models for Reliable Patient Data De-identification in Emergency Department Records: An Evaluation of Strategies and …,,"O Dorémus, D Russon, B Contrand, A Guerra",2024,inria.hal.science,0,1
+Using proprietary language models in academic research requires explicit justification,Nature Computational Science,"A Palmer, NA Smith, A Spirling",2024,nature.com,1,3
+[PDF] Generative Language Models in Education: Foreign Language Learning and the Teacher as Prompt Engineer,,I Isemonger,,teflpraxis.org,0,1
+Enriching word vectors with subword information,Transactions of the …,"P Bojanowski, E Grave, A Joulin…",2017,direct.mit.edu,11869,15
+Towards end-to-end speech recognition with recurrent neural networks,International conference on machine …,"A Graves, N Jaitly",2014,proceedings.mlr.press,2888,11
+[BUCH] Statistical identification of language,,T Dunning,1994,researchgate.net,539,11
+"Tracing the Roots of Facts in Multilingual Language Models: Independent, Shared, and Transferred Knowledge",arXiv preprint arXiv:2403.05189,"X Zhao, N Yoshinaga, D Oba",2024,arxiv.org,0,1
+Language-independent and language-adaptive acoustic modeling for speech recognition,Speech Communication,"T Schultz, A Waibel",2001,Elsevier,513,23
+[PDF] Translation modeling with bidirectional recurrent neural networks,… in natural language …,"M Sundermeyer, T Alkhouli, J Wuebker…",2014,aclanthology.org,257,13
+The Potential of Vision-Language Models for Content Moderation of Children's Videos,arXiv preprint arXiv:2312.03936,"SH Ahmed, S Hu, G Sukthankar",2023,arxiv.org,0,1
+Scaling up vision-language pre-training for image captioning,Proceedings of the …,"X Hu, Z Gan, J Wang, Z Yang, Z Liu…",2022,openaccess.thecvf.com,199,6
+Five sources of bias in natural language processing,Language and linguistics compass,"D Hovy, S Prabhumoye",2021,Wiley Online Library,171,6
+LMbot: distilling graph knowledge into language model for graph-less deployment in twitter bot detection,Proceedings of the 17th …,"Z Cai, Z Tan, Z Lei, Z Zhu, H Wang, Q Zheng…",2024,dl.acm.org,3,2
+Sentencepiece: A simple and language independent subword tokenizer and detokenizer for neural text processing,arXiv preprint arXiv:1808.06226,"T Kudo, J Richardson",2018,arxiv.org,3238,8
+TOD-BERT: Pre-trained natural language understanding for task-oriented dialogue,arXiv preprint arXiv:2004.06871,"CS Wu, S Hoi, R Socher, C Xiong",2020,arxiv.org,296,8
+Continuous space translation models with neural networks,… Linguistics: Human Language …,"LH Son, A Allauzen, F Yvon",2012,hal.science,155,4
+Towards a second‐language model of learning in problematic social contexts: The case of Arabs learning Hebrew in Israel,Race Ethnicity and Education,S Abu‐Rabia,1999,Taylor & Francis,43,1
+"Chengqing Zong: Statistical natural language processing Tsinghua University Press, 2013, xxxv+ 570pp",,X Zhang,2014,Springer,166,3
+The Kaldi speech recognition toolkit,IEEE 2011 workshop …,"D Povey, A Ghoshal, G Boulianne…",2011,infoscience.epfl.ch,7200,27
+Bimodal modelling of source code and natural language,… conference on machine …,"M Allamanis, D Tarlow, A Gordon…",2015,proceedings.mlr.press,235,10
+[PDF] Stochastic language generation for spoken dialogue systems,NAACL 2000 Workshop: Conversational …,"A Oh, A Rudnicky",2000,aclanthology.org,231,15
+Blip: Bootstrapping language-image pre-training for unified vision-language understanding and generation,International conference on …,"J Li, D Li, C Xiong, S Hoi",2022,proceedings.mlr.press,1732,7
+Model-driven engineering in a large industrial context—Motorola case study,… on Model Driven Engineering Languages and …,"P Baker, S Loh, F Weil",2005,Springer,281,10
+{TensorFlow}: a system for {Large-Scale} machine learning,… USENIX symposium on …,"M Abadi, P Barham, J Chen, Z Chen, A Davis…",2016,usenix.org,30756,46
+Efficient WFST-based one-pass decoding with on-the-fly hypothesis rescoring in extremely large vocabulary continuous speech recognition,"… ,  speech,  and language …","T Hori, C Hori, Y Minami…",2007,ieeexplore.ieee.org,186,7
+Griffon v2: Advancing Multimodal Perception with High-Resolution Scaling and Visual-Language Co-Referring,arXiv preprint arXiv …,"Y Zhan, Y Zhu, H Zhao, F Yang, M Tang…",2024,arxiv.org,0,1
+[PDF] Visual recognition of american sign language using hidden markov models,,T Starner,1995,dspace.mit.edu,1109,15
+Alberto: Italian BERT language understanding model for NLP challenging tasks based on tweets,CEUR workshop …,"M Polignano, P Basile, M De Gemmis…",2019,iris.unito.it,262,8
+Snips voice platform: an embedded spoken language understanding system for private-by-design voice interfaces,arXiv preprint arXiv …,"A Coucke, A Saade, A Ball, T Bluche, A Caulier…",2018,arxiv.org,791,3
+An overview of probabilistic tree transducers for natural language processing,… Conference on Intelligent Text Processing and …,"K Knight, J Graehl",2005,Springer,184,9
+Investigation and modeling of the structure of texting language,International Journal of …,"M Choudhury, R Saraf, V Jain, A Mukherjee…",2007,Springer,297,14
+Solving ESL sentence completion questions via pre-trained neural language models,… Conference on Artificial …,"Q Liu, T Liu, J Zhao, Q Fang, W Ding, Z Wu…",2021,Springer,5,4
+"Why language clouds our ascription of understanding, intention and consciousness",Phenomenology and the Cognitive Sciences,SAJ Stuart,2024,Springer,0,1
+Reviewing automatic language identification,IEEE Signal Processing …,"YK Muthusamy, E Barnard…",1994,ieeexplore.ieee.org,392,4
+Few-shot natural language generation for task-oriented dialog,arXiv preprint arXiv …,"B Peng, C Zhu, C Li, X Li, J Li, M Zeng…",2020,arxiv.org,195,5
+Model-portability experiments for textual temporal analysis,… : human language …,"O Kolomiyets, S Bethard…",2011,lirias.kuleuven.be,91,13
+Automatic personality assessment through social media language.,Journal of personality …,"G Park, HA Schwartz, JC Eichstaedt…",2015,psycnet.apa.org,854,17
+[PDF] Grammatical error correction using hybrid systems and type filtering,… Natural Language …,"M Felice, Z Yuan, ØE Andersen…",2014,aclanthology.org,139,6
+Detecting malicious tweets in trending topics using a statistical analysis of language,Expert Systems with Applications,J Martinez,2013,Elsevier,275,13
+Familiar: A domain-specific language for large scale management of feature models,Science of Computer …,"M Acher, P Collet, P Lahire, RB France",2013,Elsevier,304,11
+Llama 2: Open foundation and fine-tuned chat models,arXiv preprint arXiv …,"H Touvron, L Martin, K Stone, P Albert…",2023,arxiv.org,3246,2
+[PDF] Can GPT-3 pass a writer's Turing test?,Journal of Cultural Analytics,"K Elkins, J Chun",2020,culturalanalytics.org,217,7
+BioBERT: a pre-trained biomedical language representation model for biomedical text mining,…,"J Lee, W Yoon, S Kim, D Kim, S Kim, CH So…",2020,academic.oup.com,4986,12
+"A data model, knowledge base, and natural language processing for sharing a large statistical database",Statistical and Scientific Database Management: Fourth …,H Sato,1989,Springer,234,5
+[PDF] Pronunciation dependent language models.,,A Ljolje,isca,archive.org,1,4
+Exploring the Impact of Language Models on Undergraduate Thesis Writing Skills among Higher Education Students,Peradaban …,"A Ilma, RA Sampurna",2024,jurnal.peradabanpublishing.com,0,1
+[PDF] Online large-margin training of syntactic and structural translation features,… methods in natural language …,"D Chiang, Y Marton, P Resnik",2008,aclanthology.org,298,19
+Building language models for Tamil speech recognition system,Asian Applied Computing Conference,"S Saraswathi, TV Geetha",2004,Springer,10,9
+Transfer learning in sign language,2007 IEEE conference on …,"A Farhadi, D Forsyth, R White",2007,ieeexplore.ieee.org,155,18
+Bert: Pre-training of deep bidirectional transformers for language understanding,arXiv preprint arXiv …,"J Devlin, MW Chang, K Lee, K Toutanova",2018,arxiv.org,94989,49
+Prottrans: Toward understanding the language of life through self-supervised learning,IEEE transactions on …,"A Elnaggar, M Heinzinger, C Dallago…",2021,ieeexplore.ieee.org,1024,16
+Improving vision-and-language navigation with image-text pairs from the web,Computer Vision–ECCV …,"A Majumdar, A Shrivastava, S Lee, P Anderson…",2020,Springer,200,9
+kubapok@ LT-EDI 2024: Evaluating Transformer Models for Hate Speech Detection in Tamil,… of the Fourth Workshop on Language …,"J Pokrywka, K Jassem",2024,aclanthology.org,1,2
+[PDF] Customized Web Application for Addressing Language Model Misalignment through Reinforcement Learning from Human Feedback,,"A Uwah, A Edet",,researchgate.net,0,1
+[PDF] Arabic language modeling with finite state transducers,08: HLT Student Research …,I Heintz,2008,aclanthology.org,13,5
+[HTML] Modeling aspects of the language of life through transfer-learning protein sequences,BMC …,"M Heinzinger, A Elnaggar, Y Wang, C Dallago…",2019,Springer,436,19
+Discriminative training for large-vocabulary speech recognition using minimum classification error,"… ,  and Language …","E McDermott, TJ Hazen, J Le Roux…",2006,ieeexplore.ieee.org,215,17
