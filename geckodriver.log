@@ -1825,3 +1825,242 @@ console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1
 JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
 1710853189815	Marionette	INFO	Stopped listening on port 57060
 JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1710854547369	geckodriver	INFO	Listening on 127.0.0.1:57583
+1710854548384	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y3/hkwhgtbj1z31vjtr5ty2f5ww0000gn/T/rust_mozprofilekhLZ6t"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710854549618	Marionette	INFO	Marionette enabled
+1710854549889	Marionette	INFO	Listening on port 57591
+1710854550169	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2024-03-19 14:22:30.602 plugin-container[10575:364834] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 14:22:30.603 plugin-container[10575:364834] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-19 14:22:30.611 plugin-container[10575:364834] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 14:22:30.611 plugin-container[10575:364834] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-19 14:22:30.611 plugin-container[10575:364853] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 14:22:30.611 plugin-container[10575:364853] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-19 13:22:32.632 plugin-container[10579:365080] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 13:22:32.632 plugin-container[10579:365080] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-19 13:22:32.638 plugin-container[10579:365080] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 13:22:32.638 plugin-container[10579:365080] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-19 13:22:32.641 plugin-container[10579:365145] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 13:22:32.641 plugin-container[10579:365145] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1710854581566	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1710854613938	geckodriver	INFO	Listening on 127.0.0.1:57643
+1710854614943	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y3/hkwhgtbj1z31vjtr5ty2f5ww0000gn/T/rust_mozprofileqVVRpn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710854616104	Marionette	INFO	Marionette enabled
+1710854616367	Marionette	INFO	Listening on port 57650
+2024-03-19 14:23:36.567 plugin-container[10602:365828] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 14:23:36.567 plugin-container[10602:365828] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-19 14:23:36.572 plugin-container[10602:365828] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 14:23:36.572 plugin-container[10602:365828] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-19 14:23:36.573 plugin-container[10602:365830] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 14:23:36.573 plugin-container[10602:365830] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1710854616654	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2024-03-19 13:23:39.027 plugin-container[10606:366077] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 13:23:39.028 plugin-container[10606:366077] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-19 13:23:39.037 plugin-container[10606:366077] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 13:23:39.037 plugin-container[10606:366077] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-19 13:23:39.038 plugin-container[10606:366092] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 13:23:39.038 plugin-container[10606:366092] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1710854646524	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1710855134362	geckodriver	INFO	Listening on 127.0.0.1:57790
+1710855135376	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y3/hkwhgtbj1z31vjtr5ty2f5ww0000gn/T/rust_mozprofileF4VqiA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710855136378	Marionette	INFO	Marionette enabled
+1710855136587	Marionette	INFO	Listening on port 57797
+1710855136653	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2024-03-19 14:32:17.129 plugin-container[10775:370338] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 14:32:17.129 plugin-container[10775:370338] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-19 14:32:17.135 plugin-container[10775:370338] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 14:32:17.135 plugin-container[10775:370338] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-19 14:32:17.136 plugin-container[10775:370343] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 14:32:17.136 plugin-container[10775:370343] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-19 13:32:18.725 plugin-container[10779:370543] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 13:32:18.725 plugin-container[10779:370543] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-19 13:32:18.731 plugin-container[10779:370543] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 13:32:18.731 plugin-container[10779:370543] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-19 13:32:18.731 plugin-container[10779:370569] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 13:32:18.731 plugin-container[10779:370569] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1710855460896	geckodriver	INFO	Listening on 127.0.0.1:49459
+1710855461920	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y3/hkwhgtbj1z31vjtr5ty2f5ww0000gn/T/rust_mozprofileaU72sC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710855463135	Marionette	INFO	Marionette enabled
+1710855463372	Marionette	INFO	Listening on port 49473
+1710855463458	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2024-03-19 14:37:44.066 plugin-container[792:9417] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 14:37:44.066 plugin-container[792:9417] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-19 14:37:44.224 plugin-container[792:9417] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 14:37:44.224 plugin-container[792:9417] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-19 14:37:44.225 plugin-container[792:9419] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 14:37:44.225 plugin-container[792:9419] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-19 13:37:45.933 plugin-container[796:9672] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 13:37:45.933 plugin-container[796:9672] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-19 13:37:45.940 plugin-container[796:9672] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 13:37:45.940 plugin-container[796:9672] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-19 13:37:45.941 plugin-container[796:9716] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 13:37:45.941 plugin-container[796:9716] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1710855495610	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1710855519988	geckodriver	INFO	Listening on 127.0.0.1:49559
+1710855521002	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y3/hkwhgtbj1z31vjtr5ty2f5ww0000gn/T/rust_mozprofile19fv2O"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710855522106	Marionette	INFO	Marionette enabled
+1710855522319	Marionette	INFO	Listening on port 49570
+1710855522407	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2024-03-19 14:38:42.542 plugin-container[825:10605] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 14:38:42.542 plugin-container[825:10605] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-19 14:38:42.550 plugin-container[825:10605] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 14:38:42.550 plugin-container[825:10605] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-19 14:38:42.550 plugin-container[825:10607] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 14:38:42.550 plugin-container[825:10607] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-19 13:38:44.779 plugin-container[829:10825] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 13:38:44.780 plugin-container[829:10825] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-19 13:38:44.786 plugin-container[829:10825] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 13:38:44.786 plugin-container[829:10825] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-19 13:38:44.787 plugin-container[829:10836] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 13:38:44.787 plugin-container[829:10836] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1710855552315	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1710855631464	geckodriver	INFO	Listening on 127.0.0.1:49664
+1710855632483	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y3/hkwhgtbj1z31vjtr5ty2f5ww0000gn/T/rust_mozprofile3EalyH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710855633361	Marionette	INFO	Marionette enabled
+1710855633628	Marionette	INFO	Listening on port 49671
+1710855633709	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2024-03-19 14:40:33.933 plugin-container[886:12545] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 14:40:33.933 plugin-container[886:12545] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-19 14:40:33.940 plugin-container[886:12545] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 14:40:33.940 plugin-container[886:12545] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-19 14:40:33.941 plugin-container[886:12547] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 14:40:33.941 plugin-container[886:12547] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-19 13:40:36.100 plugin-container[890:12803] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 13:40:36.100 plugin-container[890:12803] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-19 13:40:36.105 plugin-container[890:12803] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 13:40:36.105 plugin-container[890:12803] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-19 13:40:36.106 plugin-container[890:12853] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 13:40:36.106 plugin-container[890:12853] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1710855663459	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1710873529980	geckodriver	INFO	Listening on 127.0.0.1:50660
+1710873530981	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y3/hkwhgtbj1z31vjtr5ty2f5ww0000gn/T/rust_mozprofileXl94ln"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710873531926	Marionette	INFO	Marionette enabled
+1710873532188	Marionette	INFO	Listening on port 50667
+1710873532291	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2024-03-19 19:38:52.357 plugin-container[2036:52897] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 19:38:52.371 plugin-container[2036:52897] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-19 19:38:52.380 plugin-container[2036:52897] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 19:38:52.380 plugin-container[2036:52897] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-19 19:38:52.381 plugin-container[2036:52895] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 19:38:52.381 plugin-container[2036:52895] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-19 18:38:54.911 plugin-container[2041:53061] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 18:38:54.913 plugin-container[2041:53061] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-19 18:38:54.919 plugin-container[2041:53061] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 18:38:54.919 plugin-container[2041:53061] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-19 18:38:54.920 plugin-container[2041:53070] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 18:38:54.920 plugin-container[2041:53070] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1710873563536	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1710874455993	geckodriver	INFO	Listening on 127.0.0.1:50866
+1710874457010	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y3/hkwhgtbj1z31vjtr5ty2f5ww0000gn/T/rust_mozprofileu9lkO3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710874457879	Marionette	INFO	Marionette enabled
+1710874458093	Marionette	INFO	Listening on port 50873
+1710874458186	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2024-03-19 19:54:18.420 plugin-container[2266:59326] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 19:54:18.421 plugin-container[2266:59326] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-19 19:54:18.431 plugin-container[2266:59326] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 19:54:18.431 plugin-container[2266:59326] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-19 19:54:18.431 plugin-container[2266:59356] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 19:54:18.431 plugin-container[2266:59356] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-19 18:54:20.339 plugin-container[2270:59567] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 18:54:20.339 plugin-container[2270:59567] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-19 18:54:20.346 plugin-container[2270:59567] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 18:54:20.346 plugin-container[2270:59567] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-19 18:54:20.346 plugin-container[2270:59608] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 18:54:20.347 plugin-container[2270:59608] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1710874488594	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1710874764974	geckodriver	INFO	Listening on 127.0.0.1:50966
+1710874765997	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y3/hkwhgtbj1z31vjtr5ty2f5ww0000gn/T/rust_mozprofileY3q4OZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710874766993	Marionette	INFO	Marionette enabled
+1710874767211	Marionette	INFO	Listening on port 50974
+1710874767278	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2024-03-19 19:59:27.475 plugin-container[2350:61812] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 19:59:27.475 plugin-container[2350:61812] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-19 19:59:27.480 plugin-container[2350:61812] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 19:59:27.480 plugin-container[2350:61812] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-19 19:59:27.480 plugin-container[2350:61835] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 19:59:27.480 plugin-container[2350:61835] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-19 18:59:29.276 plugin-container[2354:62020] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 18:59:29.277 plugin-container[2354:62020] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-19 18:59:29.282 plugin-container[2354:62020] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 18:59:29.282 plugin-container[2354:62020] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-19 18:59:29.283 plugin-container[2354:62027] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 18:59:29.283 plugin-container[2354:62027] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1710874797972	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1710875448787	geckodriver	INFO	Listening on 127.0.0.1:51119
+1710875449798	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y3/hkwhgtbj1z31vjtr5ty2f5ww0000gn/T/rust_mozprofilevWn9M0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710875450652	Marionette	INFO	Marionette enabled
+1710875450895	Marionette	INFO	Listening on port 51126
+1710875451001	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2024-03-19 20:10:51.208 plugin-container[2516:66700] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 20:10:51.210 plugin-container[2516:66700] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-19 20:10:51.221 plugin-container[2516:66700] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 20:10:51.221 plugin-container[2516:66700] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-19 20:10:51.222 plugin-container[2516:66703] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 20:10:51.222 plugin-container[2516:66703] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-19 19:10:53.475 plugin-container[2520:66985] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 19:10:53.475 plugin-container[2520:66985] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-19 19:10:53.480 plugin-container[2520:66985] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 19:10:53.480 plugin-container[2520:66985] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-19 19:10:53.481 plugin-container[2520:66996] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-19 19:10:53.481 plugin-container[2520:66996] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1710875482370	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
