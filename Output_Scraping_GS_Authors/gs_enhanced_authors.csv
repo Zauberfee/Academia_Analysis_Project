@@ -1,0 +1,201 @@
+ID_author,ID_paper,link,name,organization
+1,1,https://scholar.google.com/citations?user=3qb1AYwAAAAJ&hl=de&oi=sra,Arun Thirunavukarasu,University of Oxford
+2,1,https://scholar.google.com/citations?user=KbrpC8cAAAAJ&hl=de&oi=sra,Darren S J Ting,Organization not found
+3,1,https://scholar.google.com/citations?user=BE_lVTQAAAAJ&hl=de&oi=sra,Kabilan Elangovan,Organization not found
+4,2,https://scholar.google.com/citations?user=JUsooa0AAAAJ&hl=de&oi=sra,abeba birhane,Trinity College Dublin
+5,2,https://scholar.google.com/citations?user=4iG4IC4AAAAJ&hl=de&oi=sra,Atoosa Kasirzadeh,University of Edinburgh
+6,3,https://scholar.google.com/citations?user=Q7Ieos8AAAAJ&hl=de&oi=sra,Xu Wang,Jilin University
+7,3,https://scholar.google.com/citations?user=hBZ_tKsAAAAJ&hl=de&oi=sra,Jindong Wang,Startseite
+8,3,https://scholar.google.com/citations?user=KVeRu2QAAAAJ&hl=de&oi=sra,Yuan Wu,Carleton
+9,3,https://scholar.google.com/citations?user=go3sFxcAAAAJ&hl=de&oi=sra,Linyi Yang,Startseite
+10,4,https://scholar.google.com/citations?user=48GJrbsAAAAJ&hl=de&oi=sra,John Kirchenbauer,"University of Maryland, College Park"
+11,4,https://scholar.google.com/citations?user=206vNCEAAAAJ&hl=de&oi=sra,Jonas Geiping,Startseite
+12,4,https://scholar.google.com/citations?user=oUYfjg0AAAAJ&hl=de&oi=sra,Yuxin Wen,University of Maryland
+13,5,https://scholar.google.com/citations?user=JNhNacoAAAAJ&hl=de&oi=sra,Wayne Xin Zhao,Renmin University of China
+14,5,https://scholar.google.com/citations?user=bmRJVjwAAAAJ&hl=de&oi=sra,Kun Zhou,Startseite
+15,5,https://scholar.google.com/citations?user=zeWrn-4AAAAJ&hl=de&oi=sra,Junyi Li,Universite de Montreal
+16,5,https://scholar.google.com/citations?user=t1mRUvQAAAAJ&hl=de&oi=sra,Tianyi Tang,Renmin University of China
+17,5,https://scholar.google.com/citations?user=aYpLzewAAAAJ&hl=de&oi=sra,Xiaolei Wang,Renmin University of China
+18,5,https://scholar.google.com/citations?user=447sLrkAAAAJ&hl=de&oi=sra,Yupeng Hou,"University of California, San Diego"
+19,6,https://scholar.google.com/citations?user=jxJflawAAAAJ&hl=de&oi=sra,Shijie Wu,Bloomberg L.P.
+20,6,https://scholar.google.com/citations?user=sm7-kIwAAAAJ&hl=de&oi=sra,Ozan İrsoy,Startseite
+21,6,https://scholar.google.com/citations?user=I2LdCXwAAAAJ&hl=de&oi=sra,Vadim Dabravolski,Organization not found
+22,6,https://scholar.google.com/citations?user=7jNkTbYAAAAJ&hl=de&oi=sra,Mark Dredze,Johns Hopkins University
+23,7,https://scholar.google.com/citations?user=z0bu0kIAAAAJ&hl=de&oi=sra,Haiyan Zhao,Peking University
+24,7,https://scholar.google.com/citations?user=DyYOgLwAAAAJ&hl=de&oi=sra,Hanjie Chen,Rice University
+25,7,https://scholar.google.com/citations?user=RXFeW-8AAAAJ&hl=de&oi=sra,Fan Yang,Wake Forest University
+26,7,https://scholar.google.com/citations?user=XQJ0hm8AAAAJ&hl=de&oi=sra,Ninghao Liu,University of Georgia
+27,7,https://scholar.google.com/citations?user=QEjqzXgAAAAJ&hl=de&oi=sra,huiqi deng,Shanghai JiaoTong University
+28,7,https://scholar.google.com/citations?user=Kz-r34UAAAAJ&hl=de&oi=sra,Hengyi Cai,"Institute of Computing Technology, Chinese Academy of Sciences"
+29,8,https://scholar.google.com/citations?user=ITGdg6oAAAAJ&hl=de&oi=sra,Franz Och,Google
+30,9,https://scholar.google.com/citations?user=1hXyfIkAAAAJ&hl=de&oi=sra,Fangzheng (Frank) Xu,Carnegie Mellon University
+31,9,https://scholar.google.com/citations?user=QBn7vq8AAAAJ&hl=de&oi=sra,Uri Alon,Google
+32,9,https://scholar.google.com/citations?user=wlosgkoAAAAJ&hl=de&oi=sra,Graham Neubig,Carnegie Mellon University
+33,9,https://scholar.google.com/citations?user=PfYrc5kAAAAJ&hl=de&oi=sra,Vincent Hellendoorn,Carnegie Mellon University
+34,10,https://scholar.google.com/citations?user=J1hMgtAAAAAJ&hl=de&oi=sra,Emily Reif,Google
+35,10,https://scholar.google.com/citations?user=COEsqLYAAAAJ&hl=de&oi=sra,Daphne Ippolito,Google
+36,11,https://scholar.google.com/citations?user=cZmqj_0AAAAJ&hl=de&oi=sra,Shukang Yin,University of Science and Technology of China
+37,11,https://scholar.google.com/citations?user=4A1xYQwAAAAJ&hl=de&oi=sra,Chaoyou Fu,Startseite
+38,11,https://scholar.google.com/citations?user=bEZurKQAAAAJ&hl=de&oi=sra,Sirui Zhao,University of Science and Technology of China
+39,11,https://scholar.google.com/citations?user=i1iE83QAAAAJ&hl=de&oi=sra,Ke Li,Shandong University
+40,11,https://scholar.google.com/citations?user=IUtix9IAAAAJ&hl=de&oi=sra,Xing Sun 孙星,Startseite
+41,11,https://scholar.google.com/citations?user=2pYJyYUAAAAJ&hl=de&oi=sra,Tong Xu,University of Science and Technology of China
+43,12,https://scholar.google.com/citations?user=VBclY_cAAAAJ&hl=de&oi=sra,Yi Tay,Google
+44,12,https://scholar.google.com/citations?user=WMBXw1EAAAAJ&hl=de&oi=sra,Rishi Bommasani,Stanford University
+46,12,https://scholar.google.com/citations?user=NL_7iTwAAAAJ&hl=de&oi=sra,Barret Zoph,Startseite
+47,13,https://scholar.google.com/citations?user=NWXxqQ8AAAAJ&hl=de&oi=sra,Jacob Austin,Google
+48,13,https://scholar.google.com/citations?user=EHQHNdEAAAAJ&hl=de&oi=sra,Augustus Odena,Startseite
+49,13,https://scholar.google.com/citations?user=NsuX8R8AAAAJ&hl=de&oi=sra,Maxwell Nye,Startseite
+50,13,https://scholar.google.com/citations?user=wkeFQPgAAAAJ&hl=de&oi=sra,Maarten Bosma,Organization not found
+51,14,https://scholar.google.com/citations?user=kW7nbSEAAAAJ&hl=de&oi=sra,Ross Taylor,Organization not found
+52,14,https://scholar.google.com/citations?user=dEtv5r4AAAAJ&hl=de&oi=sra,Guillem Cucurull,Organization not found
+53,14,https://scholar.google.com/citations?user=qou4P-kAAAAJ&hl=de&oi=sra,Thomas Scialom,Startseite
+54,15,https://scholar.google.com/citations?user=bZVkVvoAAAAJ&hl=de&oi=sra,Enkelejda Kasneci,Technical University of Munich
+55,15,https://scholar.google.com/citations?user=MbMBoN4AAAAJ&hl=de&oi=sra,Kathrin Seßler,Technical University of Munich
+56,15,https://scholar.google.com/citations?user=g1jX5QUAAAAJ&hl=de&oi=sra,Stefan Küchemann,LMU München
+57,15,https://scholar.google.com/citations?user=TjfQ8QkAAAAJ&hl=de&oi=sra,Maria Bannert,Startseite
+58,16,https://scholar.google.com/citations?user=q4qDvAoAAAAJ&hl=de&oi=sra,Nicholas Carlini,Google
+59,16,https://scholar.google.com/citations?user=ijH0-a8AAAAJ&hl=de&oi=sra,Florian Tramèr,ETH Zurich
+60,16,https://scholar.google.com/citations?user=SgST3LkAAAAJ&hl=de&oi=sra,Eric Wallace,UC Berkeley
+61,16,https://scholar.google.com/citations?user=_8rw_GMAAAAJ&hl=de&oi=sra,Matthew Jagielski,Google
+63,17,https://scholar.google.com/citations?user=B8wslVsAAAAJ&hl=de&oi=sra,Shixiang Shane Gu,Google
+64,17,https://scholar.google.com/citations?user=kQ0HeQIAAAAJ&hl=de&oi=sra,Le Hou,Google
+65,17,https://scholar.google.com/citations?user=sd0nprMAAAAJ&hl=de&oi=sra,Yuexin Wu,Google
+66,17,https://scholar.google.com/citations?user=ScLUQ-YAAAAJ&hl=de&oi=sra,Xuezhi Wang,Google
+67,17,https://scholar.google.com/citations?user=kgE6J2AAAAAJ&hl=de&oi=sra,Hongkun Yu,Google
+68,18,https://scholar.google.com/citations?user=GIoPkMoAAAAJ&hl=de&oi=sra,Jie Huang,University of Illinois at Urbana-Champaign
+69,18,https://scholar.google.com/citations?user=sugWZ6MAAAAJ&hl=de&oi=sra,Kevin Chen-Chuan Chang,University of Illinois at Urbana-Champaign
+70,19,https://scholar.google.com/citations?user=E6NenUwAAAAJ&hl=de&oi=sra,Lei Wang,Renmin University of China
+71,19,https://scholar.google.com/citations?user=oeve8d4AAAAJ&hl=de&oi=sra,Chen Ma,Renmin University of China
+72,19,https://scholar.google.com/citations?user=AuLB6mUAAAAJ&hl=de&oi=sra,Zeyu Zhang,Renmin University of China
+73,19,https://scholar.google.com/citations?user=lOsjM5sAAAAJ&hl=de&oi=sra,Hao Yang,Organization not found
+74,20,https://scholar.google.com/citations?user=bZmg3NcAAAAJ&hl=de&oi=sra,Tony (Ziheng) Wang,Startseite
+75,20,https://scholar.google.com/citations?user=qAzX2PQAAAAJ&hl=de&oi=sra,Jeremy Wohlwend,Startseite
+76,20,https://scholar.google.com/citations?user=g2uay50AAAAJ&hl=de&oi=sra,Tao Lei,Google
+77,21,https://scholar.google.com/citations?user=4A91qjAAAAAJ&hl=de&oi=sra,Jordan Hoffmann,Startseite
+78,21,https://scholar.google.com/citations?user=-KzSL30AAAAJ&hl=de&oi=sra,Sebastian Borgeaud,Organization not found
+79,21,https://scholar.google.com/citations?user=F8riAN8AAAAJ&hl=de&oi=sra,Arthur Mensch,Organization not found
+80,22,https://scholar.google.com/citations?user=T3Ji6P4AAAAJ&hl=de&oi=sra,Yannic Kilcher,ETH Zurich
+81,22,https://scholar.google.com/citations?user=CQgKvccAAAAJ&hl=de&oi=sra,Dimitri von Rütte,ETH Zurich
+82,23,https://scholar.google.com/citations?user=nMfflL0AAAAJ&hl=de&oi=sra,Karan Singhal,Google Research
+83,23,https://scholar.google.com/citations?user=BkRk4FwAAAAJ&hl=de&oi=sra,Shekoofeh Azizi,Google
+84,23,https://scholar.google.com/citations?user=VlR6u4AAAAAJ&hl=de&oi=sra,Tao Tu,Columbia University
+85,23,https://scholar.google.com/citations?user=cA0ELoQAAAAJ&hl=de&oi=sra,S. Sara Mahdavi,Google
+87,23,https://scholar.google.com/citations?user=1CAlXvYAAAAJ&hl=de&oi=sra,Hyung Won Chung,Startseite
+88,24,https://scholar.google.com/citations?user=5fU-QMwAAAAJ&hl=de&oi=sra,Mark Chen,Organization not found
+89,24,https://scholar.google.com/citations?user=ZPuESCQAAAAJ&hl=de&oi=sra,Jerry Tworek,Startseite
+90,24,https://scholar.google.com/citations?user=B059m2EAAAAJ&hl=de&oi=sra,Qiming Yuan,Organization not found
+96,26,https://scholar.google.com/citations?user=KpkgqOsAAAAJ&hl=de&oi=sra,Takeshi Kojima,Organization not found
+98,26,https://scholar.google.com/citations?user=N8ctPiIAAAAJ&hl=de&oi=sra,Machel Reid,Google
+99,26,https://scholar.google.com/citations?user=Dy8iau4AAAAJ&hl=de&oi=sra,Yutaka Matsuo,University of Tokyo
+100,27,https://scholar.google.com/citations?user=8slGl3oAAAAJ&hl=de&oi=sra,Abubakar Abid,Stanford University
+101,27,https://scholar.google.com/citations?user=T6RvNDgAAAAJ&hl=de&oi=sra,Maheen Farooqi,Stanford University
+102,27,https://scholar.google.com/citations?user=23ZXZvEAAAAJ&hl=de&oi=sra,James Zou,Stanford University
+103,28,https://scholar.google.com/citations?user=dENNKrsAAAAJ&hl=de&oi=sra,Deyao Zhu,Startseite
+104,28,https://scholar.google.com/citations?user=9G2OQmkAAAAJ&hl=de&oi=sra,Jun Chen,Startseite
+106,28,https://scholar.google.com/citations?user=4Apl5FgAAAAJ&hl=de&oi=sra,Xiang Li,KAUST
+107,28,https://scholar.google.com/citations?user=iRBUTOAAAAAJ&hl=de&oi=sra,"Mohamed Elhoseiny, Ph.D.",KAUST
+108,29,https://scholar.google.com/citations?user=35M6rhsAAAAJ&hl=de&oi=sra,Yongchao Zhou,University of Toronto
+109,29,https://scholar.google.com/citations?user=Zb0NwBUAAAAJ&hl=de&oi=sra,Andrei Ioan Muresanu,Organization not found
+110,29,https://scholar.google.com/citations?user=Jmbr0B8AAAAJ&hl=de&oi=sra,Ziwen Han,University of Toronto
+112,29,https://scholar.google.com/citations?user=oYlo1ycAAAAJ&hl=de&oi=sra,Silviu Pitis,University of Toronto
+114,30,https://scholar.google.com/citations?user=T6s-QEkAAAAJ&hl=de&oi=sra,Junjie Zhang,Renmin University of China
+115,30,https://scholar.google.com/citations?user=kuDk8A4AAAAJ&hl=de&oi=sra,Zihan Lin,Organization not found
+116,30,https://scholar.google.com/citations?user=j3OX8KUAAAAJ&hl=de&oi=sra,Ruobing Xie,Startseite
+117,30,https://scholar.google.com/citations?user=icbo4M0AAAAJ&hl=de&oi=sra,Julian McAuley,UC San Diego
+118,31,https://scholar.google.com/citations?user=W7mUggsAAAAJ&hl=de&oi=sra,Yiheng Liu,Shaanxi Normal University
+119,32,https://scholar.google.com/citations?user=-lnWdScAAAAJ&hl=de&oi=sra,Stefan Hegselmann,University of Münster
+120,32,https://scholar.google.com/citations?user=okjycNEAAAAJ&hl=de&oi=sra,Alejandro Buendia,Columbia University
+121,32,https://scholar.google.com/citations?user=_xWMxrQAAAAJ&hl=de&oi=sra,Hunter Lang,MIT
+122,33,https://scholar.google.com/citations?user=2eADy_8AAAAJ&hl=de&oi=sra,Edward Hu,Startseite
+123,33,https://scholar.google.com/citations?user=S6OFEFEAAAAJ&hl=de&oi=sra,Yelong Shen,Microsoft
+124,33,https://scholar.google.com/citations?user=8IqHSXYAAAAJ&hl=de&oi=sra,Phillip Wallis,Amazon
+125,33,https://scholar.google.com/citations?user=MoJFIiQAAAAJ&hl=de&oi=sra,Zeyuan Allen-Zhu （朱澤園）,Startseite
+126,33,https://scholar.google.com/citations?user=aHtfItQAAAAJ&hl=de&oi=sra,Yuanzhi Li,CMU
+127,34,https://scholar.google.com/citations?user=qJBXk9cAAAAJ&hl=de&oi=sra,Shunyu Yao,Princeton University
+128,34,https://scholar.google.com/citations?user=VyGrp0QAAAAJ&hl=de&oi=sra,Dian Yu,Google
+129,34,https://scholar.google.com/citations?user=LIG-4BcAAAAJ&hl=de&oi=sra,Jeffrey Zhao,Google
+130,34,https://scholar.google.com/citations?user=4gVbilMMp-AC&hl=de&oi=sra,Izhak Shafran,OHSU
+131,35,https://scholar.google.com/citations?user=Hm4XL1AAAAAJ&hl=de&oi=sra,Caleb Ziems,Stanford University
+132,35,https://scholar.google.com/citations?user=SP9VJNkAAAAJ&hl=de&oi=sra,William Held,Startseite
+133,35,https://scholar.google.com/citations?user=vdPcthgAAAAJ&hl=de&oi=sra,Omar Shaikh,Stanford University
+134,35,https://scholar.google.com/citations?user=Pi9IVvUAAAAJ&hl=de&oi=sra,Jiaao Chen,Georgia Institute of Technology
+135,35,https://scholar.google.com/citations?user=QG-BAGwAAAAJ&hl=de&oi=sra,Zhehao Zhang,Dartmouth College
+136,36,https://scholar.google.com/citations?user=8osGCyAAAAAJ&hl=de&oi=sra,Erik Nijkamp,Startseite
+137,36,https://scholar.google.com/citations?user=s9fNEVEAAAAJ&hl=de&oi=sra,BO PANG,UCLA
+138,36,https://scholar.google.com/citations?user=dhdP1fIAAAAJ&hl=de&oi=sra,Hiroaki Hayashi,Startseite
+139,36,https://scholar.google.com/citations?user=nSJrzBwAAAAJ&hl=de&oi=sra,Lifu Tu,Startseite
+140,36,https://scholar.google.com/citations?user=7NpTttkAAAAJ&hl=de&oi=sra,Huan Wang,Startseite
+142,37,https://scholar.google.com/citations?user=qZYvce8AAAAJ&hl=de&oi=sra,Haiyang Xu,SEU
+143,37,https://scholar.google.com/citations?user=bS8Ku4MAAAAJ&hl=de&oi=sra,Guohai Xu,Organization not found
+144,37,https://scholar.google.com/citations?user=6KltFMAAAAAJ&hl=de&oi=sra,Yiyang Zhou,Xi’an Jiaotong University
+145,37,https://scholar.google.com/citations?user=m4ro0NsAAAAJ&hl=de&oi=sra,Junyang Wang,Beijing Jiaotong University
+147,38,https://scholar.google.com/citations?user=GLMKUEwAAAAJ&hl=de&oi=sra,Qingfeng Sun,Microsoft
+148,38,https://scholar.google.com/citations?user=dxjqLjsAAAAJ&hl=de&oi=sra,Kai Zheng,Microsoft
+150,38,https://scholar.google.com/citations?user=G3kyd-MAAAAJ&hl=de&oi=sra,Pu Zhao,Organization not found
+151,38,https://scholar.google.com/citations?user=uYHmew8AAAAJ&hl=de&oi=sra,Jiazhan Feng,Peking University
+152,39,https://scholar.google.com/citations?user=GaYmpIgAAAAJ&hl=de&oi=sra,Xuechen Li,Stanford University
+154,39,https://scholar.google.com/citations?user=pouyVyUAAAAJ&hl=de&oi=sra,Percy Liang,Stanford University
+155,39,https://scholar.google.com/citations?user=5ygiTwsAAAAJ&hl=de&oi=sra,Tatsunori Hashimoto,Stanford
+156,40,https://scholar.google.com/citations?user=0r7Syh0AAAAJ&hl=de&oi=sra,Emilio Ferrara,University of Southern California
+157,41,https://scholar.google.com/citations?user=bO7H0DAAAAAJ&hl=de&oi=sra,Stella Biderman,Booz Allen Hamilton
+158,41,https://scholar.google.com/citations?user=XLahYIYAAAAJ&hl=de&oi=sra,Hailey Schoelkopf,Organization not found
+159,42,https://scholar.google.com/citations?user=XaeN2zgAAAAJ&hl=de&oi=sra,Yiqiu Shen,New York University
+161,43,https://scholar.google.com/citations?user=sRGO-EcAAAAJ&hl=de&oi=sra,Guangxuan Xiao,MIT
+162,43,https://scholar.google.com/citations?user=dVtzVVAAAAAJ&hl=de&oi=sra,Ji Lin,Startseite
+163,43,https://scholar.google.com/citations?user=q0HcS1YAAAAJ&hl=de&oi=sra,Mickael Seznec,NVIDIA
+166,44,https://scholar.google.com/citations?user=xaQuPloAAAAJ&hl=de&oi=sra,Dale Schuurmans,Startseite
+167,45,https://scholar.google.com/citations?user=VE5F0GIAAAAJ&hl=de&oi=sra,Wei Wei,University of Hong Kong
+168,45,https://scholar.google.com/citations?user=mxtvnNUAAAAJ&hl=de&oi=sra,Xubin Ren,University of Hong Kong
+169,45,https://scholar.google.com/citations?user=GUXIfJgAAAAJ&hl=de&oi=sra,Jiabin Tang,University of Hong Kong
+171,45,https://scholar.google.com/citations?user=UWL6KAcAAAAJ&hl=de&oi=sra,Lixin Su,Baidu Inc
+172,46,https://scholar.google.com/citations?user=xQucuooAAAAJ&hl=de&oi=sra,Laria Reynolds,Organization not found
+174,47,https://scholar.google.com/citations?user=i9-GzNYAAAAJ&hl=de&oi=sra,Valts Blukis,NVIDIA
+175,47,https://scholar.google.com/citations?user=fcA9m88AAAAJ&hl=de&oi=sra,Arsalan Mousavian,Startseite
+176,47,https://scholar.google.com/citations?user=RhN6jKIAAAAJ&hl=de&oi=sra,Ankit Goyal,NVIDIA
+179,48,https://scholar.google.com/citations?user=jVRSR5AAAAAJ&hl=de&oi=sra,Juro Gottweis,Google
+180,48,https://scholar.google.com/citations?user=ebpx7LAAAAAJ&hl=de&oi=sra,Rory Sayres,Google
+181,49,https://scholar.google.com/citations?user=ZEDT0-cAAAAJ&hl=de&oi=sra,Ali Madani,Startseite
+182,49,https://scholar.google.com/citations?user=ONNif60AAAAJ&hl=de&oi=sra,Ben Krause,Startseite
+183,49,https://scholar.google.com/citations?user=pKxedkEAAAAJ&hl=de&oi=sra,Eric R Greene,Organization not found
+186,50,https://scholar.google.com/citations?user=WXOaxKMAAAAJ&hl=de&oi=sra,Aston Zhang,Startseite
+187,50,https://scholar.google.com/citations?user=Z_WrhK8AAAAJ&hl=de&oi=sra,Mu Li,Amazon
+189,51,https://scholar.google.com/citations?user=faiFBhoAAAAJ&hl=de&oi=sra,Antonia Creswell,Startseite
+190,51,https://scholar.google.com/citations?user=00bnGpAAAAAJ&hl=de&oi=sra,Murray Shanahan,Imperial College London
+192,52,https://scholar.google.com/citations?user=01-XV0YAAAAJ&hl=de&oi=sra,Michal Kosinski,Stanford University
+193,53,https://scholar.google.com/citations?user=l3ZOsHkAAAAJ&hl=de&oi=sra,Maciej Besta,ETH Zurich
+194,53,https://scholar.google.com/citations?user=Ev70I7cAAAAJ&hl=de&oi=sra,Nils Blach,ETH Zurich
+196,54,https://scholar.google.com/citations?user=SL-AdukAAAAJ&hl=de&oi=sra,Zhiwei He,Shanghai Jiao Tong University
+197,54,https://scholar.google.com/citations?user=Z6bZcT4AAAAJ&hl=de&oi=sra,Tian Liang,Tsinghua University
+200,54,https://scholar.google.com/citations?user=4gH3sxsAAAAJ&hl=de&oi=sra,Yujiu Yang,Tsinghua university
+201,55,https://scholar.google.com/citations?user=X1Pm-y4AAAAJ&hl=de&oi=sra,Sami Sarsa,Aalto University
+202,55,https://scholar.google.com/citations?user=KS4THtEAAAAJ&hl=de&oi=sra,Paul Denny,University of Auckland
+203,55,https://scholar.google.com/citations?user=msHyuXsAAAAJ&hl=de&oi=sra,Arto Hellas,Aalto University
+204,55,https://scholar.google.com/citations?user=mRn2oboAAAAJ&hl=de&oi=sra,Juho Leinonen,Aalto University
+205,56,https://scholar.google.com/citations?user=WQevZugAAAAJ&hl=de&oi=sra,Morgan Cheatham,Brown University
+206,57,https://scholar.google.com/citations?user=PTYxORcAAAAJ&hl=de&oi=sra,Yining Hong,Startseite
+207,57,https://scholar.google.com/citations?user=_btLQY0AAAAJ&hl=de&oi=sra,Haoyu Zhen,Startseite
+208,57,https://scholar.google.com/citations?user=KkpEXpsAAAAJ&hl=de&oi=sra,Peihao Chen,UMass Amherst
+210,58,https://scholar.google.com/citations?user=OA_UdcIAAAAJ&hl=de&oi=sra,Taicheng Guo,University of Notre Dame
+211,58,https://scholar.google.com/citations?user=k1nZE2sAAAAJ&hl=de&oi=sra,Bozhao Nan,University of Notre Dame
+213,58,https://scholar.google.com/citations?user=BOFfWR0AAAAJ&hl=de&oi=sra,Zhichun Guo,University of Notre Dame
+214,59,https://scholar.google.com/citations?user=wYEAchYAAAAJ&hl=de&oi=sra,Yue Zhang,Soochow University
+215,59,https://scholar.google.com/citations?user=gEceD-sAAAAJ&hl=de&oi=sra,Yafu Li,Startseite
+216,59,https://scholar.google.com/citations?user=6YVwZgkAAAAJ&hl=de&oi=sra,Leyang Cui,Startseite
+217,59,https://scholar.google.com/citations?user=KpbRLYcAAAAJ&hl=de&oi=sra,Deng CAI,Chinese University of Hong Kong
+218,59,https://scholar.google.com/citations?user=lCvNOg4AAAAJ&hl=de&oi=sra,Lemao Liu,Startseite
+219,59,https://scholar.google.com/citations?user=bv_8Q_kAAAAJ&hl=de&oi=sra,Tingchen Fu,Renmin University of China
+221,60,https://scholar.google.com/citations?user=bGB6wacAAAAJ&hl=de&oi=sra,Yuqi Xie,University of Texas at Austin
+222,60,https://scholar.google.com/citations?user=s8Epvl4AAAAJ&hl=de&oi=sra,Yunfan Jiang,Stanford University
+223,60,https://scholar.google.com/citations?user=MEz23joAAAAJ&hl=de&oi=sra,Ajay Mandlekar,NVIDIA
+224,60,https://scholar.google.com/citations?user=Juoqtj8AAAAJ&hl=de&oi=sra,Chaowei Xiao,Startseite
+225,61,https://scholar.google.com/citations?user=h5XtaUUAAAAJ&hl=de&oi=sra,Dongxu Li,Startseite
+226,61,https://scholar.google.com/citations?user=ImpbxLsAAAAJ&hl=de&oi=sra,Silvio Savarese,Stanford University
+227,61,https://scholar.google.com/citations?user=JoLjflYAAAAJ&hl=de&oi=sra,Steven C.H. Hoi,SMU
+228,62,https://scholar.google.com/citations?user=8nBHC24AAAAJ&hl=de&oi=sra,Mike Perkins,Startseite
+229,63,https://scholar.google.com/citations?user=sw4Brb4AAAAJ&hl=de&oi=sra,Francesco Baglivo,Startseite
+230,63,https://scholar.google.com/citations?user=eKppf-IAAAAJ&hl=de&oi=sra,Guglielmo Arzilli,University of Pisa
+231,63,https://scholar.google.com/citations?user=NHAY_moAAAAJ&hl=de&oi=sra,g privitera,University of Pisa
+232,64,https://scholar.google.com/citations?user=IGZZD-UAAAAJ&hl=de&oi=sra,Brady D. Lund,University of North Texas
+233,64,https://scholar.google.com/citations?user=G6WnomcAAAAJ&hl=de&oi=sra,Ting Wang,Emporia State University
+234,64,https://scholar.google.com/citations?user=NUhho98AAAAJ&hl=de&oi=sra,Nishith Reddy Mannuru,Univeristy of North Texas
