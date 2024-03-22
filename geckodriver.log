@@ -2276,3 +2276,108 @@ console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1
 2024-03-21 12:37:52.379 plugin-container[11364:285545] nil host used in call to allowsSpecificHTTPSCertificateForHost
 2024-03-21 12:37:52.379 plugin-container[11364:285545] nil host used in call to allowsAnyHTTPSCertificateForHost:
 1711024699463	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1711097078512	Marionette	INFO	Stopped listening on port 57058
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1711124516035	geckodriver	INFO	Listening on 127.0.0.1:52099
+1711124517021	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y3/hkwhgtbj1z31vjtr5ty2f5ww0000gn/T/rust_mozprofile6KWpGm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1711124518166	Marionette	INFO	Marionette enabled
+1711124518422	Marionette	INFO	Listening on port 52110
+1711124518499	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2024-03-22 17:21:59.302 plugin-container[4935:123840] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-22 17:21:59.302 plugin-container[4935:123840] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-22 17:21:59.369 plugin-container[4935:123840] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-22 17:21:59.369 plugin-container[4935:123840] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-22 17:21:59.369 plugin-container[4935:123841] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-22 17:21:59.369 plugin-container[4935:123841] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-22 16:22:00.910 plugin-container[4946:124023] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-22 16:22:00.910 plugin-container[4946:124023] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-22 16:22:00.917 plugin-container[4946:124023] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-22 16:22:00.917 plugin-container[4946:124023] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-22 16:22:00.918 plugin-container[4946:124042] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-22 16:22:00.918 plugin-container[4946:124042] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: http://retractiondatabase.org/JS/Main.js?v=1, line 8: ReferenceError: f is not defined
+1711124548332	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1711124582783	geckodriver	INFO	Listening on 127.0.0.1:52171
+1711124583795	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y3/hkwhgtbj1z31vjtr5ty2f5ww0000gn/T/rust_mozprofileWTOiJI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1711124584757	Marionette	INFO	Marionette enabled
+1711124584969	Marionette	INFO	Listening on port 52182
+1711124585042	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2024-03-22 17:23:05.122 plugin-container[4969:124802] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-22 17:23:05.122 plugin-container[4969:124802] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-22 17:23:05.131 plugin-container[4969:124802] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-22 17:23:05.131 plugin-container[4969:124802] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-22 17:23:05.131 plugin-container[4969:124826] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-22 17:23:05.131 plugin-container[4969:124826] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-22 16:23:07.342 plugin-container[4973:125005] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-22 16:23:07.343 plugin-container[4973:125005] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-22 16:23:07.348 plugin-container[4973:125005] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-22 16:23:07.349 plugin-container[4973:125005] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-22 16:23:07.349 plugin-container[4973:125026] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-22 16:23:07.349 plugin-container[4973:125026] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: http://retractiondatabase.org/JS/Main.js?v=1, line 8: ReferenceError: f is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://retractiondatabase.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://retractiondatabase.org."
+1711124614783	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: http://retractiondatabase.org/JS/Main.js?v=1, line 8: ReferenceError: f is not defined
+1711124726096	geckodriver	INFO	Listening on 127.0.0.1:52257
+1711124727110	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y3/hkwhgtbj1z31vjtr5ty2f5ww0000gn/T/rust_mozprofileOHGifX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1711124728175	Marionette	INFO	Marionette enabled
+1711124728392	Marionette	INFO	Listening on port 52264
+1711124728472	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2024-03-22 17:25:28.542 plugin-container[5021:126654] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-22 17:25:28.543 plugin-container[5021:126654] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-22 17:25:28.550 plugin-container[5021:126654] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-22 17:25:28.550 plugin-container[5021:126654] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-22 17:25:28.551 plugin-container[5021:126659] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-22 17:25:28.551 plugin-container[5021:126659] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-22 16:25:30.798 plugin-container[5025:126898] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-22 16:25:30.799 plugin-container[5025:126898] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-22 16:25:30.806 plugin-container[5025:126898] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-22 16:25:30.806 plugin-container[5025:126898] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-22 16:25:30.807 plugin-container[5025:126913] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-22 16:25:30.807 plugin-container[5025:126913] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: http://retractiondatabase.org/JS/Main.js?v=1, line 8: ReferenceError: f is not defined
+1711124760252	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1711124931402	geckodriver	INFO	Listening on 127.0.0.1:52343
+1711124932417	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y3/hkwhgtbj1z31vjtr5ty2f5ww0000gn/T/rust_mozprofileX5m9YM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1711124933324	Marionette	INFO	Marionette enabled
+1711124933608	Marionette	INFO	Listening on port 52350
+1711124933690	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2024-03-22 17:28:53.777 plugin-container[5076:129097] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-22 17:28:53.778 plugin-container[5076:129097] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-22 17:28:53.783 plugin-container[5076:129097] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-22 17:28:53.783 plugin-container[5076:129097] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-22 17:28:53.784 plugin-container[5076:129094] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-22 17:28:53.784 plugin-container[5076:129094] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-22 16:28:55.987 plugin-container[5080:129312] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-22 16:28:55.988 plugin-container[5080:129312] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-22 16:28:55.995 plugin-container[5080:129312] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-22 16:28:55.995 plugin-container[5080:129312] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-03-22 16:28:55.995 plugin-container[5080:129327] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-03-22 16:28:55.996 plugin-container[5080:129327] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: http://retractiondatabase.org/JS/Main.js?v=1, line 8: ReferenceError: f is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://retractiondatabase.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://retractiondatabase.org."
+JavaScript error: http://retractiondatabase.org/JS/Main.js?v=1, line 8: ReferenceError: f is not defined
+1711124963718	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3770: TypeError: this._windows[aWindow.__SSi] is undefined
+1711125000188	Marionette	INFO	Stopped listening on port 52110
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1711125002821	Marionette	INFO	Stopped listening on port 52182
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1711125004504	Marionette	INFO	Stopped listening on port 52264
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1711125006876	Marionette	INFO	Stopped listening on port 52350
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
